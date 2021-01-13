@@ -1,5 +1,5 @@
 ---
-title: presentations
+title:''
 permalink: /presentations/
 layout: page
 excerpt: Makoto Kelp presentations

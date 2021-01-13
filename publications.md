@@ -1,5 +1,5 @@
 ---
-title: publications
+title:''
 permalink: /publications/
 layout: page
 excerpt: Makoto Kelp publications

@@ -1,5 +1,5 @@
 ---
-title: curriculum vitae
+title:''
 permalink: /CV/
 layout: page
 excerpt: Makoto Kelp CV
