@@ -1,0 +1,24 @@
+- title: home
+  url: /
+  external: false
+
+- title: curriculum vitae
+  url: /CV/
+  external: false
+
+- title: publications
+  url: /publications/
+  external: false
+
+- title: presentations
+  url: /presentations/
+  external: false
+
+# - title: about
+#   url: /about/
+#   external: false # set true if you using external link, see below
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
