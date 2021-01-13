@@ -5,7 +5,7 @@ layout: page
 excerpt: Makoto Kelp publications
 comments: false
 ---
-# **Peer-Reviewed Publications**
+# Peer-Reviewed Publications
 
 ## **2020**
 

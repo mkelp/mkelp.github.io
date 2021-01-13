@@ -5,7 +5,7 @@ layout: page
 excerpt: Makoto Kelp presentations
 comments: false
 ---
-# **Select Conference Presentations**
+# Select Conference Presentations
 
 ## **2021**
 
