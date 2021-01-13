@@ -10,7 +10,7 @@ comments: false
 ## **2021**
 
 `8.` **M. Kelp**, D.J. Jacob. A recursive neural network chemical solver for fast long-term global
-simulations of atmospheric composition, AMS Annual Meeting, Virtual, January 13, 2021 ([Talk](here){:target="_blank"})
+simulations of atmospheric composition, AMS Annual Meeting, Virtual, January 13, 2021 ([Talk](/assets/mkelpAMS2021.pdf){:target="_blank"})
 
 ## **2020**
 
