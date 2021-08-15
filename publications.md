@@ -1,11 +1,10 @@
 ---
-title:''
+title:'Peer-Reviewed Publications'
 permalink: /publications/
 layout: page
 excerpt: Makoto Kelp publications
 comments: false
 ---
-# Peer-Reviewed Publications
 
 ## **2020**
 
