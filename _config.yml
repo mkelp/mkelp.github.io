@@ -12,9 +12,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Makoto Kelp # author name
   bio: >- # tell to the world
-    PhD student whose research blends atmospheric chemistry and machine learning to achieve
-    speedups in air quality models, improved chemical data assimilation for forecasting,
-    and solutions to inverse problems within complex chemical transport models
+    PhD student whose research blends atmospheric chemistry with machine learning and data-driven methods to
+    uncover latent patterns in air pollution
 
   username: mkelp # general username
   github: mkelp # github username
