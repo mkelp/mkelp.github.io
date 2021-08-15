@@ -6,7 +6,8 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-**Peer-Reviewed Publications**
+
+##**Peer-Reviewed Publications**
 
 ### **2020**
 
@@ -42,5 +43,5 @@ the Columbia River Gorge, Washington State, USA”, *Atmospheric Pollution Resea
 DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
 
 
-### **ArXiv Preprints**
+## **ArXiv Preprints**
 `1.` **Kelp, M.**, Tessum, C., Marshall, J.D., 2018, “Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation”, arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
