@@ -7,9 +7,13 @@ comments: false
 ---
 <!-- ## Select Conference Presentations -->
 
+## **2022**
+
+`9.` **M. Kelp**, D.J. Jacob, H. Lin. An Online-Learned Neural Network Chemical Solver for Stable and Long-Term Global Simulations of Atmospheric Chemistry in S2S Applications, {\sl AMS Annual Meeting}, January 23-27, 2022 {\sl upcoming}
+
 ## **2021**
 
-`8.` **M. Kelp**, D.J. Jacob. A recursive neural network chemical solver for fast long-term global
+`8.` **M. Kelp**, D.J. Jacob, H. Lin. A recursive neural network chemical solver for fast long-term global
 simulations of atmospheric composition, AMS Annual Meeting, Virtual, January 13, 2021 ([Talk](/assets/mkelpAMS2021.pdf){:target="_blank"})
 
 ## **2020**
