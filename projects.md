@@ -15,7 +15,7 @@ Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatny
 </figure>
 
 <figure>
-<img src="/assets/img/badlands3.jpg" alt="shell">
+<img src="/assets/img/badlandx" alt="shell">
 <figcaption>Fig 4. bagian-bagin dari shell prompt.</figcaption>
 </figure>
 
