@@ -1,5 +1,5 @@
 ---
-title: projects
+title: ''
 permalink: /projects/
 layout: post
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
@@ -7,6 +7,10 @@ comments: false
 image: assets/img/badlands3.jpg
 
 ---
+
+
+## **Current Projects**
+
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
 
 <figure>
@@ -19,54 +23,8 @@ Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatny
 <figcaption>Fig 4. bagian-bagin dari shell prompt.</figcaption>
 </figure>
 
+## **Past Projects**
 
-
-Ada dua cara untuk memperbarui forked repository menggunakan web interface yang disediakan oleh github tapi ribet, atau melalui terminal yang lebih ribet lagi.
-
-### Melalui Github (boring way) 💻
-
-1. Buka repo yang hasil fork di Github.
-1. Klik **Pull Requests** di sebelah kanan, lalu **New Pull Request**.
-1. Akan memunculkan hasil compare antara repo upstream dengan repo kamu(forked repo), dan jika menyatakan "There isn’t anything to compare.", tekan link **switching the base**, yang mana sekarang repo kamu(forked repo) akan dibalik menjadi base repo dan repo upstream menjadi head repo.
-1. Tekan **Create Pull Request**, beri judul pull request, Tekan **Send Pull Request**.
-1. Tekan **Merge Pull Request** dan **Confirm Merge**.
-
-\* _pastikan kamu tidak merubah apapun pada forked repo, supaya melakukan merge secara otomatis, kalo tidak ya paling2 konflik._
-
-### Melalui terminal ⌨️
-
-Tambahkan remote alamat repository yang aslinya disini tak beri nama `upstream`., ganti `ORIGINAL_OWNER` dan `ORIGINAL_REPO` dengan alamat repo aslimu.
-
-```bash
-$ git add remote upstream git@github.com:ORIGINAL_OWNER/ORIGINAL_REPO.git
-$ git remote -v
-> origin    git@github.com:piharpi/www.git (fetch) # forked repo
-> origin    git@github.com:piharpi/www.git (push) # forked repo
-> upstream    git@github.com:ORIGINAL_OWNER/ORIGINAL_REPO.git (fetch) # upstream repo / original repo
-> upstream    git@github.com:ORIGINAL_OWNER/ORIGINAL_REPO.git (push) # upstream repo / original repo
-```
-
-Checkout ke local branch `master`.
-
-```bash
-$ git checkout master
-> Switched to branch 'master'
-```
-
-Jika sudah, Merge local repo dengan remote `upstream/master`.
-
-```bash
-$ git merge upstream/master
-```
-
-Terakhir push local repo ke remote `origin`.
-
-```bash
-$ git add -A
-$ git commit -m "updating origin repo" && git push -u origin master
-```
-
-Selamat mencoba cara ribet ini, semoga bisa dipahami, saya sendiri lebih senang melalui terminal, klo ada yang ribet kenapa cari yang mudah.
 
 ##### Resources
 
