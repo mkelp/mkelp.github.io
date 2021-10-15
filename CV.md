@@ -5,7 +5,7 @@ layout: page
 excerpt: Makoto Kelp CV
 comments: false
 ---
-###  I am interested in applying data-driven science to lift barriers in atmospheric chemistry modeling and air pollution monitoring.
+####  I am interested in applying data-driven science to lift barriers in atmospheric chemistry modeling and air pollution monitoring.
 
 I am a fourth-year Ph.D. student working with Prof. Daniel Jacob in the [Atmospheric Chemistry Modeling Group](http://acmg.seas.harvard.edu/index.html){:target="_blank"} at Harvard University. I focus on using machine learning to expand the capabilties of atmospheric chemistry models, and developing modal decomposition techniques to determine the optimal placement of air quality sensors.
 
