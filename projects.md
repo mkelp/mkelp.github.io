@@ -4,6 +4,8 @@ permalink: /projects/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
+image: assets/img/badlands3.jpg
+
 ---
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
 
@@ -12,8 +14,6 @@ Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatny
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
-
-image: assets/img/badlands3.jpg
 
 Ada dua cara untuk memperbarui forked repository menggunakan web interface yang disediakan oleh github tapi ribet, atau melalui terminal yang lebih ribet lagi.
 
