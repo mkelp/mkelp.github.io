@@ -18,10 +18,6 @@ Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatny
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
-<figure>
-<img src="/assets/img/badlandx" alt="shell">
-<figcaption>Fig 4. bagian-bagin dari shell prompt.</figcaption>
-</figure>
 
 ## **Past Projects**
 
