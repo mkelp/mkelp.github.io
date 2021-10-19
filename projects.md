@@ -45,8 +45,7 @@ Publication: [Kelp et al., (2018)](https://www.sciencedirect.com/science/article
 
 <figure>
 <img src="/assets/img/cookstove_fig.jpg" alt="cookstove fig" width="400">
-<figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up.
-.</figcaption>
+<figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up. align="right" </figcaption>
 </figure>
 
 #### Measuring coal dust from trains in the Columbia River Gorge, WA
