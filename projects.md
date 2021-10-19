@@ -44,7 +44,7 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 Publication: [Kelp et al., (2018)](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
 
 <figure>
-<img src="/assets/img/cookstove_fig.jpg" alt="ilustrasi repo yang mau diupdate">
+<img src="/assets/img/cookstove_fig.jpg" alt="ilustrasi repo yang mau diupdate" width="400" height="790">
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
