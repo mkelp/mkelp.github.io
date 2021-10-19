@@ -9,7 +9,7 @@ image: assets/img/badlands3.jpg
 ---
 
 
-## **Current Projects**
+# **Current Projects**
 
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
 
@@ -19,7 +19,7 @@ Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatny
 </figure>
 
 
-## **Past Projects**
+# **Past Projects**
 
 
 #### Vehicle emission factors for area-wide mobile monitoring
@@ -67,9 +67,3 @@ Publication: [Jaffe et al., (2015)](https://www.sciencedirect.com/science/articl
 
 Teaming up with the Oregon Department of Environmental Quality, I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an [EPA validated method sampling site](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view). We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) towards elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution from the Bullseye Glass
 Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products.
-
-
-##### Resources
-
-- [Syncing a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
-- [Update your fork directly on Github](https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/#top)
