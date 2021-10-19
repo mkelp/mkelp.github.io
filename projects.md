@@ -28,13 +28,25 @@ On-road vehicle emissions are a significant source of outdoor air pollution whic
 
 We apply a statistical model (absolute principal components score; APCS) to measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of urban neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. The APCS model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
 
+Publication: [Kelp et al., (2020)](https://www.sciencedirect.com/science/article/pii/S1352231019308519){:target="_blank"}, [Wen et al., (2019)](https://www.sciencedirect.com/science/article/pii/S0048969719317140){:target="_blank"}
+
+<figure>
+<img src="/assets/img/LA_roads_fig.png" alt="ilustrasi repo yang mau diupdate">
+<figcaption>Fig 1. Gambaran ribetnya.</figcaption>
+</figure>
 
 #### Indoor air pollution from cookstove intervention in rural South India
 
-Biomass combustion in residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM2.5, black carbon (BC) and carbon monoxide (CO) in households using newer, carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM2.5 but increased BC concentration during cooking-relevant hours-of-day relative to the traditional stoves.
+Biomass combustion in residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM2.5, black carbon (BC) and carbon monoxide (CO) in households using carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM2.5 but increased BC concentrations relative to the traditional stoves.
 
-Although lab studies have clearly demonstrated the potential benefits of cookstove interventions, demonstrating these same benefits in real households has proven to be more complex. This work suggests that reduction in indoor pollution from intervention cookstoves might not be occurring in practice to the same extent as is expected from lab evaluation, and that benefits from such interventions should not be assumed.
+Although lab studies have clearly demonstrated the potential benefits of cookstove interventions, demonstrating these same benefits in real households is more complex. This work suggests that reduction in indoor pollution from intervention cookstoves might not be occurring in practice to the same extent as is expected from lab evaluation, and that benefits from such interventions should not be assumed.
 
+Publication: [Kelp et al., (2018)](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
+
+<figure>
+<img src="/assets/img/cookstove_fig.jpg" alt="ilustrasi repo yang mau diupdate">
+<figcaption>Fig 1. Gambaran ribetnya.</figcaption>
+</figure>
 
 #### Measuring coal dust from trains in the Columbia River Gorge, Washington State
 
@@ -42,8 +54,12 @@ Trains powered by diesel fuel travel through the Columbia River Gorge as well as
 
 We examined the emissions of diesel particulate matter and coal dust from trains in the Columbia River Gorge during summer 2014 and found that the passage of a diesel powered open-top coal train results in nearly twice as much respirable PM2.5 compared to the passage of a diesel-powered freight train not carrying coal. We also witnessed multiple “super-duster” events where the coal dust emissions led to visible dust plumes and the highest PM2.5 concentrations observed in our study.
 
+Publication: [Jaffe et al., (2015)](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
 
-
+<figure>
+<img src="/assets/img/gorge_fig.png" alt="ilustrasi repo yang mau diupdate">
+<figcaption>Fig 1. Gambaran ribetnya.</figcaption>
+</figure>
 
 
 ##### Resources
