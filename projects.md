@@ -63,6 +63,11 @@ Publication: [Jaffe et al., (2015)](https://www.sciencedirect.com/science/articl
 <figcaption> Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
 </figure>
 
+#### Actionable sampling: Heavy metals air quality monitoring in Portland, OR
+
+Teaming up with the Oregon Department of Environmental Quality, I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an [EPA validated method sampling site](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view). We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) towards elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution from the Bullseye Glass
+Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products.
+
 
 ##### Resources
 
