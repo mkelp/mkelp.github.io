@@ -42,6 +42,12 @@ Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min 
 </figcaption>
 </figure>
 
+#### Actionable sampling: Heavy metals air quality monitoring in Portland, OR
+
+Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA-validated method sampling site. We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) towards elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution from the Bullseye Glass Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority and are supported by Governor Kate Brown.
+
+**Publication**: [DEQ certification](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view)
+
 #### Measuring coal dust from trains in the Columbia River Gorge, WA
 
 Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic for people living near rail lines is hampered by a lack of data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> concentrations and the exposure to humans from diesel trains, we sought to measure these air quality effects.
@@ -54,9 +60,3 @@ We examined the emissions of diesel particulate matter and coal dust from trains
 <img src="/assets/img/gorge_fig.png" alt="train fig">
 <figcaption> Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
 </figure>
-
-#### Actionable sampling: Heavy metals air quality monitoring in Portland, OR
-
-Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA validated method sampling site. We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) towards elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution from the Bullseye Glass Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products. Our monitoring helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority and are supported by Governor Kate Brown.
-
-**Publication**:[DEQ certification](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view)
