@@ -21,6 +21,8 @@ image: assets/img/badlands3.jpg
 <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada).</figcaption>
 </figure>
 
+#
+
 On-road vehicle emissions are a significant source of outdoor air pollution which pose a severe human health risk, especially for those who live near busy roads. A city's vehicle fleet population can determine the levels of risk and exposure for residences as emissions differ for gasoline- vs. diesel-powered vehicles. Most research sampling mobile source emissions in urban traffic involve “vehicle chase” studies of exhaust plumes from individual vehicles which may not be representative of the average emissions for a given area.
 
 We apply a statistical model (absolute principal components score; APCS) to measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of urban neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. The APCS model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
