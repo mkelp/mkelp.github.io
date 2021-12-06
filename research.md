@@ -38,15 +38,13 @@ incorporates the variability of PM<sub>2.5</sub> on timescales ranging from one 
 capture air pollution variability. We find that the mrDMD algorithm identifies a large number of
 high-priority sensor locations in the western United States, but a significantly lower density of
 sensors than expected along the eastern coast, where a large number of EPA PM<sub>2.5</sub> monitors
-currently reside. Specifically, 69% of mrDMD optimized sensor locations are west of St. Louis,
-MO, compared to only 48% for the current EPA network. We identify gaps in the current EPA
-monitoring network and recommend adding sensors in the San Joaquin Valley in California,
+currently reside. We identify gaps in the current EPA monitoring network and recommend adding sensors in the San Joaquin Valley in California,
 northern California, and the Pacific Northwest (Idaho and eastern Washington and Oregon). We
 find that such a distribution of air quality sensors could better monitor smoke pollution from
 wildfires in the West. We plan to apply our model framework to urban areas to achieve more
 equitable placement of PM<sub>2.5</sub> monitors.
 
-*Publications**: in-prep
+**Publications**: in-prep
 
 
 # **Past Projects**
