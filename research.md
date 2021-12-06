@@ -24,7 +24,7 @@ Global models of atmospheric chemistry are computationally expensive. A bottlene
 **Publications**: [Kelp et al., (2021) *submitted to JAMES*](https://eartharxiv.org/repository/view/2886/){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
 
-<font size="+1"><p align="center"><strong>Optimal placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
+<font size="+0.5"><p align="center"><strong>Optimal placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
 
 <figure>
 <img src="/assets/img/west_sensors.jpg" alt="sensors fig">
@@ -57,7 +57,7 @@ equitable placement of PM<sub>2.5</sub> monitors.
 # **Past Projects**
 
 
-<font size="+1"><p align="center"><strong>Vehicle emission factors for area-wide mobile monitoring</strong></p></font>
+<font size="+0.5"><p align="center"><strong>Vehicle emission factors for area-wide mobile monitoring</strong></p></font>
 
 <figure>
 <img src="/assets/img/LA_roads_fig.png" alt="LA fig">
@@ -74,7 +74,7 @@ We apply a statistical model (absolute principal components score; APCS) to meas
 
 
 
-<font size="+1"><p align="center"><strong>Indoor air pollution from cookstove intervention in rural South India</strong></p></font>
+<font size="+0.5"><p align="center"><strong>Indoor air pollution from cookstove intervention in rural South India</strong></p></font>
 
 <figure>
 <img src="/assets/img/cookstove_fig.jpg" alt="cookstove fig" width="400">
@@ -91,7 +91,7 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 
 **Publication**: [Kelp et al., (2018)](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
 
-<font size="+1"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font>
+<font size="+0.5"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font>
 
 <figure>
 <img src="/assets/img/arsenic_monitoring.png" alt="train fig">
@@ -103,7 +103,7 @@ Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an a
 
 **Publication**: [EPA-DEQ certification](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view)
 
-<font size="+1"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font>
+<font size="+0.5"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font>
 
 <figure>
 <img src="/assets/img/gorge_fig.png" alt="train fig">
