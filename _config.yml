@@ -11,9 +11,11 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Makoto Kelp # author name
-  bio: | # tell to the world
-    PhD student @ Harvard Earth and Planetary Sciences |
-    My research applies data-driven science to lift barriers in atmospheric chemistry modeling |
+  bio: |- # tell to the world
+    PhD student @ Harvard Earth and Planetary Sciences
+
+    My research applies data-driven science to lift barriers in atmospheric chemistry modeling
+    
     and to uncover disparities in air pollution monitoring
 
   username: mkelp # general username
