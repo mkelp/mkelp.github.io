@@ -22,7 +22,6 @@ image: assets/img/badlands3.jpg
 </figure>
 
 <br />
-<br />
 
 On-road vehicle emissions are a significant source of outdoor air pollution which pose a severe human health risk, especially for those who live near busy roads. A city's vehicle fleet population can determine the levels of risk and exposure for residences as emissions differ for gasoline- vs. diesel-powered vehicles. Most research sampling mobile source emissions in urban traffic involve “vehicle chase” studies of exhaust plumes from individual vehicles which may not be representative of the average emissions for a given area.
 
@@ -38,6 +37,8 @@ We apply a statistical model (absolute principal components score; APCS) to meas
 Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up.
 </figcaption>
 </figure>
+
+<br />
 
 Biomass combustion in residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM<sub>2.5</sub>, black carbon (BC) and carbon monoxide (CO) in households using carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM<sub>2.5</sub> but increased BC concentrations relative to the traditional stoves.
 
@@ -57,6 +58,8 @@ Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an a
 <img src="/assets/img/gorge_fig.png" alt="train fig">
 <figcaption> Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
 </figure>
+
+<br />
 
 Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic for people living near rail lines is hampered by a lack of data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> concentrations and the exposure to humans from diesel trains, we sought to measure these air quality effects.
 
