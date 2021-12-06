@@ -10,6 +10,18 @@ image: assets/img/badlands3.jpg
 
 # **Current Projects**
 
+#### Machine-learned atmospheric chemistry solver   
+
+<figure>
+<img src="/assets/img/onlineNN.pdf" alt="online NN fig">
+<figcaption>Simulation of surface ozone by different ML solvers. The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard implicit solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
+</figure>
+
+<br />
+
+Global models of atmospheric chemistry are computationally expensive. A bottleneck is the chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. However, past work found that ML chemical solvers experience rapid error growth and become unstable over time. My current work aims to achieve for the first time a stable full-year global simulation of atmospheric chemistry with a ML solver. We show that online training of the ML solver synchronously with an atmospheric chemistry model simulation produces considerably more stable results than offline training it from a static dataset of simulation results. Although our work represents an important step for using ML solvers in global atmospheric chemistry models, more work is needed to extend it to large chemical mechanisms and to reduce errors during long-term chemical aging.
+
+**Publications**: [Kelp et al., (2021) submitted to JAMES](https://eartharxiv.org/repository/view/2886/){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
 # **Past Projects**
 
@@ -17,7 +29,7 @@ image: assets/img/badlands3.jpg
 #### Vehicle emission factors for area-wide mobile monitoring
 
 <figure>
-<img src="/assets/img/LA_roads_fig.png" alt="ilustrasi repo yang mau diupdate">
+<img src="/assets/img/LA_roads_fig.png" alt="LA fig">
 <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada).</figcaption>
 </figure>
 
