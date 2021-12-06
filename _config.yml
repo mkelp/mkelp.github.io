@@ -11,11 +11,16 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Makoto Kelp # author name
-  bio: | # tell to the world
+  bio: > # tell to the world
     PhD student whose research blends atmospheric
     chemistry with machine learning and
     data-driven methods to
     uncover latent patterns in air pollution
+
+
+  # PhD Student @ Harvard University Earth and Planetary Sciences\
+  # My research applies data-driven science to lift barriers in atmospheric chemistry modeling and uncover disparities in air pollution monitoring
+
 
   username: mkelp # general username
   github: mkelp # github username
