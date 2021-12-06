@@ -26,6 +26,13 @@ Global models of atmospheric chemistry are computationally expensive. A bottlene
 
 #### Optimal placement of PM<sub>2.5</sub> air quality sensors
 
+<figure>
+<img src="/assets/img/west_sensors.jpg" alt="sensors fig">
+<figcaption>PM<sub>2.5</sub> sensor locations in the West. Comparison of sensor locations for the EPA
+monitoring network and the mrDMD algorithm. Small grey patches in the Southwest and Pacific Northwest reflect grid cells with missing or corrupted data that were discarded from this analysis.</figcaption>
+</figure>
+
+<br />
 
 Considerable financial resources are allocated for measuring ambient air pollution in the United
 States, yet the locations for these monitoring sites may not be optimized to capture the full extent
