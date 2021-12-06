@@ -6,7 +6,7 @@ lang: en-US # default lang
 timezone: EST # set your timezone
 image: assets/img/badlands3.jpg # This image used for Open Graph more info https://ogp.me/
 # repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
