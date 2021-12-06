@@ -14,9 +14,9 @@
   url: /publications/
   external: false
 
-- title: presentations
-  url: /presentations/
-  external: false
+# - title: presentations
+#   url: /presentations/
+#   external: false
 
 # - title: about
 #   url: /about/
