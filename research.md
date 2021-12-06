@@ -1,6 +1,6 @@
 ---
 title: ''
-permalink: /projects/
+permalink: /research/
 layout: post
 comments: false
 image: assets/img/badlands3.jpg
@@ -21,7 +21,6 @@ image: assets/img/badlands3.jpg
 <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada).</figcaption>
 </figure>
 
-<br />
 <br />
 <br />
 
