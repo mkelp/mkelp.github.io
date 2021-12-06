@@ -23,6 +23,32 @@ Global models of atmospheric chemistry are computationally expensive. A bottlene
 
 **Publications**: [Kelp et al., (2021) *submitted to JAMES*](https://eartharxiv.org/repository/view/2886/){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
+
+#### Optimal placement of PM<sub>2.5</sub> air quality sensors
+
+
+Considerable financial resources are allocated for measuring ambient air pollution in the United
+States, yet the locations for these monitoring sites may not be optimized to capture the full extent
+of current pollution variability. Prior research on best sensor placement for monitoring fine
+particulate matter (PM<sub>2.5</sub>) pollution is scarce: studies do not span an area larger than a medium-
+sized urban city or on timescales longer than one week. My current work leverages a
+novel approach, multiresolution modal decomposition (mrDMD), to identify the optimal
+placement of PM<sub>2.5</sub> sensors from 2000-2016 over the contiguous United States. This approach
+incorporates the variability of PM<sub>2.5</sub> on timescales ranging from one day to over a decade to
+capture air pollution variability. We find that the mrDMD algorithm identifies a large number of
+high-priority sensor locations in the western United States, but a significantly lower density of
+sensors than expected along the eastern coast, where a large number of EPA PM<sub>2.5</sub> monitors
+currently reside. Specifically, 69% of mrDMD optimized sensor locations are west of St. Louis,
+MO, compared to only 48% for the current EPA network. We identify gaps in the current EPA
+monitoring network and recommend adding sensors in the San Joaquin Valley in California,
+northern California, and the Pacific Northwest (Idaho and eastern Washington and Oregon). We
+find that such a distribution of air quality sensors could better monitor smoke pollution from
+wildfires in the West. We plan to apply our model framework to urban areas to achieve more
+equitable placement of PM<sub>2.5</sub> monitors.
+
+*Publications**: in-prep
+
+
 # **Past Projects**
 
 
