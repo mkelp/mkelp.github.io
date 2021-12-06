@@ -23,6 +23,7 @@ Global models of atmospheric chemistry are computationally expensive. A bottlene
 
 **Publications**: [Kelp et al., (2021) *submitted to JAMES*](https://eartharxiv.org/repository/view/2886/){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
+<br />
 
 <font size="+0.5"><p align="center"><strong>Optimal placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
 
@@ -53,6 +54,7 @@ equitable placement of PM<sub>2.5</sub> monitors.
 
 **Publication**: in-prep
 
+<br />
 
 # **Past Projects**
 
@@ -72,7 +74,7 @@ We apply a statistical model (absolute principal components score; APCS) to meas
 
 **Publications**: [Kelp et al., (2020)](https://www.sciencedirect.com/science/article/pii/S1352231019308519){:target="_blank"}, [Wen et al., (2019)](https://www.sciencedirect.com/science/article/pii/S0048969719317140){:target="_blank"}
 
-
+<br />
 
 <font size="+0.5"><p align="center"><strong>Indoor air pollution from cookstove intervention in rural South India</strong></p></font>
 
@@ -91,6 +93,8 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 
 **Publication**: [Kelp et al., (2018)](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
 
+<br />
+
 <font size="+0.5"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font>
 
 <figure>
@@ -102,6 +106,8 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA-validated method sampling site. We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) towards elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution from the Bullseye Glass Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority and are supported by Governor Kate Brown.
 
 **Publication**: [EPA-DEQ certification](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view)
+
+<br />
 
 <font size="+0.5"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font>
 
