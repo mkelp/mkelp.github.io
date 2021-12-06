@@ -14,7 +14,7 @@ Williams, L. R., Croteau, P. L., Jayne, J. T., Ng., N. L. “Understanding the s
 pollution using low-cost air quality sensors”, *submitted to ES&T*
 - **Kelp, M.**, Jacob, D.J., Lin, H., Sulprizio, M.P. “An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry”, *submitted to JAMES*
-- **Kelp, M.**, Lin, S., Kutz, J.N., Mickley, L.J. “A new approach for optimal placement of PM2.5
+- **Kelp, M.**, Lin, S., Kutz, J.N., Mickley, L.J. “A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States”, *in prep*
 
 
