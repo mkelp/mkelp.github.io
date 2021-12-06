@@ -10,7 +10,7 @@ image: assets/img/badlands3.jpg
 
 # **Current Projects**
 
-<p align="center"><strong>Machine-learned atmospheric chemistry solver<strong></p>
+<p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p>
 
 <figure>
 <img src="/assets/img/onlineNN.png" alt="online NN fig">
