@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Makoto Kelp # author name
   bio:
-    "PhD student @ Harvard Earth and Planetary Sciences<br>My research applies data-driven science to lift barriers in atmospheric chemistry modeling<br>and to uncover disparities in air pollution monitoring"
+    "PhD student @ Harvard University Earth and Planetary Sciences<br>My research applies data-driven science to lift barriers in atmospheric chemistry modeling and to uncover disparities in air pollution monitoring"
 
   username: mkelp # general username
   github: mkelp # github username
