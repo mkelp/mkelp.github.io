@@ -51,7 +51,7 @@ find that such a distribution of air quality sensors could better monitor smoke 
 wildfires in the West. We plan to apply our model framework to urban areas to achieve more
 equitable placement of PM<sub>2.5</sub> monitors.
 
-**Publications**: in-prep
+**Publication**: in-prep
 
 
 # **Past Projects**
