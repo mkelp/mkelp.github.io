@@ -35,18 +35,18 @@ $dark-smoke: #4a4d56;
 $dark-gray: #767f87;
 
 // Width of the content area
-$wide-size: 890px;
+$wide-size: 2000px;
 $narrow-size: 720px;
 
 // Padding unit
-$spacing-full: 30px;
+$spacing-full: 20px;
 $spacing-half: $spacing-full / 2;
 
 // State of devices
 $on-mobile: 768px;
 $on-tablet: 769px;
-$on-desktop: 2000px;
-$on-widescreen: 2000px;
+$on-desktop: 1024px;
+$on-widescreen: 1152px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
