@@ -16,7 +16,7 @@ image: assets/img/badlands3.jpg
 
 <figure>
 <img src="/assets/img/onlineNN.png" alt="online NN fig">
-<figcaption>Simulation of surface ozone by different ML solvers in GEOS-Chem. The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard GEOS-Chem solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
+<figcaption>Simulation of surface ozone by different ML solvers implemented within GEOS-Chem. The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard GEOS-Chem solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
 </figure>
 
 <br />
