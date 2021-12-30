@@ -37,22 +37,9 @@ monitoring network and the mrDMD algorithm. Small grey patches in the Southwest 
 
 <br />
 
-Considerable financial resources are allocated for measuring ambient air pollution in the United
-States, yet the locations for these monitoring sites may not be optimized to capture the full extent
-of current pollution variability. Prior research on best sensor placement for monitoring fine
-particulate matter (PM<sub>2.5</sub>) pollution is scarce: studies do not span an area larger than a medium-
-sized urban city or on timescales longer than one week. My current work leverages a
-novel approach, multiresolution modal decomposition (mrDMD), to identify the optimal
-placement of PM<sub>2.5</sub> sensors from 2000-2016 over the contiguous United States. This approach
-incorporates the variability of PM<sub>2.5</sub> on timescales ranging from one day to over a decade to
-capture air pollution variability. We find that the mrDMD algorithm identifies a large number of
-high-priority sensor locations in the western United States, but a significantly lower density of
-sensors than expected along the eastern coast, where a large number of EPA PM<sub>2.5</sub> monitors
-currently reside. We identify gaps in the current EPA monitoring network and recommend adding sensors in the San Joaquin Valley in California,
-northern California, and the Pacific Northwest (Idaho and eastern Washington and Oregon). We
-find that such a distribution of air quality sensors could better monitor smoke pollution from
-wildfires in the West. We plan to apply our model framework to urban areas to achieve more
-equitable placement of PM<sub>2.5</sub> monitors.
+Considerable financial resources are allocated for measuring ambient air pollution in the United States, yet the locations for these monitoring sites may not be optimized to capture the full extent of current pollution variability. Prior research on best sensor placement for monitoring fine particulate matter (PM<sub>2.5</sub>) pollution is scarce: most studies do not span areas larger than a medium-sized city or examine timescales longer than one week. Here we present a pilot study using multiresolution modal decomposition (mrDMD) to identify the optimal placement of PM<sub>2.5</sub> sensors from 2000-2016 over the contiguous United States. This novel approach incorporates the variation of PM<sub>2.5</sub> on timescales ranging from one day to over a decade to capture air pollution variability. We find that the mrDMD algorithm identifies high-priority sensor locations in the western United States, but a significantly lower density of sensors than expected along the eastern coast, where a large number of EPA PM<sub>2.5</sub> monitors currently reside. Specifically, 53% of mrDMD optimized sensor locations are west of the 100th meridian, compared to only 32% in the current EPA network. The mrDMD sensor locations can capture PM<sub>2.5</sub> from wildfires and high pollution events, with particularly high skill in the West. These results suggest significant gaps in the current EPA monitoring network in the San Joaquin Valley in California, northern California, and in the Pacific Northwest (Idaho, and Eastern Washington and Oregon). Our framework diagnoses where to place air quality sensors so that they can best monitor smoke from wildfires. Our framework may also be applied to urban areas for equitable placement of PM<sub>2.5</sub> monitors. 
+
+
 
 **Publication**: in-prep
 
