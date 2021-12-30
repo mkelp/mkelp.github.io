@@ -13,7 +13,7 @@ comments: false
 solver for stable long-term global simulations of atmospheric chemistry”, *submitted to JAMES*
 - **Kelp, M.**, Lin, S. **, Kutz, J.N., Mickley, L.J. “A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States”, *submitted to Env. Res. Let.*
-** undergraduate advisee
+ ** undergraduate advisee
 - Yang, L. H., Hagan, D. H., Rivera-Rios, J. C., **Kelp, M.**, Cross, E. S., Peng C. Y., Kaiser, J.,
 Williams, L. R., Croteau, P. L., Jayne, J. T., Ng., N. L. “Understanding the sources of urban air
 pollution using low-cost air quality sensors”, *submitted to ES&T*
