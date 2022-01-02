@@ -12,6 +12,10 @@
   @extend %clearfix;
 }
 
+function myFunction() {
+      document.querySelector("#body").classList.toggle('moon-mode');
+}
+
 // Navigation
 .menu {
   user-select: none;
@@ -48,6 +52,10 @@
         stroke: $black;
       }
     }
+
+    svg{ fill:black;} //mkelp
+    .mode-moon svg {fill:white;} //mkelp
+
     .mode-sunny {
       display: none;
       line {
@@ -279,13 +287,13 @@
     margin-top: 3em;
   }
   span.footer_item {
-    color: $text-base-color;
+    color: $black;
     opacity: 0.8;
     font-weight: $bold-weight;
     font-size: $small-font-size;
   }
   a.footer_item {
-    color: $text-base-color;
+    color: $black;
     opacity: 0.8;
     text-decoration: none;
 
