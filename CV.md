@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-<img src="/assets/img/sedona.jpg" alt="sedona fig">
+<img src="/assets/img/sedona-min.jpg" alt="sedona fig">
 </figure>
 
 <br />

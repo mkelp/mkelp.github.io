@@ -15,7 +15,7 @@ image: assets/img/badlands3.jpg
 <font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
 
 <figure>
-<img src="/assets/img/onlineNN.png" alt="online NN fig">
+<img src="/assets/img/onlineNN-min.png" alt="online NN fig">
 <figcaption>Simulation of surface ozone by different ML solvers implemented within GEOS-Chem. The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard GEOS-Chem solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Global models of atmospheric chemistry are computationally expensive. A bottlene
 <font size="+1"><p align="center"><strong>Optimal placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
 
 <figure>
-<img src="/assets/img/west_sensors.jpg" alt="sensors fig">
+<img src="/assets/img/west_sensors-min.jpg" alt="sensors fig">
 <figcaption>PM<sub>2.5</sub> sensor locations in the West. Comparison of sensor locations for the EPA
 monitoring network and the mrDMD algorithm. Small grey patches in the Southwest and Pacific Northwest reflect grid cells with missing or corrupted data that were discarded from this analysis.</figcaption>
 </figure>
@@ -41,7 +41,7 @@ Considerable financial resources are allocated for measuring ambient air polluti
 
 
 
-**Publication**: [Kelp et al., *submitted to Env. Res. Let.*](){:target="_blank"}
+**Publication**: [Kelp et al., *submitted to Env. Res. Letters*](){:target="_blank"}
 
 <br />
 
