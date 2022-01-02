@@ -20,13 +20,13 @@ layout: compress
         localStorage.setItem("theme", data);
       }
     };
- 
+
     initTheme(localStorage.getItem("theme"));
-    
+
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
 
-  {% include navbar.html %}
+  <!-- {% include navbar.html %} -->
   <div class="wrapper">
     {% include author.html %}
     <main aria-label="Content">
