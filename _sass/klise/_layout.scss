@@ -12,10 +12,6 @@
   @extend %clearfix;
 }
 
-function myFunction() {
-      document.querySelector("#body").classList.toggle('moon-mode');
-}
-
 // Navigation
 .menu {
   user-select: none;
@@ -52,10 +48,7 @@ function myFunction() {
         stroke: $black;
       }
     }
-
-    svg{ fill:black;} //mkelp
-    .mode-moon svg {fill:white;} //mkelp
-
+    
     .mode-sunny {
       display: none;
       line {
