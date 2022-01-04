@@ -27,6 +27,9 @@ permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
+# Google Analytics
+google_analytics: G-X7ZNMQGWFL
+
 # Collection setting
 collections:
   posts:
