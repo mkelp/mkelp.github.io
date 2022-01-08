@@ -7,17 +7,17 @@ comments: false
 ---
 
 <!-- ## papers -->
-# Publications In-Prep and Under Review
+# Publications Under Review
 
 - **Kelp, M.**, Jacob, D.J., Lin, H., Sulprizio, M.P. “An online-learned neural network chemical
-solver for stable long-term global simulations of atmospheric chemistry”, *submitted to JAMES*  \\
+solver for stable long-term global simulations of atmospheric chemistry”, *in review at JAMES*  \\
 \[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\]
 - **Kelp, M.**, Lin, S.\*\*, Kutz, J.N., Mickley, L.J. “A new approach for optimal placement of PM<sub>2.5</sub>
-air quality sensors: case study for the contiguous United States”, *submitted to Env. Res. Letters*  \\
+air quality sensors: case study for the contiguous United States”, *in review at Env. Res. Letters*  \\
 \[[preprint](https://arxiv.org/abs/2201.01041){:target="_blank"}\],  \*\* undergraduate advisee
 - Yang, L. H., Hagan, D. H., Rivera-Rios, J. C., **Kelp, M.**, Cross, E. S., Peng C. Y., Kaiser, J.,
 Williams, L. R., Croteau, P. L., Jayne, J. T., Ng., N. L. “Understanding the sources of urban air
-pollution using low-cost air quality sensors”, *submitted to ES&T*
+pollution using low-cost air quality sensors”, *in review at ES&T*
 
 # Peer-Reviewed Publications
 
@@ -55,9 +55,12 @@ the Columbia River Gorge, Washington State, USA”, *Atmospheric Pollution Resea
 DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
 
 
-# Preprints
+# Other Publications
 
-`1.` **Kelp, M.**, Tessum, C., Marshall, J.D., 2018, “Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation”, arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
+`2.` **Kelp, M.**, Tessum, C., Marshall, J.D., 2018, “Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation”, arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
+
+`1.` **Kelp, M.**, 2016, “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO3 radical with speciated monoterpenes”, Reed College [thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"}
+
 
 # Presentations
 
