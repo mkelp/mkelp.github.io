@@ -59,7 +59,7 @@ DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/a
 
 `2.` **Kelp, M.**, Tessum, C., Marshall, J.D., 2018, “Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation”, arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
-`1.` **Kelp, M.**, 2016, “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO3 radical with speciated monoterpenes”, Reed College [thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"}
+`1.` **Kelp, M.**, 2016, “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO3 radical with speciated monoterpenes”, Reed College [chemistry thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"}
 
 
 # Presentations
