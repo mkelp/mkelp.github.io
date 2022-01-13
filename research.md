@@ -13,10 +13,9 @@ image: assets/img/badlands3.jpg
 # **Current Projects**
 
 <font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
-
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
-<figcaption>Simulation of surface ozone by different ML solvers implemented within GEOS-Chem. The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard GEOS-Chem solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the same 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
+<figcaption><b>Simulation of surface ozone by different ML solvers implemented within GEOS-Chem.</b> The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard GEOS-Chem solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the same 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
 </figure>
 
 <br />
@@ -31,7 +30,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 <figure>
 <img src="/assets/img/west_sensors-min.jpg" alt="sensors fig">
-<figcaption>PM<sub>2.5</sub> sensor locations in the West. Comparison of sensor locations for the EPA
+<figcaption><b>PM<sub>2.5</sub> sensor locations in the West.</b> Comparison of sensor locations for the EPA
 monitoring network and the mrDMD algorithm. Small grey patches in the Southwest and Pacific Northwest reflect grid cells with missing or corrupted data that were discarded from this analysis.</figcaption>
 </figure>
 
@@ -52,7 +51,7 @@ Considerable financial resources are allocated for measuring ambient air polluti
 
 <figure>
 <img src="/assets/img/LA_roads_fig.png" alt="LA fig">
-<figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada).</figcaption>
+<figcaption><b>Road and street classifications in Los Angeles County with county base map provided by the U.S.</b> Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada).</figcaption>
 </figure>
 
 <br />
