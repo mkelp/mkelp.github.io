@@ -1,8 +1,8 @@
 ---
 title:''
-permalink: /CV/
+permalink: /aboutMe/
 layout: page
-excerpt: Makoto Kelp CV
+excerpt: Makoto Kelp aboutMe
 comments: false
 ---
 

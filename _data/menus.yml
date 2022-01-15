@@ -2,8 +2,8 @@
   url: /
   external: false
 
-- title: cv
-  url: /CV/
+- title: about me
+  url: /aboutMe/
   external: false
 
 - title: research
