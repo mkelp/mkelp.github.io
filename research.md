@@ -7,7 +7,7 @@ image: assets/img/badlands3.jpg
 
 ---
 
-<p align="left"><em>My research blends the domains of atmospheric chemistry, air quality engineering, and machine learning/data science to discover latent patterns in air pollution</em></p>
+<p align="left"><em>My research blends the domains of atmospheric chemistry, air quality engineering, and machine learning/data science to discover latent patterns in air pollution.</em></p>
 
 
 # **Current Projects**
