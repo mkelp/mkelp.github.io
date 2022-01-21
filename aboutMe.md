@@ -18,7 +18,7 @@ I am a fourth-year Ph.D. student working with Prof. Daniel Jacob and Dr. Loretta
 Before coming to Harvard, I worked as a research assistant at the University of Washington with Prof. Julian Marshall on air quality case studies and applications of machine learning methods to chemical mechanisms. I earned my B.A. in chemistry from Reed College, with research experience pertaining to air pollution monitoring and secondary organic aerosol modeling in the chemical transport model GEOS-Chem. In my spare time, I [play jazz trombone](https://soundcloud.com/philosophytalk/it-dont-mean-a-thing-from-your-lying-eyes-112915){:target="_blank"}, enjoy football/basketball, and watch horror movies.
 
 
-### [Curriculum Vitae]({{ site.url }}/assets/mkelpCV_Dec2021.pdf){:target="_blank"} (last updated Dec 2021)
+### [Curriculum Vitae]({{ site.url }}/assets/mkelpCV_Jan2022.pdf){:target="_blank"} (last updated Dec 2021)
 
 
 **Contact information:**
