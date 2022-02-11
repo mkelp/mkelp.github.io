@@ -12,7 +12,6 @@ comments: false
 - **Kelp, M.**, Jacob, D.J., Lin, H., Sulprizio, M.P. “An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry”, *in review at JAMES*  \\
 \[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\]
-
 - Yang, L. H., Hagan, D. H., Rivera-Rios, J. C., **Kelp, M.**, Cross, E. S., Peng C. Y., Kaiser, J.,
 Williams, L. R., Croteau, P. L., Jayne, J. T., Ng., N. L. “Understanding the sources of urban air
 pollution using low-cost air quality sensors”, *in review at ES&T*
