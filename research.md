@@ -40,7 +40,7 @@ Considerable financial resources are allocated for measuring ambient air polluti
 
 
 
-**Publication**: [Kelp et al., *submitted to Env. Res. Letters*](https://arxiv.org/abs/2201.01041){:target="_blank"}
+**Publication**: [Kelp et al., (2022)*](https://arxiv.org/abs/2201.01041){:target="_blank"}
 
 <br />
 
