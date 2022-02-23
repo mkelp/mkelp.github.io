@@ -21,8 +21,8 @@ pollution using low-cost air quality sensors”, *in review at ES&T*
 ## **2022**
 
 `7.` **Kelp, M.**, Lin, S.\*\*, Kutz, J.N., Mickley, L.J. “A new approach for optimal placement of PM<sub>2.5</sub>
-air quality sensors: case study for the contiguous United States”, *Accepted at Env. Res. Letters*  \\
-\[[preprint](https://arxiv.org/abs/2201.01041){:target="_blank"}\],  \*\* undergraduate advisee
+air quality sensors: case study for the contiguous United States”, *Env. Res. Letters*  \\
+\[[10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}\],  \*\* undergraduate advisee
 
 
 ## **2020**
