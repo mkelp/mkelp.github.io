@@ -15,7 +15,7 @@ image: assets/img/badlands3.jpg
 <font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
-<figcaption><b>Simulation of surface ozone by different ML solvers implemented within GEOS-Chem.</b> The left and middle panels show absolute and fractional errors at the end of a 31-day July 2017 simulation relative to the reference simulation using the standard GEOS-Chem solver. The right panel shows the temporal evolution of the global hourly root-mean-square error (RMSE) over the same 31-day period. The mean RMSE for the last 10 days of July is given inset.</figcaption>
+<figcaption><b>ML chemical solver in GEOS-Chem.</b> GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
 </figure>
 
 <br />
