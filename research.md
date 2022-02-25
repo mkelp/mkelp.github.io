@@ -14,7 +14,7 @@ image: assets/img/badlands3.jpg
 
 <font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
 <figure>
-<img src="/assets/img/onlineNN-min.jpeg" alt="online NN fig">
+<img src="/assets/img/onlineNN-min.png" alt="online NN fig">
 <figcaption><b>ML chemical solver in GEOS-Chem. GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
 </figure>
 
