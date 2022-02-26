@@ -10,8 +10,8 @@ comments: false
 # Submitted and Under Review
 
 - **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio. An online-learned neural network chemical
-solver for stable long-term global simulations of atmospheric chemistry. \\ (*in review at JAMES*)  
-\[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\]
+solver for stable long-term global simulations of atmospheric chemistry.
+\\ (*in review at JAMES*) \[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\]
 - Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng. Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. (*in review at ES&T*)
 
 # Peer-Reviewed Publications
@@ -58,7 +58,7 @@ DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/a
 
 `2.` **Kelp, M.**, C. Tessum, and J.D. Marshall (2018). Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation. arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
-`1.` **Kelp, M.**, 2016, “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO<sub>3</sub> radical with speciated monoterpenes”, \\
+`1.` **Kelp, M.**, 2016. “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO<sub>3</sub> radical with speciated monoterpenes”, \\
 Reed College [chemistry thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"}
 
 
