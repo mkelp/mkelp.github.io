@@ -11,11 +11,13 @@ comments: false
 
 - **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio. An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry. (*in review at JAMES*) \[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\]
-- Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng. Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. (*in review at ES&T*)
+
 
 # Peer-Reviewed Publications
 
 ## **2022**
+
+`8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng. Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. (*Accepted at ES&T*)
 
 `7.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"},  \*\* undergraduate advisee
