@@ -17,7 +17,7 @@ solver for stable long-term global simulations of atmospheric chemistry. (*in re
 
 ## **2022**
 
-`8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng. Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. (*Accepted at ES&T*)
+`8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng. Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environmental Science and Technology*, \*Special Issue on "Urban Air Pollution and Human Health", DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
 
 `7.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"},  \*\* undergraduate advisee
