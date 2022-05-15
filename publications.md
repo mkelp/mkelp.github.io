@@ -14,7 +14,7 @@ comments: false
 ## **2022**
 
 `9.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
-solver for stable long-term global simulations of atmospheric chemistry. (*accepted at JAMES*) \[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\]
+solver for stable long-term global simulations of atmospheric chemistry. (*Accepted at JAMES*) \[[preprint](https://eartharxiv.org/repository/view/2886/){:target="_blank"}\], *Special Collection on “Machine learning application to Earth system modeling”
 
 `8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, \*Special Issue on "Urban Air Pollution and Human Health", DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
 
