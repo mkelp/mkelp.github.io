@@ -6,10 +6,8 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-<!-- ## papers -->
-!# Submitted and Under Review
+<!-- ## Submitted and Under Review -->
 
--
 
 # Peer-Reviewed Publications
 
