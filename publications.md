@@ -11,6 +11,8 @@ comments: false
 
 # Peer-Reviewed Publications
 
+h-index: 7, total citations: 120 (as of June 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as first author (6), as co-author (4)
+
 ## **2022**
 
 `9.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
