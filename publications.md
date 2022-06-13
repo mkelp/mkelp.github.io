@@ -11,7 +11,7 @@ comments: false
 
 # Peer-Reviewed Publications
 
-h-index: 7, total citations: 120 (as of June 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as first author (6), as co-author (4)
+h-index: 7, total citations: 120 (as of June 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
 
 ## **2022**
 
