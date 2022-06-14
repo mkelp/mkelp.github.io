@@ -16,12 +16,15 @@ h-index: 7, citations: 120 (as of June 2022, [Google Scholar](https://scholar.go
 ## **2022**
 
 `9.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
-solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"}, \*Special Collection on “Machine learning application to Earth system modeling”
+solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"} <br />
+\*Special Collection on “Machine learning application to Earth system modeling”
 
-`8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}, \*Special Issue on "Urban Air Pollution and Human Health",
+`8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"} <br />
+\*Special Issue on "Urban Air Pollution and Human Health"
 
 `7.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
-air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"},  \*\* undergraduate advisee
+air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}  <br />
+\*\* undergraduate advisee
 
 
 ## **2020**
