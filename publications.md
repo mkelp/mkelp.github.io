@@ -11,10 +11,10 @@ h-index: 7, citations: 121 (as of July 2022, [Google Scholar](https://scholar.go
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
 
-Kelp, M., T. Liu, and L.J. Mickley. Sensitivity of population smoke exposure to wildfires in the Western
+**Kelp, M.**, T. Liu, and L.J. Mickley. Sensitivity of population smoke exposure to wildfires in the Western
 United States: implications of prescribed burning for states and rural environmental justice communities, (*In-prep*)
 
-Kelp, M., T. Fargiano, S. Lin, T. Liu, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM2.5
+**Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
 air quality sensors in the United States: an approach to target urban environmental injustice, (*In-prep*)
 
 # Peer-Reviewed Publications
