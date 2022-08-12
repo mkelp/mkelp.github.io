@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 7, citations: 121 (as of July 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
+h-index: 7, citations: 127 (as of August 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
 
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
@@ -16,6 +16,11 @@ United States: implications of prescribed burning for states and rural environme
 
 **Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
 air quality sensors in the United States: an approach to target urban environmental injustice, (*In-prep*)
+
+**Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone data
+assimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct
+assimilation of thermal infra-red radiances, (*In-prep*)
+
 
 # Peer-Reviewed Publications
 
