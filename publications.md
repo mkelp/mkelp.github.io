@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 7, citations: 127 (as of August 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
+h-index: 7, citations: 128 (as of August 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
 
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
@@ -28,7 +28,7 @@ assimilation of thermal infra-red radiances, (*In-prep*)
 
 `9.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"} <br />
-\*Special Collection on “Machine learning application to Earth system modeling”
+\*[Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning) in JAMES, Special Collection on “Machine learning application to Earth system modeling”
 
 `8.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"} <br />
 \*Special Issue on "Urban Air Pollution and Human Health"
