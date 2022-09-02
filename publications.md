@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 7, citations: 128 (as of August 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
+h-index: 7, citations: 131 (as of September 2022, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
 
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
