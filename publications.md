@@ -11,7 +11,7 @@ h-index: 7, citations: 139 (as of Nov 2022, [Google Scholar](https://scholar.goo
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
 
-**Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, and L.J. Mickley. Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities, (*In-prep*)
+**Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley. Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities, (*Submitted to AGU Advances*)[preprint](https://eartharxiv.org/repository/view/4767/)
 
 **Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
 air quality sensors in the United States: an approach to target urban environmental injustice, (*In-prep*)

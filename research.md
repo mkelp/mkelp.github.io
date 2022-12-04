@@ -12,19 +12,20 @@ image: assets/img/badlands3.jpg
 
 # **Current Projects**
 
-<font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
+<font size="+1"><p align="center"><strong>Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</strong></p></font>
 <figure>
-<img src="/assets/img/onlineNN-min.png" alt="online NN fig">
-<figcaption><b>ML chemical solver in GEOS-Chem.</b> GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
+<img src="/assets/img/prescribedfires_fig.png" alt="controlled burns fig">
+<figcaption><b>Contributions to population-weighted smoke exposure for the western United States in September 2020 (center panel) and effects of applying prescribed burning interventions in all receptors in the West during this month(pie charts).</b> The center panel shows the locations of MTBS prescribed burn (>1000 acres) during 2015-2020 (black dots, n=190) and the contribution of smoke PM2.5 emissions in each grid cell to population-weighted smoke exposure in the West receptor(colors). These contributions are calculated through multiplication of the GEOS‐Chem adjoint sensitivities [ug m-3/g m-2s-1] of the West population‐weighted receptor by the GFED fire emissions [g m-2 s-1] for the month of September 2020. The pie charts in the side panels illustrate the contribution to that smoke reduction from the application of prescribed burns in each receptor, with the values inset indicating the overall reduction of smoke exposure from prescribed burning interventions within that receptor.</figcaption>
 </figure>
 
 <br />
 
-Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. However, my past work found that ML chemical solvers experience rapid error growth and become unstable over time. My current work aims to achieve, for the first time, a stable full-year global simulation of atmospheric chemistry with three-month seasonal ML solvers. We show that online training of the ML solver synchronously with an atmospheric chemistry model simulation produces considerably more stable results than offline training from a static dataset of simulation results. Although our work represents an important step for using ML solvers in global atmospheric chemistry models, more work is needed to extend it to large chemical mechanisms and to reduce errors during long-term chemical aging.
+Catastrophic wildfires pose substantial risk to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems. Here we investigate the effectiveness of prescribed burning for abating potential wildfire smoke exposures in states and rural environmental justice communities across the western United States during the destructive 2018 and 2020 fire seasons. We find that due in part to prevailing wind patterns, wildfires in the coastal states contribute more to overall smoke exposure in the West compared to wildfires in other states in both 2018 and 2020. We show that implementing prescribed burns in the heavily forested Northern California and the Pacific Northwest would yield large net benefits for the entire western United States, while doing so in other states would have relatively smaller impacts. Our work suggests that land managers should prioritize northern California, western Oregon, and eastern Washington for prescribed burns to mitigate future smoke exposure as these regions have a disproportionate impact on smoke exposure for rural environmental justice communities and population centers across the West.
 
-**Publications**: [Kelp et al., (2022)](https://doi.org/10.1029/2021MS002926){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
+**Publications**: [Kelp et al., preprint](https://eartharxiv.org/repository/view/4767/){:target="_blank"}
 
 <br />
+
 
 <font size="+1"><p align="center"><strong>Optimal placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
 
@@ -43,6 +44,22 @@ Considerable financial resources are allocated for measuring ambient air polluti
 **Publication**: [Kelp et al., (2022)](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}
 
 <br />
+
+
+<font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
+<figure>
+<img src="/assets/img/onlineNN-min.png" alt="online NN fig">
+<figcaption><b>ML chemical solver in GEOS-Chem.</b> GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
+</figure>
+
+<br />
+
+Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. However, my past work found that ML chemical solvers experience rapid error growth and become unstable over time. My current work aims to achieve, for the first time, a stable full-year global simulation of atmospheric chemistry with three-month seasonal ML solvers. We show that online training of the ML solver synchronously with an atmospheric chemistry model simulation produces considerably more stable results than offline training from a static dataset of simulation results. Although our work represents an important step for using ML solvers in global atmospheric chemistry models, more work is needed to extend it to large chemical mechanisms and to reduce errors during long-term chemical aging.
+
+**Publications**: [Kelp et al., (2022)](https://doi.org/10.1029/2021MS002926){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
+
+<br />
+
 
 # **Past Projects**
 
