@@ -11,7 +11,14 @@ comments: false
 
 A full list of presentations and invited talks may be found in my CV.
 
+## **2023**
+`12.` **M. Kelp**, TC. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone dataassimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct assimilation of thermal infra-red radiances. AMS Annual Meeting, Denver, CO, January 12,
+2023 ([Talk](/assets/AMS23_mkelp.pdf){:target="_blank"})
+
 ## **2022**
+`11.` **M. Kelp**, T. Liu, and L.J. Mickley. Sensitivity of population-weighted smoke exposure towildfires in the western United States: implications for prescribed burning at the state level and in rural environmental justice communities. AGU Fall Meeting, Chicago, IL, December 14, 2022 ([Talk](/assets/mkelp_AGU_EJfires.pdf){:target="_blank"})
+
+`10.` **M. Kelp**, T. C. Fargiano, S. Lin, T. Liu, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM2.5 air quality sensors in the United States: an approach to target urban environmental injustice. AGU Fall Meeting, Chicago, IL, December 12, 2022 ([Talk](/assets/mkelp_AGU_EJsensors.pdf){:target="_blank"})
 
 `9.` **M. Kelp**, D.J. Jacob, and H. Lin. An Online-Learned Neural Network Chemical Solver for Stable and Long-Term Global Simulations of Atmospheric Chemistry in S2S Applications. AMS Annual Meeting, January 26, 2022 ([Talk](/assets/mkelp_AMS2022.pdf){:target="_blank"})
 
