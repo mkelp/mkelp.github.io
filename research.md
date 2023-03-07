@@ -47,7 +47,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 <figure>
 <img src="/assets/img/EJsensors.jpg" alt="sensors fig">
-<figcaption>PM<sub>2.5</sub> locations for St. Louis, Houston, Buffalo, and Boston.</b> Distribution of sensor locations identified as optimal by the multiresolution dynamic mode decomposition (mrDMD) algorithm, and those identified as optimal and equitable by the mrDMD with cost constraints (mrDMDcc) using race and income metrics. All sensor locations are gridded onto the same 1 km x 1 km Di et al. (2021) grid. Red dots indicate known environmental justice communities mentioned in the text – for example Granite City, IL, and East St. Louis, IL, for the mrDMDcc-race case.
+<figcaption><b>PM<sub>2.5</sub> locations for St. Louis, Houston, Buffalo, and Boston.</b> Distribution of sensor locations identified as optimal by the multiresolution dynamic mode decomposition (mrDMD) algorithm, and those identified as optimal and equitable by the mrDMD with cost constraints (mrDMDcc) using race and income metrics. All sensor locations are gridded onto the same 1 km x 1 km Di et al. (2021) grid. Red dots indicate known environmental justice communities mentioned in the text – for example Granite City, IL, and East St. Louis, IL, for the mrDMDcc-race case.
 </figcaption>
 </figure>
 
