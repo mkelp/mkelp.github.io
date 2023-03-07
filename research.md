@@ -43,7 +43,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 
 
-<font size="+1"><p align="center"><strong>Optimal placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
+<font size="+1"><p align="center"><strong>Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
 
 <figure>
 <img src="/assets/img/west_sensors-min.jpg" alt="sensors fig">
@@ -53,11 +53,9 @@ monitoring network and the mrDMD algorithm. Small grey patches in the Southwest 
 
 <br />
 
-Considerable financial resources are allocated for measuring ambient air pollution in the United States, yet the locations for these monitoring sites may not be optimized to capture the full extent of current pollution variability. Prior research on best sensor placement for monitoring fine particulate matter (PM<sub>2.5</sub>) pollution is scarce: most studies do not span areas larger than a medium-sized city or examine timescales longer than one week. Here we present a pilot study using multiresolution modal decomposition (mrDMD) to identify the optimal placement of PM<sub>2.5</sub> sensors from 2000-2016 over the contiguous United States. This novel approach incorporates the variation of PM<sub>2.5</sub> on timescales ranging from one day to over a decade to capture air pollution variability. We find that the mrDMD algorithm identifies more high-priority sensor locations in the western United States than those expected along the eastern coast, where a large number of EPA PM<sub>2.5</sub> monitors currently reside. Specifically, 53% of mrDMD optimized sensor locations are west of the 100th meridian, compared to only 32% in the current EPA network. The mrDMD sensor locations can capture PM<sub>2.5</sub> from wildfires and high pollution events with particularly high skill in the West. These results suggest significant gaps in the current EPA monitoring network in the San Joaquin Valley in California, northern California, and in the Pacific Northwest (Idaho, and Eastern Washington and Oregon). Our framework diagnoses where to place air quality sensors so that they can best monitor smoke from wildfires. Our framework may also be applied to urban areas for equitable placement of PM<sub>2.5</sub> monitors.
+In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks. Although these regulatory and low-cost networks provide enhanced spatiotemporal coverage in urban areas, sensors are located most often in higher income, predominantly White areas. Here we use a modal decomposition algorithm to identify the optimal and equitable placement of fine particulate matter (PM<sub>2.5</sub>) sensors in four U.S. cities with histories of racial or income segregation: St. Louis, Houston, Boston, and Buffalo. Compared to networks using air pollution information alone, the algorithm places a greater number of sensors in historically low-income and nonwhite neighborhoods with known environmental pollution problems, while also capturing PM<sub>2.5</sub> extremes. Our work provides a roadmap for the creation of equitable sensor networks in U.S. cities and offers a guide for democratizing air pollution data by increasing spatial coverage of low-cost sensors in less privileged communities.
 
-
-
-**Publication**: [Kelp et al., (2022)](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}
+**Publication**: [Kelp et al., preprint](https://eartharxiv.org/repository/view/5099/){:target="_blank"}, [Kelp et al., (2022)](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}
 
 <br />
 
