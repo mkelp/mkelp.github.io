@@ -14,7 +14,7 @@ h-index: 7, citations: 149 (as of March 2023, [Google Scholar](https://scholar.g
 **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley. Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities, (*In review at Earth's Future*, [preprint](https://eartharxiv.org/repository/view/4767/))
 
 **Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
-air quality sensors in the United States: an approach to target urban environmental injustice, (*Submitted to Science Advances*)
+air quality sensors in the United States: an approach to target urban environmental injustice, (*Submitted to Science Advances*, [preprint](https://eartharxiv.org/repository/view/5099/))
 
 **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone data
 assimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct
