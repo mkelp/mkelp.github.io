@@ -20,6 +20,8 @@ air quality sensors in the United States: an approach to target urban environmen
 assimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct
 assimilation of thermal infra-red radiances, (*In-prep*)
 
+Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Submitted to Atmos. Meas. Tech.*)
+
 
 # Peer-Reviewed Publications
 
