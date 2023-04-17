@@ -14,11 +14,11 @@ h-index: 8, citations: 157 (as of April 2023, [Google Scholar](https://scholar.g
 **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley. Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities, (*In review at Earth's Future*, [preprint](https://eartharxiv.org/repository/view/4767/))
 
 **Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
-air quality sensors in the United States: an approach to target urban environmental injustice, (*Submitted to Science Advances*, [preprint](https://eartharxiv.org/repository/view/5099/))
+air quality sensors in the United States: an approach to target urban environmental injustice, (*In review at GeoHealth*, [preprint](https://eartharxiv.org/repository/view/5099/))
 
 **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone data
 assimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct
-assimilation of thermal infra-red radiances, (*In-prep*)
+assimilation of thermal infra-red radiances, (*Submitted to ERL*)
 
 Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Submitted to Atmos. Meas. Tech.*)
 
