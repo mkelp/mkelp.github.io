@@ -6,12 +6,10 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 8, citations: 157 (as of April 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (6), as co-author (4)
+h-index: 8, citations: 160 (as of April 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (7), as co-author (4)
 
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
-
-**Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley. Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities, (*In review at Earth's Future*, [preprint](https://eartharxiv.org/repository/view/4767/))
 
 **Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
 air quality sensors in the United States: an approach to target urban environmental injustice, (*In review at GeoHealth*, [preprint](https://eartharxiv.org/repository/view/5099/))
@@ -22,8 +20,11 @@ assimilation of thermal infra-red radiances, (*Submitted to ERL*)
 
 Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Submitted to Atmos. Meas. Tech.*)
 
-
 # Peer-Reviewed Publications
+
+## **2023**
+
+`10.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley. Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Accepted at Earth's Future*
 
 ## **2022**
 
