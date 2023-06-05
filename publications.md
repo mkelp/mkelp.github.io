@@ -72,6 +72,8 @@ DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/a
 
 # Other Publications
 
+`3.` **Kelp, M.**, 2023. "Expanding the Capabilities of Atmospheric Chemistry Models and Datasets Using Machine Learning and Data-Driven Methods", Harvard University [dissertation](https://www.proquest.com/docview/2821571494){:target="_blank"}
+
 `2.` **Kelp, M.**, C. Tessum, and J.D. Marshall (2018). Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation. arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
 `1.` **Kelp, M.**, 2016. “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO<sub>3</sub> radical with speciated monoterpenes”, \\
