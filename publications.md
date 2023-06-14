@@ -14,15 +14,15 @@ h-index: 8 (as of April 2023, [Google Scholar](https://scholar.google.com/citati
 **Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
 air quality sensors in the United States: an approach to target urban environmental injustice, (*In review at GeoHealth*, [preprint](https://eartharxiv.org/repository/view/5099/))
 
-**Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob.  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), (*Submitted to ERL*)
+**Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob.  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), (*In review at ERL*)
 
-Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Submitted to Atmos. Meas. Tech.*)
+Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*In review at Atmos. Meas. Tech.*)
 
 # Peer-Reviewed Publications
 
 ## **2023**
 
-`10.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Accepted at Earth's Future*
+`10.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Earth's Future*, 11, e2022EF003468, DOI: [10.1029/2022EF003468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"} <br />
 
 ## **2022**
 
