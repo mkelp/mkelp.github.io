@@ -7,11 +7,12 @@ comments: false
 ---
 
 h-index: 8 (as of April 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (7), as co-author (4)
+\*\* undergraduate advisee
 
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
 
-**Kelp, M.**, T. Fargiano, S. Lin, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
+**Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
 air quality sensors in the United States: an approach to target urban environmental injustice, (*In review at GeoHealth*, [preprint](https://eartharxiv.org/repository/view/5099/))
 
 **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob.  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), (*In review at ERL*)
@@ -36,7 +37,6 @@ solver for stable long-term global simulations of atmospheric chemistry. *JAMES*
 
 `7.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}  <br />
-\*\* undergraduate advisee
 
 
 ## **2020**
