@@ -9,7 +9,7 @@ comments: false
 
 # Presentations
 
-A full list of presentations and invited talks may be found in my CV.
+<!-- A full list of presentations and invited talks may be found in my CV. -->
 
 ## **2023**
 `12.` **M. Kelp**, TC. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone dataassimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct assimilation of thermal infra-red radiances. AMS Annual Meeting, Denver, CO, January 12,
