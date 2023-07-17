@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 9 (as of June 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (7), as co-author (4)
+h-index: 9 (as of June 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (7), as co-author (5)
 <br/> \*\* undergraduate advisee
 
 <!-- ## Submitted and Under Review -->
@@ -35,7 +35,7 @@ solver for stable long-term global simulations of atmospheric chemistry. *JAMES*
 
 
 `9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"} <br />
-\*Special Issue on "Urban Air Pollution and Human Health"
+* Special Issue on "Urban Air Pollution and Human Health"
 
 `8.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}  <br />
