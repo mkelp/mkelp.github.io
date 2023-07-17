@@ -10,7 +10,7 @@ image: assets/img/badlands3.jpg
 <p align="left"><em>My research blends the domains of atmospheric chemistry, air quality engineering, and machine learning/data science to uncover latent patterns in air pollution.</em></p>
 
 
-# **Current Projects**
+<!-- # **Current Projects** -->
 
 <font size="+1"><p align="center"><strong>Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</strong></p></font>
 <figure>
