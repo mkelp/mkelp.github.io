@@ -50,28 +50,34 @@ air quality sensors: case study for the contiguous United States. *Env. Res. Let
 machine-learned models of the atmospheric chemical system. *JGR: Atmospheres*, 125, e2020JD032759,
 DOI: [10.1029/2020JD032759](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD032759){:target="_blank"}
 
+<br>
 `6.` **Kelp, M.**, T. Gould, E. Austin, J.D. Marshall, M. Yost, C. Simpson, and T. Larson (2020).
 Sensitivity analysis of area-wide, mobile source emission factors to high-emitter vehicles in Los
 Angeles. *Atmospheric Environment*, 223, 117212, DOI: [10.1016/j.atmosenv.2019.117212](https://www.sciencedirect.com/science/article/abs/pii/S1352231019308519){:target="_blank"}
 
 <!-- ## **2019** -->
 
+<br>
 `5.` Wen, Y., H. Wang, T. Larson, **M. Kelp**, S. Zhang, Y. Wu, and J.D. Marshall (2019). On-highway
 vehicle emission factors, and spatial patterns, based on mobile monitoring and absolute principal
 component score. *Science of The Total Environment*, 676, 242-251, DOI: [10.1016/j.scitotenv.2019.04.185](https://www.sciencedirect.com/science/article/abs/pii/S0048969719317140){:target="_blank"}
 
 <!-- ## **2018** -->
 
+<br>
 `4.` **Kelp, M.**, C. Tessum, and J.D. Marshall (2018). Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation. arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
+<br>
 `3.` **Kelp, M.**, A.P. Grieshop, C.O. Reynolds, J. Baumgartner, G. Jain, K. Sethuramanand, and J.D. Marshall (2018). Real-time indoor measurement of health and climate-relevant air pollution concentrations during a carbon-finance-approved cookstove intervention in rural India. *Development Engineering*, 3, 125-132, DOI: [10.1016/j.deveng.2018.05.001](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
 
 <!-- ## **2017** -->
+<br>
 `2.`  Brewer, J. F., M. Bishop, **M. Kelp**, C. Keller, A.R. Ravishankara, and E.V. Fischer (2017). A
 sensitivity analysis of key factors in the modeled global acetone budget. *J. Geophys. Res.*, 122,
 DOI: [10.1002/2016JD025935](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD025935){:target="_blank"}
 
 <!-- ## **2015** -->
+<br>
 `1.`  Jaffe, D., J. Putz, G. Hof, G. Hof, J. Hee, D.A. Lommers-Johnson, F. Gabela, J. Fry, B. Ayres, **M. Kelp**, and M. Minsk (2015).
 Diesel particulate matter and coal dust from trains in the Columbia River Gorge, Washington state, USA. *Atmospheric Pollution Research*, 6, 946-952,
 DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
