@@ -1,7 +1,7 @@
 ---
 title:'Peer-Reviewed Publications'
 permalink: /publications/
-layout: default
+layout: page
 excerpt: Makoto Kelp publications
 comments: false
 ---
