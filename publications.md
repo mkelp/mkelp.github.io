@@ -31,7 +31,8 @@ air quality sensors in the United States: an approach to target urban environmen
 
 `10.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"} <br />
-\*Special Collection on “Machine learning application to Earth system modeling”, [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning), [Royal Meteorological Society Atmospheric Chemistry Special Interest Conference Talk](https://youtu.be/AKomky52rPU?t=5561)
+* Special Collection on “Machine learning application to Earth system modeling”
+* [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning), [Royal Met. Society Atmospheric Chemistry Special Interest Conference Talk](https://youtu.be/AKomky52rPU?t=5561)
 
 
 `9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"} <br />
