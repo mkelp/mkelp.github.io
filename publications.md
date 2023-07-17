@@ -26,17 +26,19 @@ air quality sensors in the United States: an approach to target urban environmen
 `12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Accepted at Atmos. Meas. Tech.*)
 
 `11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Earth's Future*, 11, e2022EF003468, DOI: [10.1029/2022EF003468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"} <br />
-
+* Press: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html%7d%7bmissoulian){:target="_blank"}
 <!-- ## **2022** -->
 
 `10.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"} <br />
 * Special Collection on “Machine learning application to Earth system modeling”
 * [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning), [Royal Met. Society Atmospheric Chemistry Special Interest Conference Talk](https://youtu.be/AKomky52rPU?t=5561)
-
+//
 
 `9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site. *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: [10.1021/acs.est.1c07005](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"} <br />
 * Special Issue on "Urban Air Pollution and Human Health"
+
+//
 
 `8.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}  <br />
