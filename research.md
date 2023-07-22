@@ -46,7 +46,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 <font size="+1"><p align="center"><strong>Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
 
 <figure>
-<img src="/assets/img/EJsensors.jpg" alt="sensors fig">
+<img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
 <figcaption><b>PM<sub>2.5</sub> locations for St. Louis and Houston.</b> Distribution of sensor locations identified as optimal by the mrDMD algorithm, and those identified as optimal and equitable by the mrDMDcc using race and income metrics. All sensor locations are gridded onto a 1 km x 1 km grid. Dots represent sensor locations with the shading representing the proportion of nonwhite (left and center columns) or low-income households (right column) in that grid box. Dots outlined in red indicate areas with historic environmental justice issues mentioned in the main text – for example Granite City, IL, and East St. Louis, IL, for the race optimized mrDMDcc case.
 </figcaption>
 </figure>
