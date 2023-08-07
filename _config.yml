@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Makoto Kelp # author name
   bio:
-    "Applying data-driven science to uncover new perspectives in atmospheric chemistry, especially on the interplay among fires, climate, and society."
+    "Applying data-driven science & machine learning to uncover new perspectives in atmospheric chemistry, especially on the interplay among fires, climate, and society."
 # PhD student @ Harvard University Earth and Planetary Sciences<br>
   username: mkelp # general username
   github: mkelp # github username

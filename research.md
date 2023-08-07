@@ -12,7 +12,8 @@ image: assets/img/badlands3.jpg
 
 <!-- # **Current Projects** -->
 
-<font size="+1"><p align="center"><strong>Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</strong></p></font> -->
+# Wildfire smoke, prescribed burns, and rural environmental justice in the western United States 
 <figure>
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
 <figcaption><b>Contributions to population-weighted smoke exposure for the western United States in September 2020.</b> The figure shows the locations of MTBS prescribed burns (>1000 acres) during 2015-2020 (black dots, n=190) and the contribution of smoke PM2.5 emissions in each grid cell to population-weighted smoke exposure in the West receptor (colors). These contributions are calculated through multiplication of the GEOS‐Chem adjoint sensitivities of the West population‐weighted receptor by the GFED fire emissions for the month of September 2020.</figcaption>

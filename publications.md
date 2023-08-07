@@ -21,14 +21,16 @@ air quality sensors in the United States: an approach to target urban environmen
 
 # Publications
 
-<!-- ## **2023** -->
+## **2023**
 
 `12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Accepted at Atmos. Meas. Tech.*)  
 
 <br />
 `11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Earth's Future*, 11, e2022EF003468, DOI: [10.1029/2022EF003468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"} <br />
 * Press: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html%7d%7bmissoulian){:target="_blank"}
-<!-- ## **2022** -->
+
+
+## **2022**
 
 <br />
 `10.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
@@ -44,7 +46,7 @@ solver for stable long-term global simulations of atmospheric chemistry. *JAMES*
 `8.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}  
 
-<!-- ## **2020** -->
+## **2020**
 <br />
 `7.` **Kelp, M.**, D.J. Jacob, J.N. Kutz, J.D. Marshall, and C. Tessum (2020). Toward stable, general
 machine-learned models of the atmospheric chemical system. *JGR: Atmospheres*, 125, e2020JD032759,
@@ -55,14 +57,14 @@ DOI: [10.1029/2020JD032759](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/
 Sensitivity analysis of area-wide, mobile source emission factors to high-emitter vehicles in Los
 Angeles. *Atmospheric Environment*, 223, 117212, DOI: [10.1016/j.atmosenv.2019.117212](https://www.sciencedirect.com/science/article/abs/pii/S1352231019308519){:target="_blank"}
 
-<!-- ## **2019** -->
+## **2019**
 
 <br>
 `5.` Wen, Y., H. Wang, T. Larson, **M. Kelp**, S. Zhang, Y. Wu, and J.D. Marshall (2019). On-highway
 vehicle emission factors, and spatial patterns, based on mobile monitoring and absolute principal
 component score. *Science of The Total Environment*, 676, 242-251, DOI: [10.1016/j.scitotenv.2019.04.185](https://www.sciencedirect.com/science/article/abs/pii/S0048969719317140){:target="_blank"}
 
-<!-- ## **2018** -->
+## **2018**
 
 <br>
 `4.` **Kelp, M.**, C. Tessum, and J.D. Marshall (2018). Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation. arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
@@ -70,13 +72,13 @@ component score. *Science of The Total Environment*, 676, 242-251, DOI: [10.1016
 <br>
 `3.` **Kelp, M.**, A.P. Grieshop, C.O. Reynolds, J. Baumgartner, G. Jain, K. Sethuramanand, and J.D. Marshall (2018). Real-time indoor measurement of health and climate-relevant air pollution concentrations during a carbon-finance-approved cookstove intervention in rural India. *Development Engineering*, 3, 125-132, DOI: [10.1016/j.deveng.2018.05.001](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
 
-<!-- ## **2017** -->
+## **2017**
 <br>
 `2.`  Brewer, J. F., M. Bishop, **M. Kelp**, C. Keller, A.R. Ravishankara, and E.V. Fischer (2017). A
 sensitivity analysis of key factors in the modeled global acetone budget. *J. Geophys. Res.*, 122,
 DOI: [10.1002/2016JD025935](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD025935){:target="_blank"}
 
-<!-- ## **2015** -->
+## **2015**
 <br>
 `1.`  Jaffe, D., J. Putz, G. Hof, G. Hof, J. Hee, D.A. Lommers-Johnson, F. Gabela, J. Fry, B. Ayres, **M. Kelp**, and M. Minsk (2015).
 Diesel particulate matter and coal dust from trains in the Columbia River Gorge, Washington state, USA. *Atmospheric Pollution Research*, 6, 946-952,
