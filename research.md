@@ -13,7 +13,7 @@ image: assets/img/badlands3.jpg
 <!-- # **Current Projects** -->
 
 <!-- <font size="+1"><p align="center"><strong>Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</strong></p></font> -->
-# Wildfire smoke, prescribed burns, and rural environmental justice in the western United States 
+# Wildfire smoke, prescribed burns, and rural environmental justice in the western United States
 <figure>
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
 <figcaption><b>Contributions to population-weighted smoke exposure for the western United States in September 2020.</b> The figure shows the locations of MTBS prescribed burns (>1000 acres) during 2015-2020 (black dots, n=190) and the contribution of smoke PM2.5 emissions in each grid cell to population-weighted smoke exposure in the West receptor (colors). These contributions are calculated through multiplication of the GEOS‐Chem adjoint sensitivities of the West population‐weighted receptor by the GFED fire emissions for the month of September 2020.</figcaption>
@@ -28,7 +28,8 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <br />
 
 
-<font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font> -->
+# Physics-informed machine-learned atmospheric chemistry solver
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
 <figcaption><b>ML chemical solver in GEOS-Chem.</b> GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
@@ -44,7 +45,8 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 
 
-<font size="+1"><p align="center"><strong>Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</strong></p></font> -->
+# Compressed sensing for optimal and equitable placement of PM<sub>2.5</sub> air quality monitors
 
 <figure>
 <img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
@@ -64,7 +66,8 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 # **Past Projects**
 
 
-<font size="+1"><p align="center"><strong>Vehicle emission factors for area-wide mobile monitoring</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Vehicle emission factors for area-wide mobile monitoring</strong></p></font> -->
+# Vehicle emission factors for area-wide mobile monitoring
 
 <figure>
 <img src="/assets/img/LA_roads_fig.png" alt="LA fig">
@@ -81,7 +84,8 @@ We create a statistical model from measurements obtained from continuously movin
 
 <br />
 
-<font size="+1"><p align="center"><strong>Indoor air pollution from cookstove intervention in rural South India</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Indoor air pollution from cookstove intervention in rural South India</strong></p></font> -->
+# Indoor air pollution from cookstove intervention in rural South India
 
 <figure>
 <img src="/assets/img/cookstove_fig.jpg" alt="cookstove fig" width="400">
@@ -100,7 +104,8 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 
 <br />
 
-<font size="+1"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font> -->
+# Actionable sampling: Heavy metals air quality monitoring in Portland, OR
 
 <figure>
 <img src="/assets/img/arsenic_monitoring.png" alt="train fig">
@@ -114,7 +119,8 @@ Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an a
 
 <br />
 
-<font size="+1"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font>
+<!-- <font size="+1"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font> -->
+# Measuring coal dust from trains in the Columbia River Gorge, WA 
 
 <figure>
 <img src="/assets/img/gorge_fig.png" alt="train fig">
