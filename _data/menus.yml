@@ -18,6 +18,10 @@
   url: /assets/mkelpCV.pdf
   external: false
 
+  - title: AtmosChem-ML
+    url: https://www.atmoschemml.com/
+    external: false
+
 # - title: presentations
 #   url: /presentations/
 #   external: false
