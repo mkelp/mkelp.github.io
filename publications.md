@@ -6,14 +6,11 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 9 (as of July 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (7), as co-author (5)
+h-index: 9 (as of July 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (8), as co-author (5)
 <br/> \*\* undergraduate advisee
 
 <!-- ## Submitted and Under Review -->
 # Publications In-Prep, Submitted, and Under Review
-
-**Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
-air quality sensors in the United States: an approach to target urban environmental injustice, (*In review at GeoHealth*, [preprint](https://eartharxiv.org/repository/view/5099/))
 
 **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob.  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), (*In review at Env. Res. Letters*)
 
@@ -22,6 +19,10 @@ air quality sensors in the United States: an approach to target urban environmen
 # Publications
 
 ## **2023**
+
+`13.` **Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
+air quality sensors in the United States: an approach to target urban environmental injustice, (*Accepted at GeoHealth*)
+* Special Collection on "Geospatial data applications for environmental justice"
 
 `12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon. A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Accepted at Atmos. Meas. Tech.*)  
 
