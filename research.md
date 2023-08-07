@@ -29,7 +29,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 
 
 <!-- <font size="+1"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font> -->
-# Physics-informed machine-learned atmospheric chemistry solver
+# Machine-learned atmospheric chemistry solver
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
 <figcaption><b>ML chemical solver in GEOS-Chem.</b> GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
@@ -46,7 +46,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 
 <!-- <font size="+1"><p align="center"><strong>Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</strong></p></font> -->
-# Compressed sensing for optimal and equitable placement of PM<sub>2.5</sub> air quality monitors
+# Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors
 
 <figure>
 <img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
@@ -105,7 +105,7 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 <br />
 
 <!-- <font size="+1"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font> -->
-# Actionable sampling: Heavy metals air quality monitoring in Portland, OR
+# Heavy metals air quality monitoring in Portland, OR
 
 <figure>
 <img src="/assets/img/arsenic_monitoring.png" alt="train fig">
@@ -120,7 +120,7 @@ Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an a
 <br />
 
 <!-- <font size="+1"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font> -->
-# Measuring coal dust from trains in the Columbia River Gorge, WA 
+# Measuring coal dust from trains in the Columbia River Gorge, WA
 
 <figure>
 <img src="/assets/img/gorge_fig.png" alt="train fig">
