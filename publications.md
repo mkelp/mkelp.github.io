@@ -38,7 +38,7 @@ air quality sensors in the United States: an approach to target urban environmen
 `10.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"} <br />
 * Special Collection on “Machine learning application to Earth system modeling”
-* [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"},
+* [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
 * Talks: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"}
 
 <br>
