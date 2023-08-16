@@ -6,18 +6,19 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-h-index: 9 (as of July 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (8), as co-author (5)
+h-index: 9 (as of August 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (9), as co-author (5)
 <br/> \*\* undergraduate advisee
 
 <!-- ## Submitted and Under Review -->
-# Publications In-Prep, Submitted, and Under Review
-
-**Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob.  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), (*In review at Env. Res. Letters*)
+<!-- # Publications In-Prep, Submitted, and Under Review -->
 
 
 # Publications
 
 ## **2023**
+
+<br />
+`14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob.  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), (*Accepted at Env. Res. Letters*)
 
 <br />
 `13.` **Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM<sub>2.5</sub>
