@@ -16,7 +16,7 @@ image: assets/img/badlands3.jpg
 <!-- # Wildfire smoke, prescribed burns, and rural environmental justice in the western United States -->
 <figure>
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
-<figcaption><b>Contributions to population-weighted smoke exposure for the western United States in September 2020.</b> The figure shows the locations of MTBS prescribed burns (>1000 acres) during 2015-2020 (black dots, n=190) and the contribution of smoke PM2.5 emissions in each grid cell to population-weighted smoke exposure in the West receptor (colors). These contributions are calculated through multiplication of the GEOS‐Chem adjoint sensitivities of the West population‐weighted receptor by the GFED fire emissions for the month of September 2020.</figcaption>
+<figcaption>Contributions to population-weighted smoke exposure for the western United States in September 2020 (Kelp et al., 2023).</figcaption>
 </figure>
 
 <br />
@@ -32,7 +32,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <!-- # Machine-learned atmospheric chemistry solver -->
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
-<figcaption><b>ML chemical solver in GEOS-Chem.</b> GEOS-Chem computes the evolution of atmospheric composition by successive application over model time steps of components simulating advection, convection, emissions, planetary boundary layer (PBL) mixing, photolysis, chemistry, and deposition. We replace the 4th-order Rosenbrock solver with an ML solver that takes as input the same chemical concentrations and photolysis frequencies. All other model processes are the same as in the original model.</figcaption>
+<figcaption>ML chemical solver in 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
 </figure>
 
 <br />
@@ -50,7 +50,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 <figure>
 <img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
-<figcaption><b>PM<sub>2.5</sub> locations for St. Louis and Houston.</b> Distribution of sensor locations identified as optimal by the  multiresolution dynamic mode decomposition (mrDMD) algorithm, and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics. All sensor locations are gridded onto a 1 km x 1 km grid. Dots represent sensor locations with the shading representing the proportion of nonwhite (left and center columns) or low-income households (right column) in that grid box. Dots outlined in red indicate areas with historic environmental justice issues mentioned in the main text – for example Granite City, IL, and East St. Louis, IL, for the race optimized mrDMDcc case.
+<figcaption> Distribution of PM<sub>2.5</sub> sensor locations in St. Louis and Houston identified as optimal by the  multiresolution dynamic mode decomposition (mrDMD) algorithm, and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).
 </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 <figure>
 <img src="/assets/img/LA_roads_fig.png" alt="LA fig">
-<figcaption><b>Road and street classifications in Los Angeles County with county base map provided by the U.S.</b> Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada).</figcaption>
+<figcaption><b>Road and street classifications in Los Angeles County with county base map provided by the U.S.</b> Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020). (src credit: Yurika Harada).</figcaption>
 </figure>
 
 <br />
@@ -90,7 +90,7 @@ We create a statistical model from measurements obtained from continuously movin
 <figure>
 <img src="/assets/img/cookstove_fig.jpg" alt="cookstove fig" width="400">
 <figcaption>
-Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up.
+Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up (Kelp et al., 2018).
 </figcaption>
 </figure>
 
