@@ -5,12 +5,11 @@ layout: page
 excerpt: Makoto Kelp presentations
 comments: false
 ---
-
-mm
+<font size="+2"><p align="left"><strong>Media</strong></p></font>
 
 ## Wildfires-Prescribed Burns
 
-#### ** **KCRA 3 Sacramento:** "Cal Fire, researchers see the proven benefits of controlled burning"
+#### * **KCRA 3 Sacramento:** "Cal Fire, researchers see the proven benefits of controlled burning"
 
 <div class="videoWrapper">
   <iframe width="560" height="349" src="https://www.youtube.com/embed/1TgKEtyJghU" frameborder="0" allowfullscreen></iframe>
@@ -18,7 +17,7 @@ mm
 
 
 <br />
-**Press**: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [KCRA Sacramento](https://www.kcra.com/article/cal-fire-researchers-see-the-proven-benefits-of-controlled-burning/44832195){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html){:target="_blank"}
+<font size="+2">**Press**: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [KCRA Sacramento](https://www.kcra.com/article/cal-fire-researchers-see-the-proven-benefits-of-controlled-burning/44832195){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html){:target="_blank"}</font>
 
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 <br />
@@ -26,7 +25,7 @@ mm
 
 ## Machine Learning for Atmospheric Chemistry Modeling
 
-#### ** **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
+#### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
@@ -35,7 +34,7 @@ mm
 
 <br />
 
-#### ** **NASA GISS Seminar Series**
+#### * **NASA GISS Seminar Series**
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0OK53zXPh5k" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -52,7 +51,7 @@ mm
 
 ## Compressed Sensing for Atmospheric Monitoring
 
-#### ** **ACCESS XVII Talk**
+#### * **ACCESS XVII Talk**
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
