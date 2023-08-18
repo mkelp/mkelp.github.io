@@ -5,9 +5,12 @@ layout: page
 excerpt: Makoto Kelp presentations
 comments: false
 ---
+
 # Media
 
-## Wildfires-Prescribed Burns
+<br />
+
+## Wildfires-Prescribed Burns :fire:
 
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 
@@ -25,7 +28,7 @@ comments: false
 <br />
 
 
-## Machine Learning for Atmospheric Chemistry Modeling
+## Machine Learning for Atmospheric Chemistry Modeling :globe_with_meridians:
 
 ##### **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
 
@@ -51,7 +54,7 @@ comments: false
 <br />
 
 
-## Compressed Sensing for Atmospheric Monitoring
+## Compressed Sensing for Atmospheric Monitoring :artificial_satellite:
 
 ##### **ACCESS XVII**
 
