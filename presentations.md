@@ -7,12 +7,12 @@ comments: false
 ---
 # Media
 
-## Prescribed Fires
+## Wildfires, Prescribed Burns, and Climate Interactions
 
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 <br />
 
-**KCRA 3 Sacramento:** "Cal Fire, researchers see the proven benefits of controlled burning"
+### **KCRA 3 Sacramento:** "Cal Fire, researchers see the proven benefits of controlled burning"
 
 
 <div class="videoWrapper">
@@ -26,11 +26,9 @@ comments: false
 
 
 
-## Machine Learning for Chemical Transport Modeling
+## Machine Learning for Atmospheric Chemistry Modeling
 
-<br />
-
-**Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
+### **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
@@ -51,11 +49,11 @@ comments: false
 * **Press**: [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
 
 
-## Compressed Sensing for Sensor Placement
+## Compressed Sensing for Atmospheric Monitoring
 
 <br />
 
-**ACCESS XVII**
+### **ACCESS XVII**
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
