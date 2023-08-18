@@ -5,15 +5,13 @@ layout: page
 excerpt: Makoto Kelp presentations
 comments: false
 ---
-## Media
-
+# Media
 
 ## Prescribed Fires
 
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 
-
-### "Cal Fire, researchers see the proven benefits of controlled burning"
+<!-- "Cal Fire, researchers see the proven benefits of controlled burning" -->
 
 <br />
 
@@ -28,9 +26,11 @@ comments: false
 
 
 
-
-
 ## Machine Learning for Chemical Transport Modeling
+
+<div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
+</div>
 
 * **Talks**: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"}
 
@@ -40,7 +40,12 @@ comments: false
 
 ## Compressed Sensing for Sensor Placement
 
-* **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"}
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
 
 
 
