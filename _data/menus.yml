@@ -14,6 +14,10 @@
   url: /publications/
   external: false
 
+- title: media
+  url: /presentations/
+  external: false
+
 - title: CV
   url: /assets/mkelpCV.pdf
   external: false
@@ -22,9 +26,7 @@
   url: https://www.atmoschemml.com/
   external: false
 
-# - title: presentations
-#   url: /presentations/
-#   external: false
+
 
 # - title: about
 #   url: /about/

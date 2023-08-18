@@ -10,7 +10,7 @@ comments: false
 ## Wildfires-Prescribed Burns
 
 <!-- #### * **KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning -->
-<font size="+1"><p align="left">KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning</p></font>
+<font size="+1"><p align="left">KCRA 3 Sacramento: Cal Fire, researchers see the proven benefits of controlled burning</p></font>
 
 
 <div class="videoWrapper">
@@ -28,7 +28,7 @@ comments: false
 ## Machine Learning for Atmospheric Chemistry Modeling
 
 <!-- #### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier? -->
-<font size="+1"><p align="left">Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?</p></font>
+<font size="+1"><p align="left">Royal Meteorological Society: Atmospheric Chemistry and Data Science - The Final Frontier?</p></font>
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
