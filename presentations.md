@@ -16,7 +16,10 @@ comments: false
 ### "Cal Fire, researchers see the proven benefits of controlled burning"
 
 <br />
-<iframe id="myFrame" src="https://www.youtube.com/embed/1TgKEtyJghU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div class="videoWrapper">
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/1TgKEtyJghU" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 <br />
