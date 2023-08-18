@@ -99,6 +99,6 @@ DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/a
 Reed College [chemistry thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"}
 
 
-# Presentations
+<!-- # Presentations
 
-[Links to abstracts and posters](https://mkelp.github.io/presentations)
+[Links to abstracts and posters](https://mkelp.github.io/presentations) -->
