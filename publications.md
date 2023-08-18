@@ -28,7 +28,7 @@ air quality sensors in the United States: an approach to target urban environmen
 * Special Collection on "Geospatial data applications for environmental justice"
 
 <br />
-`12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon (2023). A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases, (*Accepted at Atmos. Meas. Tech.*)  
+`12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon (2023). A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases. *Atmos. Meas. Tech.*, 16, 3787–3807, DOI: [10.5194/amt-16-3787-2023](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}
 
 <br />
 `11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Earth's Future*, 11, e2022EF003468, DOI: [10.1029/2022EF003468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"} <br />
