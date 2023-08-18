@@ -9,7 +9,9 @@ comments: false
 
 ## Wildfires-Prescribed Burns
 
-#### * **KCRA 3 Sacramento:** "Cal Fire, researchers see the proven benefits of controlled burning"
+<!-- #### * **KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning -->
+<font size="+1"><p align="left">KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning</p></font>
+
 
 <div class="videoWrapper">
   <iframe width="560" height="349" src="https://www.youtube.com/embed/1TgKEtyJghU" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +27,8 @@ comments: false
 
 ## Machine Learning for Atmospheric Chemistry Modeling
 
-#### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
+<!-- #### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier? -->
+<font size="+1"><p align="left">Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?</p></font>
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
@@ -34,7 +37,9 @@ comments: false
 
 <br />
 
-#### * **NASA GISS Seminar Series**
+<!-- #### * **NASA GISS Seminar Series** -->
+<font size="+1"><p align="left">NASA GISS Seminar Series</p></font>
+
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0OK53zXPh5k" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -51,7 +56,8 @@ comments: false
 
 ## Compressed Sensing for Atmospheric Monitoring
 
-#### * **ACCESS XVII Talk**
+<!-- #### * **ACCESS XVII Talk** -->
+<font size="+1"><p align="left">ACCESS XVII Talk</p></font>
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
