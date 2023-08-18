@@ -10,10 +10,10 @@ comments: false
 ## Prescribed Fires
 
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
-
-<!-- "Cal Fire, researchers see the proven benefits of controlled burning" -->
-
 <br />
+
+**KCRA 3 Sacramento:** "Cal Fire, researchers see the proven benefits of controlled burning"
+
 
 <div class="videoWrapper">
   <iframe width="560" height="349" src="https://www.youtube.com/embed/1TgKEtyJghU" frameborder="0" allowfullscreen></iframe>
@@ -28,17 +28,34 @@ comments: false
 
 ## Machine Learning for Chemical Transport Modeling
 
+<br />
+
+**Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier?
+
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
 </div>
 
-* **Talks**: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"}
+
+<br />
+
+**NASA GISS Seminar series**
+<div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0OK53zXPh5k" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<!-- * **Talks**: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"} -->
 
 
 * **Press**: [Editor's Highlight](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
 
 
 ## Compressed Sensing for Sensor Placement
+
+<br />
+
+**ACCESS XVII**
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
@@ -49,6 +66,7 @@ comments: false
 
 
 
+<br />
 
 
 # Conference Presentations
