@@ -9,13 +9,14 @@ comments: false
 * h-index: 9 (as of August 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (9), as co-author (5)
 <br/>
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
-<br/> \*\* undergraduate advisee
 
 <!-- ## Submitted and Under Review -->
 <!-- # Publications In-Prep, Submitted, and Under Review -->
 
 
 # Publications
+
+<br/> \*\* undergraduate advisee
 
 ## **2023**
 
