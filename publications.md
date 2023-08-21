@@ -16,7 +16,7 @@ comments: false
 
 # Publications
 
-<br/> \*\* undergraduate advisee
+\*\* undergraduate advisee
 
 ## **2023**
 
