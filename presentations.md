@@ -94,7 +94,7 @@ simulations of atmospheric composition. AMS Annual Meeting, Virtual, January 13,
 ## **2020**
 
 `7.` **M. Kelp**, J. N. Kutz, J.D. Marshall, and C. Tessum. Toward stable, general machine-learned
-models of the atmospheric chemical system. AGU Virtual Fall Meeting, December 7, 2020 (Invited Talk)
+models of the atmospheric chemical system. AGU Virtual Fall Meeting, December 7, 2020 (Talk)
 
 `6.` **M. Kelp** and D.J. Jacob. A recursive neural network chemical solver for fast long-term global
 simulations of atmospheric composition. Atmospheric Chemical Mechanisms Conference, Virtual,
