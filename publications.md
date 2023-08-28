@@ -10,6 +10,8 @@ comments: false
 <br/>
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
+\*\* undergraduate advisee
+
 ## Submitted and Under Review
 
 Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. (Submitted to Atmospheric Environment: X)
@@ -20,7 +22,7 @@ Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J
 
 # Publications
 
-\*\* undergraduate advisee
+<!-- \*\* undergraduate advisee -->
 
 ## **2023**
 
