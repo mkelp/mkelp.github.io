@@ -25,17 +25,22 @@ comments: false
 <br />
 
 
-## Machine Learning for Atmospheric Chemistry Modeling
+## Compressed Sensing for Atmospheric Monitoring
 
-<!-- #### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier? -->
-<font size="+1"><p align="left">Royal Meteorological Society: Atmospheric Chemistry and Data Science - The Final Frontier?</p></font>
+<!-- #### * **ACCESS XVII Talk** -->
+<font size="+1"><p align="left">ACCESS XVII Talk</p></font>
 
 <div class="videoWrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
+<!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
+
 <br />
+
+
+## Machine Learning for Atmospheric Chemistry Modeling
 
 <!-- #### * **NASA GISS Seminar Series** -->
 <font size="+1"><p align="left">NASA GISS Seminar Series</p></font>
@@ -49,24 +54,19 @@ comments: false
 
 <br />
 
-**Press**: [Editor's Highlight from JAMES](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
+<!-- #### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier? -->
+<font size="+1"><p align="left">Royal Meteorological Society: Atmospheric Chemistry and Data Science - The Final Frontier?</p></font>
+
+<div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/AKomky52rPU?start=5561" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 <br />
 
 
-## Compressed Sensing for Atmospheric Monitoring
 
-<!-- #### * **ACCESS XVII Talk** -->
-<font size="+1"><p align="left">ACCESS XVII Talk</p></font>
-
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
-
-
+**Press**: [Editor's Highlight from JAMES](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
 
 <br />
 
