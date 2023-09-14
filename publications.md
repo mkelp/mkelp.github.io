@@ -27,12 +27,12 @@ Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J
 ## **2023**
 
 <br />
-`14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI), *Environ. Res. Lett.*, 18, 094036, DOI: [10.1088/1748-9326/acf0b7](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
+`14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI). *Environ. Res. Lett.*, 18, 094036, DOI: [10.1088/1748-9326/acf0b7](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
 
 
 <br />
 `13.` **Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). Data-driven placement of PM<sub>2.5</sub>
-air quality sensors in the United States: an approach to target urban environmental injustice, (*Accepted at GeoHealth*)
+air quality sensors in the United States: an approach to target urban environmental injustice, *GeoHealth*, 7, e2023GH000834, DOI: [10.1029/2023GH000834](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}
 * Special Collection on "Geospatial data applications for environmental justice"
 
 <br />
