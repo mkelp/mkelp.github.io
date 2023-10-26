@@ -25,7 +25,7 @@ comments: false
 
 
 <div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/watch?v=C-h9vtn5pvo&t=953s" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="349" src="https://www.youtube.com/watch?v=C-h9vtn5pvo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
