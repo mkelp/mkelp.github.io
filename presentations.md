@@ -21,7 +21,7 @@ comments: false
 <br />
 
 
-<font size="+1"><p align="left">Prescribed Burns as a Tool to Mitigate Future Wildfire Smoke Exposure"</p></font>
+<font size="+1"><p align="left">Prescribed Burns as a Tool to Mitigate Future Wildfire Smoke Exposure</p></font>
 
 
 <div class="videoWrapper">
