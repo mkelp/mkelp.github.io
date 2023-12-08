@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-* h-index: 9 (as of September 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (9), as co-author (5)
+* h-index: 9 (as of December 2023, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (9), as co-author (5)
 <br/>
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
