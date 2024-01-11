@@ -10,6 +10,16 @@ comments: false
 ## Wildfires and Prescribed Burns
 
 <!-- #### * **KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning -->
+<font size="+1"><p align="left">NewsWatch 12: </p></font>
+
+
+<div class="videoWrapper">
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/PuWSd5gJP_U?si=_ge-cLC2EJ2iclDF" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br />
+
+<!-- #### * **KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning -->
 <font size="+1"><p align="left">KCRA 3 Sacramento: "Cal Fire, researchers see the proven benefits of controlled burning"</p></font>
 
 
