@@ -68,7 +68,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 <figure>
 <img src="/assets/img/cda_o3.png" alt="sensors fig">
-<figcaption> Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks.
+<figcaption> Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation (OMI, MLS, IASI, AIRS) simulations in GEOS-CF sampled along the aircraft flight tracks.
 </figcaption>
 </figure>
 
