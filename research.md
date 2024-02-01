@@ -63,6 +63,26 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 <br />
 
 
+<font size="+2"><p align="center"><strong>Chemical data assimilation for global atmospheric composition</strong></p></font>
+<!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
+
+<figure>
+<img src="/assets/img/cda_o3.png" alt="sensors fig">
+<figcaption> Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks.
+</figcaption>
+</figure>
+
+<br />
+
+The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We focus our evaluations on the troposphere. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Assimilation increments are largest in the upper troposphere and are consistent between satellite data sets. The OMI and MLS ozone data generally provide more information than the AIRS and IASI radiances except at high latitudes where the radiances provide more information. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
+
+
+**Publications**: [Kelp et al., (2023)](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
+
+<br />
+
+
+
 # **Past Projects**
 
 

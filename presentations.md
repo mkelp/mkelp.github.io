@@ -100,6 +100,9 @@ comments: false
 <!-- A full list of presentations and invited talks may be found in my CV. -->
 
 ## **2023**
+`13.` **M. Kelp**, C. Chiu, Q. Zhu, and L.J. Mickley. Uncovering spatiotemporal drivers of urban ozone in changing NOx regimes: A data-driven case study of Los Angeles and Chicago. AGU Fall Meeting, San Francisco, CA, December 11,
+2023 ([Talk slides](/assets/mkelp_AGU2023.pdf){:target="_blank"})
+
 `12.` **M. Kelp**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone dataassimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct assimilation of thermal infra-red radiances. AMS Annual Meeting, Denver, CO, January 12,
 2023 ([Talk slides](/assets/AMS23_mkelp.pdf){:target="_blank"})
 
