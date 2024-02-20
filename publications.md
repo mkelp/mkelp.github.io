@@ -19,6 +19,7 @@ air quality monitoring in India reveal 18-year spatio-temporal trends. (Submitte
 
 Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. (Submitted to *International Journal of Wildland Fire*)
 
+Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). (Submitted to *Atmospheric Chemistry and Physics*)
 
 <!-- # Publications In-Prep, Submitted, and Under Review -->
 
