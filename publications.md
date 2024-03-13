@@ -21,6 +21,11 @@ Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J
 
 Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). (Submitted to *Atmospheric Chemistry and Physics*)
 
+Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
+N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
+change. (Submitted to *Science*)
+
+
 <!-- # Publications In-Prep, Submitted, and Under Review -->
 
 
