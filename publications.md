@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-* h-index: 9 (as of February 2024, [Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (9), as co-author (5)
+* h-index: 9 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)); as 1st author (9), as co-author (5)
 <br/>
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
@@ -14,16 +14,17 @@ comments: false
 
 ## Submitted and Under Review
 
-<!-- Kawano, A., **M. Kelp**, M. Qiu, E. Chaturvedi, K. Singh, S. Dahiya, M. Burke. Improved daily PM<sub>2.5</sub> data for
-air quality monitoring in India reveal 18-year spatio-temporal trends. (Submitted to *PNAS*) -->
-
-Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. (Submitted to *International Journal of Wildland Fire*)
-
-Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). (Submitted to *Atmospheric Chemistry and Physics*)
+Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM2.5
+estimates in India reveal inequalities in recent enhancement of air quality. (Submitted to *PNAS*)
 
 Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
 N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
 change. (Submitted to *Science*)
+
+Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). (Submitted to *Atmospheric Chemistry and Physics*)
+
+Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. (Submitted to *International Journal of Wildland Fire*)
+
 
 
 <!-- # Publications In-Prep, Submitted, and Under Review -->
