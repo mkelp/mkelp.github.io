@@ -14,7 +14,9 @@ comments: false
 
 ## Submitted and Under Review
 
-Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM2.5
+Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke. Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (Submitted to *Environ. Sci. Technol.*)
+
+Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM<sub>2.5</sub>
 estimates in India reveal inequalities in recent enhancement of air quality. (Submitted to *PNAS*)
 
 Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
