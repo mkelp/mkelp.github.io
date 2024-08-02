@@ -23,10 +23,7 @@ Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M
 N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
 change. (Submitted to *Science*)
 
-Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). (Submitted to *Atmospheric Chemistry and Physics*)
-
 Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. (Submitted to *International Journal of Wildland Fire*)
-
 
 
 <!-- # Publications In-Prep, Submitted, and Under Review -->
@@ -36,11 +33,15 @@ Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J
 
 <!-- \*\* undergraduate advisee -->
 
+
+## **2024**
+<br />
+`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, [in press](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-470/){:target="_blank"}
+
 ## **2023**
 
 <br />
 `14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI). *Environ. Res. Lett.*, 18, 094036, DOI: [10.1088/1748-9326/acf0b7](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
-
 
 <br />
 `13.` **Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). Data-driven placement of PM<sub>2.5</sub>
