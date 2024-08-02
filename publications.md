@@ -36,7 +36,7 @@ Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J
 
 ## **2024**
 <br />
-`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, [in press](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-470/){:target="_blank"}
+`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: [10.5194/acp-24-8607-2024](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}
 
 ## **2023**
 
