@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-<img src="/assets/img/bigsur.jpg" alt="bigsur fig">
+<img src="/assets/img/tori.jpg" alt="tori fig">
 </figure>
 
 <br />
@@ -21,7 +21,7 @@ My PhD research with Prof. Daniel Jacob and Dr. Loretta Mickley at Harvard Unive
 In the past, I worked as a junior research scientist at the University of Washington on air quality case studies and applications of machine learning methods to chemical mechanisms. I earned my B.A. in chemistry from Reed College, with research experience pertaining to air pollution monitoring and secondary organic aerosol modeling. In my spare time, I [play jazz trombone](https://soundcloud.com/philosophytalk/it-dont-mean-a-thing-from-your-lying-eyes-112915){:target="_blank"}, enjoy football/basketball, and watch horror movies.
 
 
-### [Curriculum Vitae]({{ site.url }}/assets/mkelpCV.pdf){:target="_blank"} (last updated August 2024)
+### [Curriculum Vitae]({{ site.url }}/assets/mkelpCV.pdf){:target="_blank"} (last updated September 2024)
 
 
 **Contact information:**
