@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mkelp-github-io"
+version = "0.1.0"
+description = ""
+authors = ["Makoto Kelp <mkelp93@gmail.com>"]
+readme = "README.md"
+packages = [{include = "mkelp"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+shapely = "^2.0.6"
+fiona = "^1.9.6"
+pyproj = "^3.6.1"
+geopandas = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
