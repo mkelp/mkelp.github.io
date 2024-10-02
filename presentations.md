@@ -8,11 +8,10 @@ comments: false
 <font size="+2"><p align="left"><strong>Media</strong></p></font>
 
 ## NOAA Climate and Global Change Postdoctoral Fellowship Promo
-<!-- #### * **NOAA CGC** -->
-<font size="+1"><p align="left"> </p></font>
+
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yuA2btYEC3M&ab_channel=UCAR.CPAESS" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/yuA2btYEC3M?si=JXiubnSx3GOF_ylZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
