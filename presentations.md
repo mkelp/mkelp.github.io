@@ -7,10 +7,22 @@ comments: false
 ---
 <font size="+2"><p align="left"><strong>Media</strong></p></font>
 
+## NOAA Climate and Global Change Postdoctoral Fellowship Promo
+<!-- #### * **NOAA CGC** -->
+<font size="+1"><p align="left"> </p></font>
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yuA2btYEC3M&ab_channel=UCAR.CPAESS" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<br />
+
+
 ## Wildfires and Prescribed Burns
 
 <!-- #### * **KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning -->
-<font size="+1"><p align="left">NewsWatch 12: </p></font>
+<font size="+1"><p align="left">NewsWatch 12 </p></font>
 
 
 <div class="videoWrapper">
