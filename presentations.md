@@ -10,7 +10,7 @@ comments: false
 ## NOAA Climate and Global Change Postdoctoral Fellowship Promo
 
 <div class="videoWrapper" style="position: relative; width: 560px; height: 349px;">
-  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 560px; height: 349px; cursor: pointer;" onclick="loadVideo(this)">
+  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: 100%; cursor: pointer;" onclick="loadVideo(this)">
   <iframe id="ytPlayer" width="560" height="349" src="" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; display: none;"></iframe>
 </div>
 
@@ -22,6 +22,7 @@ comments: false
     thumb.style.display = 'none';
   }
 </script>
+
 
 
 <!-- <div class="videoWrapper">
