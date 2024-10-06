@@ -29,18 +29,10 @@ comments: false
   <iframe width="560" height="349" src="https://www.youtube.com/embed/yuA2btYEC3M?si=JXiubnSx3GOF_ylZ" frameborder="0" allowfullscreen></iframe>
 </div> -->
 
-<div class="videoWrapper" style="position: relative; width: 560px; height: 349px; margin: 0 auto;">
-  <a href="https://www.youtube.com/watch?v=yuA2btYEC3M">
-    <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="display: block; width: 100%; height: 100%; cursor: pointer;">
-  </a>
-</div>
+<a href="https://www.youtube.com/watch?v=yuA2btYEC3M">
+  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 560px; height: 349px; cursor: pointer; display: block; margin: 0 auto;">
+</a>
 
-
-<script>
-  function redirectToVideo() {
-    window.location.href = "https://www.youtube.com/watch?v=yuA2btYEC3M";
-  }
-</script>
 
 
 
