@@ -29,8 +29,8 @@ comments: false
   <iframe width="560" height="349" src="https://www.youtube.com/embed/yuA2btYEC3M?si=JXiubnSx3GOF_ylZ" frameborder="0" allowfullscreen></iframe>
 </div> -->
 
-<div class="videoWrapper" style="position: relative; max-width: 560px; margin: 0 auto;">
-  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: auto; cursor: pointer;" onclick="redirectToVideo()">
+<div class="videoWrapper" style="position: relative; width: 560px; height: 349px; margin: 0 auto;">
+  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: 100%; cursor: pointer;" onclick="redirectToVideo()">
 </div>
 
 <script>
@@ -38,6 +38,7 @@ comments: false
     window.location.href = "https://www.youtube.com/watch?v=yuA2btYEC3M";
   }
 </script>
+
 
 
 
