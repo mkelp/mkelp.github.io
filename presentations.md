@@ -30,15 +30,17 @@ comments: false
 </div> -->
 
 <div class="videoWrapper" style="position: relative; width: 560px; height: 349px; margin: 0 auto;">
-  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: 100%; cursor: pointer;" onclick="redirectToVideo()">
+  <a href="https://www.youtube.com/watch?v=yuA2btYEC3M">
+    <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="display: block; width: 100%; height: 100%; cursor: pointer;">
+  </a>
 </div>
+
 
 <script>
   function redirectToVideo() {
     window.location.href = "https://www.youtube.com/watch?v=yuA2btYEC3M";
   }
 </script>
-
 
 
 
