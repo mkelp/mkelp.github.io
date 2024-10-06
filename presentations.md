@@ -29,8 +29,8 @@ comments: false
   <iframe width="560" height="349" src="https://www.youtube.com/embed/yuA2btYEC3M?si=JXiubnSx3GOF_ylZ" frameborder="0" allowfullscreen></iframe>
 </div> -->
 
-<div class="videoWrapper" style="position: relative; max-width: 560px; aspect-ratio: 16/9; margin: 0 auto;">
-  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: 100%; cursor: pointer; object-fit: cover;" onclick="redirectToVideo()">
+<div class="videoWrapper" style="position: relative; max-width: 560px; margin: 0 auto;">
+  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: auto; cursor: pointer;" onclick="redirectToVideo()">
 </div>
 
 <script>
