@@ -30,7 +30,7 @@ comments: false
 </div> -->
 
 <a href="https://www.youtube.com/watch?v=yuA2btYEC3M">
-  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 560px; height: 349px; cursor: pointer; display: block; margin: 0 auto;">
+  <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 700px; height: 349px; cursor: pointer; display: block; margin: 0 auto;">
 </a>
 
 
