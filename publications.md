@@ -15,7 +15,7 @@ comments: false
 
 ## Submitted and Under Review
 
-**Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (Submitted to *PNAS*)
+**Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review at *PNAS*)
 
 Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke. Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In review at *Environ. Sci. Technol.*)
 
