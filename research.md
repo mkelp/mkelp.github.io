@@ -7,7 +7,14 @@ image: assets/img/badlands3.jpg
 
 ---
 
-<p align="left"><em>My research blends the domains of atmospheric chemistry, air quality engineering, and machine learning/data science to uncover latent patterns in air pollution.</em></p>
+# **Research Interests**
+
+My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management. I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional data sources and methods.
+
+<br />
+
+
+<!-- <p align="left"><em>My research blends the domains of atmospheric chemistry, air quality engineering, and machine learning/data science to uncover latent patterns in air pollution.</em></p> -->
 
 
 <!-- # **Current Projects** -->
