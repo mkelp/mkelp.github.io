@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-* h-index: 11 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en))
+* h-index: 12 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en))
 
 <br/>
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
@@ -16,8 +16,6 @@ comments: false
 ## Submitted and Under Review
 
 **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review at *PNAS*)
-
-Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke. Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In review at *Environ. Sci. Technol.*) [preprint](https://eartharxiv.org/repository/view/7250/){:target="_blank"}
 
 Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM<sub>2.5</sub>
 estimates in India reveal inequalities in recent enhancement of air quality. (In review at *Science Advances*) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
@@ -36,6 +34,9 @@ change. (In review at *Science*)
  
 
 ## **2024**
+
+<br />
+`17.Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke. Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In press at *Environ. Sci. Technol.*) [preprint](https://eartharxiv.org/repository/view/7250/){:target="_blank"}
 
 <br />
 `16.`Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. *International Journal of Wildland Fire*, 33, WF23148, DOI: [10.1071/WF23148](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
