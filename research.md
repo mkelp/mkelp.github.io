@@ -68,6 +68,9 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 <br />
 
+# **Past Projects**
+
+
 
 <font size="+2"><p align="center"><strong>Chemical data assimilation for global atmospheric composition</strong></p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
@@ -87,9 +90,6 @@ The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) pr
 
 <br />
 
-
-
-# **Past Projects**
 
 
 <font size="+2"><p align="center"><strong>Vehicle emission factors for area-wide mobile monitoring</strong></p></font>
