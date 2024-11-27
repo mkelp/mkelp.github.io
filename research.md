@@ -70,6 +70,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 # **Past Projects**
 
+<br />
 
 
 <font size="+2"><p align="center"><strong>Chemical data assimilation for global atmospheric composition</strong></p></font>
