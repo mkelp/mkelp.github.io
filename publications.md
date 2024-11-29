@@ -16,7 +16,7 @@ comments: false
 ## Submitted and Under Review
 
 Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) <br />
-* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br />
+* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br /> <br />
 
 **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review)
 
