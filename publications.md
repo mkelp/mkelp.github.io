@@ -16,9 +16,7 @@ comments: false
 ## Submitted and Under Review
 
 Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) <br />
-* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue
-
-<br />
+* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br />
 
 **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review)
 
@@ -27,7 +25,8 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 
 Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
 N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
-change. (In review)
+change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:text=We%20project%20that%20climate%2Ddriven%20increases%20in%20future%20smoke%20PM2,deaths%20from%20wildfire%20smoke%20PM2.){:target="_blank"}
+
 
 
 <!-- # Publications In-Prep, Submitted, and Under Review -->
