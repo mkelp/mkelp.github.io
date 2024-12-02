@@ -20,9 +20,6 @@ Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington,
 
 **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review)
 
-Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM<sub>2.5</sub>
-estimates in India reveal inequalities in recent enhancement of air quality. (In review) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
-
 Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
 N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
 change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:text=We%20project%20that%20climate%2Ddriven%20increases%20in%20future%20smoke%20PM2,deaths%20from%20wildfire%20smoke%20PM2.){:target="_blank"}
@@ -38,6 +35,10 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
  
 
 ## **2024**
+
+<br />
+`18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM<sub>2.5</sub>
+estimates in India reveal inequalities in recent enhancement of air quality. (In press at *Science Advances*) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
 
 <br />
 `17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke. Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In press at *Environ. Sci. Technol.*) [preprint](https://eartharxiv.org/repository/view/7250/){:target="_blank"}
