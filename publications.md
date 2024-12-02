@@ -11,7 +11,7 @@ comments: false
 <br/>
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
-\*\* undergraduate advisee
+<u>undergraduate advisee</u>
 
 ## Submitted and Under Review
 
