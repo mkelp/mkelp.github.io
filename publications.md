@@ -36,17 +36,17 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 ## **2024**
 
 <!-- <br /> -->
-`18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM<sub>2.5</sub>
+`18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke (2024). Improved daily PM<sub>2.5</sub>
 estimates in India reveal inequalities in recent enhancement of air quality. (In press at *Science Advances*) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
 
 <br />
-`17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke. Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In press at *Environ. Sci. Technol.*) [preprint](https://eartharxiv.org/repository/view/7250/){:target="_blank"}
+`17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In press at *Environ. Sci. Technol.*) [preprint](https://eartharxiv.org/repository/view/7250/){:target="_blank"}
 
 <br />
-`16.` Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley. Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. *International Journal of Wildland Fire*, 33, WF23148, DOI: [10.1071/WF23148](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
+`16.` Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. *International Journal of Wildland Fire*, 33, WF23148, DOI: [10.1071/WF23148](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
 
 <br />
-`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: [10.5194/acp-24-8607-2024](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}
+`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: [10.5194/acp-24-8607-2024](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}
 <br />
 
 ## **2023**
@@ -92,8 +92,8 @@ air quality sensors: case study for the contiguous United States. *Env. Res. Let
 `7.` **Kelp, M.**, D.J. Jacob, J.N. Kutz, J.D. Marshall, and C. Tessum (2020). Toward stable, general
 machine-learned models of the atmospheric chemical system. *JGR: Atmospheres*, 125, e2020JD032759,
 DOI: [10.1029/2020JD032759](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD032759){:target="_blank"}
-
 <br>
+
 `6.` **Kelp, M.**, T. Gould, E. Austin, J.D. Marshall, M. Yost, C. Simpson, and T. Larson (2020).
 Sensitivity analysis of area-wide, mobile source emission factors to high-emitter vehicles in Los
 Angeles. *Atmospheric Environment*, 223, 117212, DOI: [10.1016/j.atmosenv.2019.117212](https://www.sciencedirect.com/science/article/abs/pii/S1352231019308519){:target="_blank"}
