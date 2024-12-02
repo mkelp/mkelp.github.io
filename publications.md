@@ -35,7 +35,7 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 
 ## **2024**
 
-<br />
+<!-- <br /> -->
 `18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke. Improved daily PM<sub>2.5</sub>
 estimates in India reveal inequalities in recent enhancement of air quality. (In press at *Science Advances*) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
 
@@ -47,10 +47,11 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 
 <br />
 `15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob. Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: [10.5194/acp-24-8607-2024](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}
+<br />
 
 ## **2023**
 
-<br />
+<!-- <br /> -->
 `14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI). *Environ. Res. Lett.*, 18, 094036, DOI: [10.1088/1748-9326/acf0b7](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
 
 <br />
@@ -69,7 +70,7 @@ air quality sensors in the United States: an approach to target urban environmen
 
 ## **2022**
 
-<br />
+<!-- <br /> -->
 `10.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry. *JAMES*, 14, e2021MS002926, DOI: [10.1029/2021MS002926](https://doi.org/10.1029/2021MS002926){:target="_blank"} <br />
 * Special Collection on “Machine learning application to Earth system modeling”
@@ -84,9 +85,10 @@ solver for stable long-term global simulations of atmospheric chemistry. *JAMES*
 `8.` **Kelp, M.**, S. Lin\*\*, J.N. Kutz, and L.J. Mickley (2022). A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States. *Env. Res. Letters*, 17, 034034, DOI: [10.1088/1748-9326/ac548f](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}  
 <!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
+<br />
 
 ## **2020**
-<br />
+<!-- <br /> -->
 `7.` **Kelp, M.**, D.J. Jacob, J.N. Kutz, J.D. Marshall, and C. Tessum (2020). Toward stable, general
 machine-learned models of the atmospheric chemical system. *JGR: Atmospheres*, 125, e2020JD032759,
 DOI: [10.1029/2020JD032759](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD032759){:target="_blank"}
@@ -98,30 +100,34 @@ Angeles. *Atmospheric Environment*, 223, 117212, DOI: [10.1016/j.atmosenv.2019.1
 
 ## **2019**
 
-<br>
+<!-- <br> -->
 `5.` Wen, Y., H. Wang, T. Larson, **M. Kelp**, S. Zhang, Y. Wu, and J.D. Marshall (2019). On-highway
 vehicle emission factors, and spatial patterns, based on mobile monitoring and absolute principal
 component score. *Science of The Total Environment*, 676, 242-251, DOI: [10.1016/j.scitotenv.2019.04.185](https://www.sciencedirect.com/science/article/abs/pii/S0048969719317140){:target="_blank"}
+<br />
 
 ## **2018**
 
-<br>
+<!-- <br> -->
 `4.` **Kelp, M.**, C. Tessum, and J.D. Marshall (2018). Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation. arXiv: [1808.03874](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
 <br>
 `3.` **Kelp, M.**, A.P. Grieshop, C.O. Reynolds, J. Baumgartner, G. Jain, K. Sethuramanand, and J.D. Marshall (2018). Real-time indoor measurement of health and climate-relevant air pollution concentrations during a carbon-finance-approved cookstove intervention in rural India. *Development Engineering*, 3, 125-132, DOI: [10.1016/j.deveng.2018.05.001](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
+<br />
 
 ## **2017**
-<br>
+<!-- <br> -->
 `2.`  Brewer, J. F., M. Bishop, **M. Kelp**, C. Keller, A.R. Ravishankara, and E.V. Fischer (2017). A
 sensitivity analysis of key factors in the modeled global acetone budget. *J. Geophys. Res.*, 122,
 DOI: [10.1002/2016JD025935](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD025935){:target="_blank"}
+<br />
 
 ## **2015**
-<br>
+<!-- <br> -->
 `1.`  Jaffe, D., J. Putz, G. Hof, G. Hof, J. Hee, D.A. Lommers-Johnson, F. Gabela, J. Fry, B. Ayres, **M. Kelp**, and M. Minsk (2015).
 Diesel particulate matter and coal dust from trains in the Columbia River Gorge, Washington state, USA. *Atmospheric Pollution Research*, 6, 946-952,
 DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
+<br />
 
 
 # Other Publications
