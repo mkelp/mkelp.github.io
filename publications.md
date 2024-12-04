@@ -17,7 +17,7 @@ comments: false
 Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of anthropogenic climate change in driving smoke exposure across the western United States from 1992 to 2020. (Submitted)
 
 Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) <br />
-* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br /> <br />
+* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br /> 
 
 **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review)
 
