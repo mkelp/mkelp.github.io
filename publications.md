@@ -45,27 +45,27 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 `17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects. (In press at *Environ. Sci. Technol.*) [preprint](https://eartharxiv.org/repository/view/7250/){:target="_blank"}
 
 <br />
-`16.` Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. *International Journal of Wildland Fire*, 33, WF23148, DOI: [10.1071/WF23148](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
+`16.` Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). [Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}, *International Journal of Wildland Fire*, 33, WF23148, DOI: 10.1071/WF23148.
 
 <br />
-`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). [Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2)](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}. *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: 10.5194/acp-24-8607-2024
+`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). [Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2)](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}, *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: 10.5194/acp-24-8607-2024. 
 <br />
 
 ## **2023**
 
 <!-- <br /> -->
-`14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI). *Environ. Res. Lett.*, 18, 094036, DOI: [10.1088/1748-9326/acf0b7](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
+`14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  [Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI)](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}, *Environ. Res. Lett.*, 18, 094036, DOI: 10.1088/1748-9326/acf0b7.
 
 <br />
-`13.` **Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). Data-driven placement of PM<sub>2.5</sub>
-air quality sensors in the United States: an approach to target urban environmental injustice, *GeoHealth*, 7, e2023GH000834, DOI: [10.1029/2023GH000834](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}
+`13.` **Kelp, M.**, T. Fargiano\*\*, S. Lin\*\*, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). [Data-driven placement of PM<sub>2.5</sub> air quality sensors in the United States: an approach to target urban environmental injustice](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, *GeoHealth*, 7, e2023GH000834, DOI: 10.1029/2023GH000834.
 * Special Collection on "Geospatial data applications for environmental justice"
 
 <br />
-`12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon (2023). A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases. *Atmos. Meas. Tech.*, 16, 3787–3807, DOI: [10.5194/amt-16-3787-2023](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}
+`12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon (2023). [A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}, *Atmos. Meas. Tech.*, 16, 3787–3807, DOI: 10.5194/amt-16-3787-2023.
 
 <br />
-`11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities. *Earth's Future*, 11, e2022EF003468, DOI: [10.1029/2022EF003468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"} <br />
+`11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). [Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"}, *Earth's Future*, 11, e2022EF003468, DOI: 10.1029/2022EF003468.
+ <br />
 <!-- * **Press**: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [KCRA Sacramento](https://www.kcra.com/article/cal-fire-researchers-see-the-proven-benefits-of-controlled-burning/44832195){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html){:target="_blank"} -->
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 
