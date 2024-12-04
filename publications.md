@@ -48,7 +48,7 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 `16.` Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States. *International Journal of Wildland Fire*, 33, WF23148, DOI: [10.1071/WF23148](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
 
 <br />
-`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2). *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: [10.5194/acp-24-8607-2024](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}
+`15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). [Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2)](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}. *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: 10.5194/acp-24-8607-2024
 <br />
 
 ## **2023**
@@ -126,8 +126,7 @@ DOI: [10.1002/2016JD025935](https://agupubs.onlinelibrary.wiley.com/doi/full/10.
 
 ## **2015**
 <!-- <br> -->
-`1.`  Jaffe, D., J. Putz, G. Hof, G. Hof, J. Hee, D.A. Lommers-Johnson, F. Gabela, J. Fry, B. Ayres, **M. Kelp**, and M. Minsk (2015).
-Diesel particulate matter and coal dust from trains in the Columbia River Gorge, Washington state, USA. *Atmospheric Pollution Research*, 6, 946-952,
+`1.`  Jaffe, D., J. Putz, G. Hof, G. Hof, J. Hee, D.A. Lommers-Johnson, F. Gabela, J. Fry, B. Ayres, **M. Kelp**, and M. Minsk (2015).Diesel particulate matter and coal dust from trains in the Columbia River Gorge, Washington state, USA. *Atmospheric Pollution Research*, 6, 946-952,
 DOI: [10.1016/j.apr.2015.04.004](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
 <br />
 
