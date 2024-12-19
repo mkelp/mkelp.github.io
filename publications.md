@@ -43,7 +43,7 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 
 <br />
 `17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). [Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"} (In press at *Environ. Sci. Technol.*).
-* Special Issue on "Wildland Fires: Emissions, Chemistry,Contamination, Climate, and Human Health"
+* Special Issue on "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health"
 
 <br />
 `16.` Liu, T., F.M. Panday\*\*, M.C. Caine\*\*, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). [Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}, *International Journal of Wildland Fire*, 33, WF23148, DOI: 10.1071/WF23148.

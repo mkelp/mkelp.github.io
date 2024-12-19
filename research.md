@@ -75,7 +75,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 **Publications:** [Kelp et al., (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, [Kelp et al., (2022)](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}
 
-**Related Sensor/EJ Publications:** [Kawano et al., (in review)](https://eartharxiv.org/repository/view/6911/){:target="_blank"}, [Yang et al., (2022)](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
+**Related Sensor/EJ Publications:** [Kawano et al., (preprint, in-press)](https://eartharxiv.org/repository/view/6911/){:target="_blank"}, [Yang et al., (2022)](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
 
 <br />
 
