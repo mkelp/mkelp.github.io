@@ -36,7 +36,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 
 **Publications:** [Kelp et al., (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"}
 
-**Related Wildfire Publications:** [Qiu et al., in-press (2024)](https://eartharxiv.org/repository/view/7250/){:target="_blank"}, [Liu et al., (2024)](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
+**Related Wildfire Publications:** [Qiu et al., in-press (2024)](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, [Liu et al., (2024)](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
 
 <br />
 
