@@ -14,12 +14,12 @@ comments: false
 
 ## Submitted and Under Review
 
+**Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (Submitted) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
+
 Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of anthropogenic climate change in driving smoke exposure across the western United States from 1992 to 2020. (Submitted) [preprint](https://arxiv.org/abs/2412.03733){:target="_blank"}
 
 Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) <br />
 * Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br /> 
-
-**Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (In review)
 
 Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
 N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
