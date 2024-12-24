@@ -22,7 +22,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <font size="+3">Current Research Areas</font>
 <br />
 
-<font size="+2"><p align="center">Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</p></font>
+<font size="+2"><p align="center">Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
 <!-- # Wildfire smoke, prescribed burns, and rural environmental justice in the western United States -->
 <figure>
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
@@ -40,7 +40,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <br />
 
 
-<font size="+2"><p align="center">Machine-learned atmospheric chemistry solver</p></font>
+<font size="+2"><p align="center">Deep Learning Atmospheric Chemistry</p></font>
 <!-- # Machine-learned atmospheric chemistry solver -->
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
@@ -59,7 +59,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 
 
-<font size="+2"><p align="center">Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</p></font>
+<font size="+2"><p align="center">Data-driven Air Pollution Sensors</p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure>
