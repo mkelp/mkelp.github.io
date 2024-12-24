@@ -9,7 +9,7 @@ image: assets/img/badlands3.jpg
 
 # Research Interests
 
-My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
+My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <u>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</u> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
 
 <br />
 
@@ -77,7 +77,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 <br />
 
-# **Past Projects**
+# Past Projects
 
 <br />
 
