@@ -24,9 +24,13 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
 <font size="+2"><p align="center">Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
 <!-- # Wildfire smoke, prescribed burns, and rural environmental justice in the western United States -->
-<figure>
+<!-- <figure>
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
 <figcaption>Contributions to population-weighted smoke exposure for the western United States in September 2020 (Kelp et al., 2023).</figcaption>
+</figure> -->
+<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
+  <img src="/assets/img/west_fire.png" alt="controlled burns fig">
+  <figcaption>Contributions to population-weighted smoke exposure for the western United States in September 2020 (Kelp et al., 2023).</figcaption>
 </figure>
 
 <br />
