@@ -710,3 +710,48 @@
     U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
 }
+
+@font-face {
+  font-family: 'halyard-display';
+  src: url('https://use.typekit.net/af/1bd678/00000000000000007757e1d7/30/l?subset_id=2&fvd=n3&v=3') format('woff2'),
+       url('https://use.typekit.net/af/1bd678/00000000000000007757e1d7/30/d?subset_id=2&fvd=n3&v=3') format('woff'),
+       url('https://use.typekit.net/af/1bd678/00000000000000007757e1d7/30/a?subset_id=2&fvd=n3&v=3') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'halyard-display';
+  src: url('https://use.typekit.net/af/68cefb/00000000000000007757e165/30/l?subset_id=2&fvd=n7&v=3') format('woff2'),
+       url('https://use.typekit.net/af/68cefb/00000000000000007757e165/30/d?subset_id=2&fvd=n7&v=3') format('woff'),
+       url('https://use.typekit.net/af/68cefb/00000000000000007757e165/30/a?subset_id=2&fvd=n7&v=3') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'halyard-display';
+  src: url('https://use.typekit.net/af/fd46d3/00000000000000007757e15c/30/l?subset_id=2&fvd=i3&v=3') format('woff2'),
+       url('https://use.typekit.net/af/fd46d3/00000000000000007757e15c/30/d?subset_id=2&fvd=i3&v=3') format('woff'),
+       url('https://use.typekit.net/af/fd46d3/00000000000000007757e15c/30/a?subset_id=2&fvd=i3&v=3') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'halyard-display';
+  src: url('https://use.typekit.net/af/b198f4/00000000000000007757e158/30/l?subset_id=2&fvd=i7&v=3') format('woff2'),
+       url('https://use.typekit.net/af/b198f4/00000000000000007757e158/30/d?subset_id=2&fvd=i7&v=3') format('woff'),
+       url('https://use.typekit.net/af/b198f4/00000000000000007757e158/30/a?subset_id=2&fvd=i7&v=3') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
