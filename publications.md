@@ -14,7 +14,7 @@ comments: false
 
 ## Submitted and Under Review
 
-<u>Kelp, M.</u>, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (Submitted) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
+Kelp, M., M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (Submitted) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
 
 Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of anthropogenic climate change in driving smoke exposure across the western United States from 1992 to 2020. (Submitted) [preprint](https://arxiv.org/abs/2412.03733){:target="_blank"}
 
