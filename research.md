@@ -48,7 +48,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <!-- # Machine-learned atmospheric chemistry solver -->
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
   <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
-  <figcaption>ML chemical solver in 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
+  <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
 </figure>
 
 <div style="height: 20px;"></div>
@@ -69,7 +69,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
   <img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
-  <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis and Houston identified as optimal by the mrDMD algorithm, and those identified as optimal and equitable by the cost-constrained mrDMDcc using race and income metrics (Kelp et al., 2023).</figcaption>
+  <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).</figcaption>
 </figure>
 
 <div style="height: 20px;"></div>
@@ -134,7 +134,7 @@ We create a statistical model from measurements obtained from continuously movin
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
   <img src="/assets/img/cookstove_fig.jpg" alt="cookstove fig" width="400">
-  <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10 min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up (Kelp et al., 2018).</figcaption>
+  <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves (Kelp et al., 2018).</figcaption>
 </figure>
 
 <div style="height: 20px;"></div>
