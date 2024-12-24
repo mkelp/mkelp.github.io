@@ -20,7 +20,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <!-- # **Current Projects** -->
 <!-- # Current Research Areas -->
 <font size="+3">Current Research Areas</font>
-
+<br />
 
 <font size="+2"><p align="center">Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</p></font>
 <!-- # Wildfire smoke, prescribed burns, and rural environmental justice in the western United States -->

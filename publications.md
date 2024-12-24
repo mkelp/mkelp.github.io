@@ -10,7 +10,7 @@ comments: false
 <!-- <br/> -->
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
-<u>undergraduate advisee\*\*</u>
+<u>undergraduate advisee**</u>
 
 ## Submitted and Under Review
 
@@ -46,7 +46,7 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 * Special Issue on "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health"
 
 <br />
-`16.` Liu, T., <u>F.M. Panday\*\*</u>, <u>M.C. Caine\*\*</u>, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). [Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}, *International Journal of Wildland Fire*, 33, WF23148, DOI: 10.1071/WF23148.
+`16.` Liu, T., <u>F.M. Panday**</u>, <u>M.C. Caine**</u>, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). [Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}, *International Journal of Wildland Fire*, 33, WF23148, DOI: 10.1071/WF23148.
 
 <br />
 `15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). [Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2)](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}, *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: 10.5194/acp-24-8607-2024. 
@@ -58,7 +58,7 @@ estimates in India reveal inequalities in recent enhancement of air quality. (In
 `14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  [Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI)](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}, *Environ. Res. Lett.*, 18, 094036, DOI: 10.1088/1748-9326/acf0b7.
 
 <br />
-`13.` **Kelp, M.**, <u>T. Fargiano\*\*</u>, <u>S. Lin\*\*</u>, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). [Data-driven placement of PM<sub>2.5</sub> air quality sensors in the United States: an approach to target urban environmental injustice](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, *GeoHealth*, 7, e2023GH000834, DOI: 10.1029/2023GH000834.
+`13.` **Kelp, M.**, <u>T. Fargiano**</u>, <u>S. Lin**</u>, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). [Data-driven placement of PM<sub>2.5</sub> air quality sensors in the United States: an approach to target urban environmental injustice](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, *GeoHealth*, 7, e2023GH000834, DOI: 10.1029/2023GH000834.
 * Special Collection on "Geospatial data applications for environmental justice"
 
 <br />
@@ -85,7 +85,7 @@ solver for stable long-term global simulations of atmospheric chemistry](https:/
 * Special Issue on "Urban Air Pollution and Human Health"
 
 <br />
-`8.` **Kelp, M.**, <u>S. Lin\*\*</u>, J.N. Kutz, and L.J. Mickley (2022). [A new approach for optimal placement of PM<sub>2.5</sub>
+`8.` **Kelp, M.**, <u>S. Lin**</u>, J.N. Kutz, and L.J. Mickley (2022). [A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}, *Env. Res. Letters*, 17, 034034, DOI: 10.1088/1748-9326/ac548f.  
 <br />
 

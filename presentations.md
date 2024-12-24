@@ -5,9 +5,9 @@ layout: page
 excerpt: Makoto Kelp presentations
 comments: false
 ---
-<font size="+2"><p align="left"><strong>Media</strong></p></font>
+<font size="+3"><p align="left"><strong>Media</strong></p></font>
 
-## NOAA Climate and Global Change Postdoctoral Fellowship Promo
+<font size="+2">NOAA Climate and Global Change Postdoctoral Fellowship Promo</font>
 
 <!-- <div class="videoWrapper" style="position: relative; width: 560px; height: 349px;">
   <img src="/assets/img/yt_thumbnail.jpeg" alt="Video Thumbnail" style="width: 100%; height: 100%; cursor: pointer;" onclick="loadVideo(this)">
@@ -40,7 +40,8 @@ comments: false
 <br />
 
 
-## Wildfires and Prescribed Burns
+<!-- ## Wildfires and Prescribed Burns -->
+<font size="+2">Wildfires and Prescribed Burns</font>
 
 <!-- #### * **KCRA 3 Sacramento:** Cal Fire, researchers see the proven benefits of controlled burning -->
 <font size="+1"><p align="left">NewsWatch 12 </p></font>
@@ -79,7 +80,8 @@ comments: false
 <br />
 
 
-## Compressed Sensing for Atmospheric Monitoring
+<!-- ## Compressed Sensing for Atmospheric Monitoring -->
+<font size="+2">Compressed Sensing for Atmospheric Monitoring</font>
 
 <!-- #### * **ACCESS XVII Talk** -->
 <font size="+1"><p align="left">ACCESS XVII Talk</p></font>
@@ -94,7 +96,8 @@ comments: false
 <br />
 
 
-## Machine Learning for Atmospheric Chemistry Modeling
+<!-- ## Machine Learning for Atmospheric Chemistry Modeling -->
+<font size="+2">Machine Learning for Atmospheric Chemistry Modeling</font>
 
 <!-- #### * **NASA GISS Seminar Series** -->
 <font size="+1"><p align="left">NASA GISS Seminar Series</p></font>
@@ -128,12 +131,12 @@ comments: false
 <br />
 
 
-# Selected Conference Presentations
+<!-- # Selected Conference Presentations -->
 
 <!-- A full list of presentations and invited talks may be found in my CV. -->
 
-## **2023**
-`13.` **M. Kelp**, C. Chiu, Q. Zhu, and L.J. Mickley. Uncovering spatiotemporal drivers of urban ozone in changing NOx regimes: A data-driven case study of Los Angeles and Chicago. AGU Fall Meeting, San Francisco, CA, December 11,
+<!-- ## **2023** -->
+<!-- `13.` **M. Kelp**, C. Chiu, Q. Zhu, and L.J. Mickley. Uncovering spatiotemporal drivers of urban ozone in changing NOx regimes: A data-driven case study of Los Angeles and Chicago. AGU Fall Meeting, San Francisco, CA, December 11,
 2023 ([Talk slides](/assets/mkelp_AGU2023.pdf){:target="_blank"})
 
 `12.` **M. Kelp**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone dataassimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct assimilation of thermal infra-red radiances. AMS Annual Meeting, Denver, CO, January 12,
@@ -185,4 +188,4 @@ Annual Conference, Portland, OR, October 18, 2016 ([Poster](/assets/m_kelp_aaar2
 
 `1.` **M. Kelp**, J. Brewer, C. Keller, and E.V. Fischer. Evaluating the Potential Importance of
 Monoterpene Degradation for Global Acetone Production. AGU Fall Meeting, San Francisco, CA,
-December 16, 2015 ([Poster](/assets/m_kelp_agu2015_poster.pdf){:target="_blank"})
+December 16, 2015 ([Poster](/assets/m_kelp_agu2015_poster.pdf){:target="_blank"}) -->
