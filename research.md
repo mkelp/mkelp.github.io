@@ -63,12 +63,11 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 <font size="+2"><p align="center">Data-driven Air Pollution Sensors</p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
-<figure>
-<img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
   <img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
   <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis and Houston identified as optimal by the mrDMD algorithm, and those identified as optimal and equitable by the cost-constrained mrDMDcc using race and income metrics (Kelp et al., 2023).</figcaption>
 </figure>
+
 
 
 In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks. Although these regulatory and low-cost networks provide enhanced spatiotemporal coverage in urban areas, sensors are located most often in higher income, predominantly White areas. Here we use a modal decomposition algorithm to identify the optimal and equitable placement of fine particulate matter (PM<sub>2.5</sub>) sensors in four U.S. cities with histories of racial or income segregation: St. Louis, Houston, Boston, and Buffalo. Compared to networks using air pollution information alone, the algorithm places a greater number of sensors in historically low-income and nonwhite neighborhoods with known environmental pollution problems, while also capturing PM<sub>2.5</sub> extremes. Our work provides a roadmap for the creation of equitable sensor networks in U.S. cities and offers a guide for democratizing air pollution data by increasing spatial coverage of low-cost sensors in less privileged communities.
