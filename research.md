@@ -64,7 +64,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 
 
-<font size="+2"><p align="center">Data-driven Air Pollution Sensors</p></font>
+<font size="+2"><p align="center">Data-Driven Air Pollution Sensors</p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">

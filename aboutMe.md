@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-<img src="/assets/img/bigsur.jpg" alt="tori fig">
+<img src="/assets/img/tori.jpg" alt="tori fig">
 </figure>
 
 <br />
