@@ -23,7 +23,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 
-<font size="+2"><p align="center"><strong>Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</strong></p></font>
+<font size="+2"><p align="center">Wildfire smoke, prescribed burns, and rural environmental justice in the western United States</p></font>
 <!-- # Wildfire smoke, prescribed burns, and rural environmental justice in the western United States -->
 <figure>
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
@@ -41,7 +41,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <br />
 
 
-<font size="+2"><p align="center"><strong>Machine-learned atmospheric chemistry solver</strong></p></font>
+<font size="+2"><p align="center">Machine-learned atmospheric chemistry solver</p></font>
 <!-- # Machine-learned atmospheric chemistry solver -->
 <figure>
 <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
@@ -60,7 +60,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 
 
-<font size="+2"><p align="center"><strong>Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</strong></p></font>
+<font size="+2"><p align="center">Optimal and equitable placement of PM<sub>2.5</sub> air quality sensors</p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure>
@@ -84,7 +84,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 <br />
 
 
-<font size="+2"><p align="center"><strong>Chemical data assimilation for global atmospheric composition</strong></p></font>
+<font size="+2"><p align="center">Chemical data assimilation for global atmospheric composition</p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure>
@@ -104,7 +104,7 @@ The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) pr
 
 
 
-<font size="+2"><p align="center"><strong>Vehicle emission factors for area-wide mobile monitoring</strong></p></font>
+<font size="+2"><p align="center">Vehicle emission factors for area-wide mobile monitoring</p></font>
 <!-- # Vehicle emission factors for area-wide mobile monitoring -->
 
 <figure>
@@ -124,7 +124,7 @@ We create a statistical model from measurements obtained from continuously movin
 
 <br />
 
-<font size="+2"><p align="center"><strong>Indoor air pollution from cookstove intervention in rural South India</strong></p></font>
+<font size="+2"><p align="center">Indoor air pollution from cookstove intervention in rural South India</p></font>
 <!-- # Indoor air pollution from cookstove intervention in rural South India -->
 
 <figure>
@@ -144,7 +144,7 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 
 <br />
 
-<!-- <font size="+2"><p align="center"><strong>Actionable sampling: Heavy metals air quality monitoring in Portland, OR</strong></p></font> -->
+<!-- <font size="+2"><p align="center">Actionable sampling: Heavy metals air quality monitoring in Portland, OR</p></font> -->
 <font size="+2"><p align="center"><strong>Heavy metals air quality monitoring in Portland, OR</strong></p></font>
 <!-- # Heavy metals air quality monitoring in Portland, OR -->
 
@@ -160,7 +160,7 @@ Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an a
 
 <br />
 
-<font size="+2"><p align="center"><strong>Measuring coal dust from trains in the Columbia River Gorge, WA</strong></p></font>
+<font size="+2"><p align="center">Measuring coal dust from trains in the Columbia River Gorge, WA</p></font>
 <!-- # Measuring coal dust from trains in the Columbia River Gorge, WA -->
 
 <figure>
