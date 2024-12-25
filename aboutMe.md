@@ -6,9 +6,14 @@ excerpt: Makoto Kelp aboutMe
 comments: false
 ---
 
-<figure>
+<!-- <figure>
 <img src="/assets/img/tori2.jpg" alt="tori fig">
+</figure> -->
+
+<figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px;">
+  <img src="/assets/img/tori2.jpg" alt="tori fig">
 </figure>
+
 
 <br />
 
