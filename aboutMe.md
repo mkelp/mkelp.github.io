@@ -10,9 +10,10 @@ comments: false
 <img src="/assets/img/tori2.jpg" alt="tori fig">
 </figure> -->
 
-<figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/tori2.jpg" alt="tori fig">
+<figure style="border: 2px solid #fff; border-radius: 5px; box-sizing: border-box; display: inline-block;">
+  <img src="/assets/img/tori2.jpg" alt="tori fig" style="display: block; width: 100%; height: auto;">
 </figure>
+
 
 
 <br />
