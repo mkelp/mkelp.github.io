@@ -28,7 +28,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <img src="/assets/img/west_fire.png" alt="controlled burns fig">
 <figcaption>Contributions to population-weighted smoke exposure for the western United States in September 2020 (Kelp et al., 2023).</figcaption>
 </figure> -->
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
+<!-- <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
   <img src="/assets/img/west_fire.png" alt="controlled burns fig">
   <figcaption>Wildfire emissions contributing to population-weighted smoke exposures accross the western United States in September 2020 (Kelp et al., 2023).</figcaption>
 </figure>
@@ -41,7 +41,25 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 
 **Co-Authored Wildfire Publications:** [Qiu et al., in-press (2024)](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, [Liu et al., (2024)](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
 
-<br />
+<br /> -->
+
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <!-- Figure -->
+  <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; width: 40%; margin: 0;">
+    <img src="/assets/img/west_fire.png" alt="controlled burns fig" style="width: 100%; height: auto;">
+    <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020 (Kelp et al., 2023).</figcaption>
+  </figure>
+
+  <!-- Text -->
+  <div style="width: 60%;">
+    <p>Catastrophic wildfires pose substantial risk to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems. Here we investigate the effectiveness of prescribed burning for abating potential wildfire smoke exposures in states and rural environmental justice communities across the western United States during the destructive 2018 and 2020 fire seasons. We find that due in part to prevailing wind patterns, wildfires in the coastal states contribute more to overall smoke exposure in the West compared to wildfires in other states in both 2018 and 2020.</p>
+    <p>We show that implementing prescribed burns in the heavily forested Northern California and the Pacific Northwest would yield large net benefits for the entire western United States, while doing so in other states would have relatively smaller impacts. Our work suggests that land managers should prioritize northern California, western Oregon, and eastern Washington for prescribed burns to mitigate future smoke exposure as these regions have a disproportionate impact on smoke exposure for rural environmental justice communities and population centers across the West.</p>
+
+    <p><strong>Publications:</strong> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a></p>
+    <p><strong>Co-Authored Wildfire Publications:</strong> <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., in-press (2024)</a>, <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a></p>
+  </div>
+</div>
 
 
 <font size="+2"><p align="center">Deep Learning Atmospheric Chemistry</p></font>
