@@ -39,7 +39,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 
 **Publications:** [Kelp et al., (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"}
 
-**Related Wildfire Publications:** [Qiu et al., in-press (2024)](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, [Liu et al., (2024)](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
+**Co-Authored Wildfire Publications:** [Qiu et al., in-press (2024)](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, [Liu et al., (2024)](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
 
 <br />
 
@@ -58,13 +58,13 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 
 **Publications:** [Kelp et al., (2022)](https://doi.org/10.1029/2021MS002926){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
 
-**Related ML Publications:** [Balasus et al., (2023)](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}
+**Co-Authored ML Publications:** [Balasus et al., (2023)](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}
 
 <br />
 
 
 
-<font size="+2"><p align="center">Data-Driven Air Pollution Sensors</p></font>
+<font size="+2"><p align="center">Data-Driven Air Pollution Sensing</p></font>
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
@@ -79,7 +79,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 
 **Publications:** [Kelp et al., (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, [Kelp et al., (2022)](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}
 
-**Related Sensor/EJ Publications:** [Kawano et al., (preprint, in-press)](https://eartharxiv.org/repository/view/6911/){:target="_blank"}, [Yang et al., (2022)](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
+**Co-Authored Sensor/EJ Publications:** [Kawano et al., (preprint, in-press)](https://eartharxiv.org/repository/view/6911/){:target="_blank"}, [Yang et al., (2022)](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
 
 <br />
 
