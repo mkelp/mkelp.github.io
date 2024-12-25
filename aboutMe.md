@@ -6,10 +6,16 @@ excerpt: Makoto Kelp aboutMe
 comments: false
 ---
 
+<!-- <figure>
+<img src="/assets/img/tori3.jpg" alt="tori fig">
+</figure> -->
 
-<figure style="border: 2px solid #fff; border-radius: 5px; box-sizing: border-box; display: inline-block; margin: 0 auto; text-align: center; width: 20%;">
-  <img src="/assets/img/tori3.jpg" alt="tori fig" style="display: block; margin: 0 auto; width: 100%; height: auto;">
-</figure>
+<div style="text-align: center;">
+  <figure style="border: 2px solid #fff; border-radius: 5px; box-sizing: border-box; display: inline-block; margin: 0 auto; width: 50%;">
+    <img src="/assets/img/tori3.jpg" alt="tori fig" style="display: block; width: 100%; height: auto;">
+  </figure>
+</div>
+
 
 
 
