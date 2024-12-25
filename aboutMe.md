@@ -11,7 +11,7 @@ comments: false
 </figure> -->
 
 <div style="text-align: center;">
-  <figure style="border: 2px solid #fff; border-radius: 5px; box-sizing: border-box; display: inline-block; margin: 0 auto; width: 50%;">
+  <figure style="border: 2px solid #fff; border-radius: 5px; box-sizing: border-box; display: inline-block; margin: 0 auto; width: 75%;">
     <img src="/assets/img/tori3.jpg" alt="tori fig" style="display: block; width: 100%; height: auto;">
   </figure>
 </div>
