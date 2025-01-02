@@ -263,8 +263,29 @@
 
 // Custom styles for the Research page
 .research-page .page-content {
-  max-width: 800px; // Adjust width to your liking
+  max-width: 90%; // Adjust width to your liking
   margin: 0 auto;   // Center the content
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.research-page a {
+  color: $text-link-blue; // Replace this with the link color variable or hex value if needed
+  text-decoration: none;
+}
+
+.research-page a:hover {
+  color: $text-link-blue-active; // Replace this with the hover color variable or hex value
+  text-decoration: underline;
+}
+
+.research-page .page-content {
+  line-height: 1.6; /* Adjust for better text readability */
+  margin: 0 auto; /* Center content */
+  padding-left: 5%; /* Reduce padding to make margins smaller */
+  padding-right: 5%; /* Same as above */
+}
+
+.research-page p {
+  margin-bottom: 1em; /* Add spacing between paragraphs */
 }
