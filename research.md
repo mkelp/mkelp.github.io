@@ -74,14 +74,6 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 </div>
 
 
-<div class="research-section" style="display: flex; align-items: flex-start; justify-content: space-between; gap: 2em;">
-  <img src="/assets/img/example-image.jpg" alt="Example" style="flex: 0 0 40%; max-width: 40%; border-radius: 8px;">
-  <div style="flex: 1; line-height: 1.6;">
-    <h2>Section Title</h2>
-    <p>Your descriptive text goes here. This should align side-by-side with the image on larger screens.</p>
-  </div>
-</div>
-
 
 </div>
 
