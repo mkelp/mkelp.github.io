@@ -8,7 +8,7 @@ class: research-page
 
 ---
 
-<div class="research-page">
+<div class="research-page" style="max-width: 2000px; margin: 0 auto; padding: 0 20px;">
 
 <font size="+3">Research Interests</font>
 
