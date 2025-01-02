@@ -30,7 +30,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <figcaption>Contributions to population-weighted smoke exposure for the western United States in September 2020 (Kelp et al., 2023).</figcaption>
 </figure> -->
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/west_fire.png" alt="controlled burns fig">
+  <img src="/assets/img/west_fire.png" alt="controlled burns fig" style="width: 75%">
   <figcaption>Wildfire emissions contributing to population-weighted smoke exposures accross the western United States in September 2020 (Kelp et al., 2023).</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <font size="+2"><p align="center">Deep Learning Atmospheric Chemistry</p></font>
 <!-- # Machine-learned atmospheric chemistry solver -->
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/onlineNN-min.png" alt="online NN fig" style="width: 70%">
+  <img src="/assets/img/onlineNN-min.png" alt="online NN fig" style="width: 75%">
   <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Global models of atmospheric chemistry are computationally expensive. The chemic
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/EJsensors2.jpg" alt="sensors fig">
+  <img src="/assets/img/EJsensors2.jpg" alt="sensors fig" style="width: 75%">
   <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ In the United States, citizens and policymakers rely upon Environmental Protecti
 <!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/cda_o3.png" alt="sensors fig">
+  <img src="/assets/img/cda_o3.png" alt="sensors fig" style="width: 75%">
   <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks (Kelp et al., 2023).</figcaption>
 </figure>
 
