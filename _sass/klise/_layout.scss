@@ -253,6 +253,14 @@
     }
   }
 
+  .post-item {
+    max-width: calc(#{$wide-size} - (#{$spacing-full} * 2));
+    max-width: -webkit-calc(#{$wide-size} - (#{$spacing-full} * 2));
+    margin: 0 auto; /* Center the container */
+    padding: 0 20px; /* Add some padding for smaller screens */
+  }
+  
+
   .post-item-title {
     margin: 0;
     border: 0;
