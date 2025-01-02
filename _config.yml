@@ -38,8 +38,17 @@ collections:
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
+# kramdown:
+#   syntax_highlighter: rouge
 kramdown:
-  syntax_highlighter: rouge
+  input: GFM
+  syntax_highlighter_opts:
+    block: false
+  auto_ids: true
+  hard_wrap: false
+  entity_output: as_char
+  smart_quotes: [lsquo, rsquo, ldquo, rdquo]
+
 
 # Default front matter
 defaults:

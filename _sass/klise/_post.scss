@@ -263,10 +263,10 @@
 
 // Custom styles for the Research page
 .research-page .page-content {
-  max-width: 90%; // Adjust width to your liking
+  max-width: 800px; // Adjust width to your liking
   margin: 0 auto;   // Center the content
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .research-page a {
@@ -287,5 +287,5 @@
 }
 
 .research-page p {
-  margin-bottom: 1em; /* Add spacing between paragraphs */
+  margin-bottom: 1.2em; /* Add spacing between paragraphs */
 }
