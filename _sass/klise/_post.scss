@@ -286,7 +286,7 @@
   line-height: 1.6; /* Improve readability */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 2000px) {
   .research-section {
     display: block; /* Stack image and text on mobile */
   }
@@ -299,6 +299,12 @@
 
   .research-section .research-content {
     width: 100%; /* Text spans full width on mobile */
+  }
+
+  .research-page {
+    max-width: 2000px; /* Wider margins for larger screens */
+    margin: 0 auto;
+    padding: 0 40px;
   }
 }
 
