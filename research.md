@@ -48,7 +48,7 @@ Catastrophic wildfires pose substantial risk to public health, infrastructures, 
 <font size="+2"><p align="center">Deep Learning Atmospheric Chemistry</p></font>
 <!-- # Machine-learned atmospheric chemistry solver -->
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/onlineNN-min.png" alt="online NN fig">
+  <img src="/assets/img/onlineNN-min.png" alt="online NN fig" style="width: 70%">
   <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
 </figure>
 
