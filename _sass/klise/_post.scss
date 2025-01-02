@@ -261,57 +261,46 @@
 }
 
 
-// Custom styles for the Research page
-.research-page .page-content {
-  max-width: 800px; // Adjust width to your liking
-  margin: 0 auto;   // Center the content
-  padding-left: 10px;
-  padding-right: 10px;
+.research-page {
+  max-width: 1200px; /* Set a maximum width for the entire page */
+  margin: 0 auto; /* Center the page */
+  padding: 0 20px; /* Add some padding for smaller screens */
 }
 
-.research-page a {
-  color: $text-link-blue; // Replace this with the link color variable or hex value if needed
-  text-decoration: none;
-}
-
-.research-page a:hover {
-  color: $text-link-blue-active; // Replace this with the hover color variable or hex value
-  text-decoration: underline;
-}
-
-.research-page .page-content {
-  line-height: 1.6; /* Adjust for better text readability */
-  margin: 0 auto; /* Center content */
-  padding-left: 5%; /* Reduce padding to make margins smaller */
-  padding-right: 5%; /* Same as above */
-}
-
-.research-page p {
-  margin-bottom: 1.2em; /* Add spacing between paragraphs */
-}
-
-// Research Section Layout
 .research-section {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  gap: 2em; /* Space between image and text */
+  gap: 20px; /* Space between image and text */
   margin-bottom: 3em; /* Space between sections */
-
-  @media (max-width: 768px) {
-    display: block; /* Stack content vertically on mobile */
-  }
 }
 
 .research-section .research-image {
-  flex: 0 0 60%; /* Image takes 40% of the width */
-  max-width: 60%; /* Ensure image doesn't exceed 40% */
-  border-radius: 8px; /* Optional: Rounded corners */
+  flex: 0 0 50%; /* Image takes up 50% of the section width */
+  max-width: 50%; /* Ensure image doesn’t exceed 50% */
+  border-radius: 8px; /* Optional: Add rounded corners */
 }
 
 .research-section .research-content {
   flex: 1; /* Text occupies the remaining space */
   line-height: 1.6; /* Improve readability */
 }
+
+@media (max-width: 768px) {
+  .research-section {
+    display: block; /* Stack image and text on mobile */
+  }
+
+  .research-section .research-image {
+    width: 100%; /* Image spans full width on mobile */
+    max-width: 100%;
+    margin-bottom: 20px; /* Add space below the image */
+  }
+
+  .research-section .research-content {
+    width: 100%; /* Text spans full width on mobile */
+  }
+}
+
 
 
