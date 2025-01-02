@@ -259,3 +259,12 @@
 .post-updated-at {
   font-family: "Ubuntu mono", "monospace";
 }
+
+
+// Custom styles for the Research page
+.research-page .page-content {
+  max-width: 800px; // Adjust width to your liking
+  margin: 0 auto;   // Center the content
+  padding-left: 20px;
+  padding-right: 20px;
+}

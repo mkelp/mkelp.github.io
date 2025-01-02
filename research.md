@@ -4,8 +4,10 @@ permalink: /research/
 layout: post
 comments: false
 image: assets/img/badlands3.jpg
+class: research-page
 
 ---
+<div class="research-page">
 
 <font size="+3">Research Interests</font>
 
@@ -178,3 +180,6 @@ Trains powered by diesel fuel travel through the Columbia River Gorge as well as
 During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal dust from trains in the Columbia River Gorge and found that the transit of diesel powered open-top coal trains result in nearly twice as much respirable PM<sub>2.5</sub> compared to the passage of diesel-powered freight trains not carrying coal. Furthermore, we witnessed multiple “super-duster” events during which the coal dust emissions led to visible dust plumes and the highest PM<sub>2.5</sub> concentrations observed in our study.
 
 **Publication:** [Jaffe et al., (2015)](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
+
+
+</div>
