@@ -295,42 +295,23 @@
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  gap: 2em; /* Add space between image and text */
+  gap: 2em; /* Space between image and text */
   margin-bottom: 3em; /* Space between sections */
 
-  @include media-query($on-mobile) {
-    display: block; /* Stack image and text for mobile */
-    gap: 0; /* No gap for mobile layout */
+  @media (max-width: 768px) {
+    display: block; /* Stack content vertically on mobile */
   }
 }
 
 .research-section .research-image {
-  flex: 0 0 40%; /* Set the image width to 40% of the container */
-  max-width: 40%; /* Ensure the image doesn't exceed this width */
-  border-radius: 8px; /* Optional: Add rounded corners */
+  flex: 0 0 40%; /* Image takes 40% of the width */
+  max-width: 40%; /* Ensure image doesn't exceed 40% */
+  border-radius: 8px; /* Optional: Rounded corners */
 }
 
 .research-section .research-content {
-  flex: 1; /* Let the text take up remaining space */
+  flex: 1; /* Text occupies the remaining space */
   line-height: 1.6; /* Improve readability */
 }
 
-/* Right-aligned image */
-.research-section .research-image.right {
-  order: 2; /* Place the image to the right */
-  margin-left: 1.5em; /* Add space between text and image */
-}
-
-/* Left-aligned image */
-.research-section .research-image.left {
-  order: 1; /* Place the image to the left */
-  margin-right: 1.5em; /* Add space between image and text */
-}
-
-@media (min-width: 768px) {
-  .research-section {
-    display: flex;
-    flex-direction: row; /* Ensure sections are side-by-side on desktop */
-  }
-}
 
