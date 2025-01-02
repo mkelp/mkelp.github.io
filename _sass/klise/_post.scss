@@ -268,7 +268,7 @@
 }
 
 .research-section {
-  display: flex;
+  display: flex !important;
   align-items: flex-start;
   justify-content: space-between;
   gap: 20px; /* Space between image and text */
@@ -303,4 +303,19 @@
 }
 
 
+.research-section {
+  display: flex !important;
+  border: 2px solid red; /* Debugging border for the container */
+}
+
+.research-section .research-image {
+  flex: 0 0 50%;
+  max-width: 50%;
+  border: 2px solid green; /* Debugging border for the image */
+}
+
+.research-section .research-content {
+  flex: 1;
+  border: 2px solid blue; /* Debugging border for the text */
+}
 
