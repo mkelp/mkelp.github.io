@@ -185,7 +185,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 
 
-<div class="research-page" style="max-width: 1300px; margin: 0 auto; padding: 0 10px; margin-left: -200px;">
+<div class="research-page" style="max-width: 1300px; margin: 0 auto; padding: 0 10px; margin-left: -250px;">
 
 <font size="+3">Research Interests14</font>
 
@@ -199,7 +199,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 <div class="research-section">
-  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image right" style="width: 75%">>
+  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image right" style="width: 75%">
   <div class="research-content">
     <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
     <p>
@@ -217,7 +217,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <div style="height: 20px;"></div>
 
 <div class="research-section">
-  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image left" style="width: 75%">>
+  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image left" style="width: 75%">
   <div class="research-content">
     <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
     <p>
@@ -235,7 +235,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <div style="height: 20px;"></div>
 
 <div class="research-section">
-  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image right" style="width: 75%">>
+  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image right" style="width: 75%">
   <div class="research-content">
     <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
     <p>
