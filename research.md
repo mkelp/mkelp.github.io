@@ -46,7 +46,6 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
   </p> -->
 
-  <br />
 
   <font size="+3">Current Research Areas</font>
   <br />
@@ -60,17 +59,16 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
       <p>
         Catastrophic wildfires pose substantial risk to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems. Here we investigate the effectiveness of prescribed burning for abating potential wildfire smoke exposures in states and rural environmental justice communities across the western United States during the destructive 2018 and 2020 fire seasons. We find that due in part to prevailing wind patterns, wildfires in the coastal states contribute more to overall smoke exposure in the West compared to wildfires in other states in both 2018 and 2020. We show that implementing prescribed burns in the heavily forested Northern California and the Pacific Northwest would yield large net benefits for the entire western United States, while doing so in other states would have relatively smaller impacts. Our work suggests that land managers should prioritize northern California, western Oregon, and eastern Washington for prescribed burns to mitigate future smoke exposure as these regions have a disproportionate impact on smoke exposure for rural environmental justice communities and population centers across the West.
-
       </p>
       <p>
         <br />
         Publications: 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank"><strong>Kelp et al., (2023)</strong></a>
       </p>
       <p>
         Co-Authored Wildfire Publications: 
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., in-press (2024)</a>, 
-        <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a>
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank"><strong>Qiu et al., in-press (2024)</strong></a>, 
+        <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank"><strong>Liu et al., (2024)</strong></a>
       </p>
     </div>
   </div>
@@ -84,18 +82,16 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
       <p>
         Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. However, my past work found that ML chemical solvers experience rapid error growth and become unstable over time. My current work aims to achieve, for the first time, a stable full-year global simulation of atmospheric chemistry with three-month seasonal ML solvers. We show that online training of the ML solver synchronously with an atmospheric chemistry model simulation produces considerably more stable results than offline training from a static dataset of simulation results. Although our work represents an important step for using ML solvers in global atmospheric chemistry models, more work is needed to extend it to large chemical mechanisms and to reduce errors during long-term chemical aging.
-
       </p>
       <p>
         <br />
-        <br />
         Publications: 
-        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
+        <a href="https://doi.org/10.1029/2021MS002926" target="_blank"><strong>Kelp et al., (2022)</a>, 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank"><strong>Kelp et al., (2020)</strong></a>
       </p>
       <p>
         Co-Authored ML Publications: 
-        <a href="https://amt.copernicus.org/articles/16/3787/2023/" target="_blank">Balasus et al., (2023)</a>
+        <a href="https://amt.copernicus.org/articles/16/3787/2023/" target="_blank"><strong>Balasus et al., (2023)</strong></a>
       </p>
     </div>
   </div>
@@ -109,18 +105,17 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
       <p>
         In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks. Although these regulatory and low-cost networks provide enhanced spatiotemporal coverage in urban areas, sensors are located most often in higher income, predominantly White areas. Here we use a modal decomposition algorithm to identify the optimal and equitable placement of fine particulate matter (PM<sub>2.5</sub>) sensors in four U.S. cities with histories of racial or income segregation: St. Louis, Houston, Boston, and Buffalo. Compared to networks using air pollution information alone, the algorithm places a greater number of sensors in historically low-income and nonwhite neighborhoods with known environmental pollution problems, while also capturing PM<sub>2.5</sub> extremes. Our work provides a roadmap for the creation of equitable sensor networks in U.S. cities and offers a guide for democratizing air pollution data by increasing spatial coverage of low-cost sensors in less privileged communities.
-
       </p>
       <p>
         <br />
         Publications: 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023)</a>, 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022)</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank"><strong>Kelp et al., (2023)</strong></a>, 
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank"><strong>Kelp et al., (2022)</strong></a>
       </p>
       <p>
         Co-Authored Sensor/EJ Publications: 
-        <a href="https://eartharxiv.org/repository/view/6911/" target="_blank">Kawano et al., (preprint, in-press)</a>, 
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
+        <a href="https://eartharxiv.org/repository/view/6911/" target="_blank"><strong>Kawano et al., (preprint, in-press)</strong></a>, 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank"><strong>Yang et al., (2022)</strong></a>
       </p>
     </div>
   </div>
@@ -143,12 +138,11 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <font size="+2"><p>Chemical Data Assimilation for Global Atmospheric Composition</p></font>
       <p>
         The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We focus our evaluations on the troposphere. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Assimilation increments are largest in the upper troposphere and are consistent between satellite data sets. The OMI and MLS ozone data generally provide more information than the AIRS and IASI radiances except at high latitudes where the radiances provide more information. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
-
       </p>
       <p>
         <br />
         Publications: 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023)</a>
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank"><strong>Kelp et al., (2023)</strong></a>
       </p>
     </div>
   </div>
@@ -165,16 +159,15 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
         <br />
         <br />
         We create a statistical model from measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. Furthermore, our model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
-
       </p>
       <p>
         <br />
         Publications: 
-        <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank">Kelp et al., (2020)</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank"><strong>Kelp et al., (2020)</strong></a>
       </p>
       <p>
         Related Publications: 
-        <a href="https://www.sciencedirect.com/science/article/pii/S0048969719317140" target="_blank">Wen et al., (2019)</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0048969719317140" target="_blank"><strong>Wen et al., (2019)</strong></a>
       </p>
     </div>
   </div>
@@ -195,7 +188,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <p>
         <br />
         Publications: 
-        <a href="https://www.sciencedirect.com/science/article/pii/S2352728517300726" target="_blank">Kelp et al., (2018)</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S2352728517300726" target="_blank"><strong>Kelp et al., (2018)</strong></a>
       </p>
     </div>
   </div>
@@ -214,11 +207,9 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
             <a href="https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns" target="_blank">suspended its use of chromium</a> 
             in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority, and are supported by Governor Kate Brown.
         </p>
-    
     <p>
         <br />
-        EPA-DEQ certification: 
-        <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank">EPA-DEQ certification</a>
+        <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank"><strong>EPA-DEQ certification</strong></a>
       </p>
     </div>
 </div>
@@ -236,19 +227,15 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
         <br />
         <br />
         During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal dust from trains in the Columbia River Gorge and found that the transit of diesel powered open-top coal trains result in nearly twice as much respirable PM<sub>2.5</sub> compared to the passage of diesel-powered freight trains not carrying coal. Furthermore, we witnessed multiple “super-duster” events during which the coal dust emissions led to visible dust plumes and the highest PM<sub>2.5</sub> concentrations observed in our study.
-
       </p>
       <p>
         <br />
         Publications: 
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank">Jaffe et al., (2015)</a>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank"><strong>Jaffe et al., (2015)</strong></a>
       </p>
     </div>
   </div>
 
 </div>
-
-
-
 
 
