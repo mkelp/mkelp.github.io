@@ -1,5 +1,9 @@
 // Post wrapper
 .wrapper.post {
+  margin: 0 auto; /* Center content */
+  padding-left: 20px; /* Adjust padding to match both sides */
+  padding-right: 20px;
+
   @include media-query($on-mobile) {
     padding-left: $spacing-half;
     padding-right: $spacing-half;
@@ -265,6 +269,7 @@
   width: 2000px; /* Set a maximum width for the entire page */
   margin: 0 auto; /* Center the page */
   padding: 0 20px; /* Add some padding for smaller screens */
+  box-sizing: border-box; /* Include padding in width calculation */
 }
 
 .research-section {
@@ -319,3 +324,8 @@
   border: 2px solid blue; /* Debugging border for the text */
 }
 
+.parent-container {
+  margin: 0 auto;
+  padding: 0; /* Reset padding */
+  position: static; /* Reset positioning */
+}
