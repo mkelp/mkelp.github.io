@@ -269,7 +269,7 @@
   width: 1600px; /* Set a maximum width for the entire page */
   margin: 0 auto; /* Center the page */
   padding: 0 20px; /* Add some padding for smaller screens */
-  padding-left: 10px; /* Reduce left padding */
+  padding-left: 1px; /* Reduce left padding */
   box-sizing: border-box; /* Include padding in width calculation */
 }
 
@@ -282,14 +282,14 @@
 }
 
 .research-section .research-image {
-  flex: 0 0 50%; /* Image takes up 50% of the section width */
-  max-width: 50%; /* Ensure image doesn’t exceed 50% */
+  flex: 0 0 40%; /* Image takes up 50% of the section width */
+  max-width: 60%; /* Ensure image doesn’t exceed 50% */
   border-radius: 8px; /* Optional: Add rounded corners */
 }
 
 .research-section .research-content {
   flex: 1; /* Text occupies the remaining space */
-  line-height: 1.6; /* Improve readability */
+  line-height: 1.2; /* Improve readability */
 }
 
 @media (max-width: 768px) {
