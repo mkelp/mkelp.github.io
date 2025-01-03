@@ -188,7 +188,7 @@ class: research-page
     </div>
   </div>
 
-<!-- <br />
+<!-- <!-- <br /> -->
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
@@ -211,7 +211,7 @@ class: research-page
     </div>
   </div>
 
-<br />
+<!-- <br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
@@ -234,9 +234,9 @@ class: research-page
         <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank">EPA-DEQ certification</a>
       </p>
     </div>
-</div>
+</div> -->
 
-<br />
+<!-- <br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
@@ -260,7 +260,7 @@ class: research-page
     </div>
   </div>
 
-</div> -->
+</div> --> -->
 
 
 
