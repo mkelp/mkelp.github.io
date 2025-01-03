@@ -211,25 +211,22 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   </div>
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
-      <img src="/assets/img/gorge_fig.png" alt="Coal dust monitoring figure" style="width: 100%;">
-      <figcaption>Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+        <img src="/assets/img/arsenic_monitoring.png" alt="Heavy metals monitoring figure" style="width: 100%;">
+        <figcaption>Heavy metals air quality monitoring in Portland, OR.</figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Measuring Coal Dust from Trains in the Columbia River Gorge, WA</p></font>
-      <p>
-        Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic on people living near rail lines is hampered by a lack of monitoring data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> exposure to humans from diesel trains, we sought to measure these air quality effects.
-        <br />
-        <br />
-        During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal dust from trains in the Columbia River Gorge and found that the transit of diesel powered open-top coal trains result in nearly twice as much respirable PM<sub>2.5</sub> compared to the passage of diesel-powered freight trains not carrying coal. Furthermore, we witnessed multiple “super-duster” events during which the coal dust emissions led to visible dust plumes and the highest PM<sub>2.5</sub> concentrations observed in our study.
-
-      </p>
-      <p>
-        Publications: 
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank">Jaffe et al., (2015)</a>
-      </p>
+        <font size="+2"><p>Heavy Metals Air Quality Monitoring in Portland, OR</p></font>
+        <p>
+            Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA-validated method sampling site. We created 
+            <a href="https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds" target="_blank">statewide attention</a> 
+            to elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution as coming from the Bullseye Glass Co. which then 
+            <a href="https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns" target="_blank">suspended its use of chromium</a> 
+            in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority, and are supported by Governor Kate Brown.
+        </p>
     </div>
-  </div>
+</div>
+
 
 </div>
 
