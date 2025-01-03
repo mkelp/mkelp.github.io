@@ -293,19 +293,30 @@
 }
 
 @media (max-width: 768px) {
+  .research-page {
+    padding: 0 15px; /* Adjust padding for smaller screens */
+    margin-left: 0; /* Reset left margin */
+  }
+
   .research-section {
-    display: block; /* Stack image and text on mobile */
+    flex-direction: column; /* Stack items vertically */
+    gap: 15px; /* Reduce space between items */
   }
 
-  .research-section .research-image {
-    width: 100%; /* Image spans full width on mobile */
-    max-width: 100%;
-    margin-bottom: 20px; /* Add space below the image */
+  .research-image,
+  .research-content {
+    order: 0; /* Reset order */
+    max-width: 100%; /* Full width */
+    width: 100%; /* Full width */
+    margin: 0; /* Reset margins */
   }
 
-  .research-section .research-content {
-    width: 100%; /* Text spans full width on mobile */
+  .research-content {
+    text-align: left; /* Ensure text alignment is consistent */
+    padding-bottom: 10px; /* Add spacing below text */
   }
+
+  font-size: 1rem; /* Adjust font size for mobile readability */
 }
 
 .research-section {
