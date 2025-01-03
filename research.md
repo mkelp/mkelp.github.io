@@ -63,7 +63,9 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>,
+        <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>,
+
       </p>
       <p>
         <strong>Co-Authored Wildfire Publications:</strong>
@@ -87,7 +89,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
         <br />
         <strong>Publications:</strong> 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>,
         <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) ArXiv</a>
 
       </p>
