@@ -308,6 +308,27 @@
   }
 }
 
+.research-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 3em;
+}
+
+.research-image.left {
+  order: 1; /* Image on the left */
+  margin-right: 20px;
+}
+
+.research-image.right {
+  order: 2; /* Image on the right */
+  margin-left: 20px;
+}
+
+.research-content {
+  flex: 1; /* Text occupies the remaining space */
+}
+
 
 // .research-section {
 //   display: flex !important;
