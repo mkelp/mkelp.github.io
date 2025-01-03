@@ -272,7 +272,11 @@
   box-sizing: border-box;
 
   @include media-query($on-desktop) {
-    margin-left: -250px; /* Only for desktop */
+    margin-left: -250px !important; /* Only for desktop */
+  }
+
+  @include media-query($on-widescreen) {
+    margin-left: -250px !important; /* Only for desktop */
   }
 
   @include media-query($on-mobile) {
