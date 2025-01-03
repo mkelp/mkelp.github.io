@@ -15,121 +15,6 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 
-<!-- <p align="left"><em>My research blends the domains of atmospheric chemistry, air quality engineering, and machine learning/data science to uncover latent patterns in air pollution.</em></p> -->
-
-
-<!-- # **Current Projects** -->
-<!-- # Current Research Areas -->
-<font size="+3">Current Research Areas</font>
-<br />
-
-<font size="+2"><p align="center">Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
-<!-- # Wildfire smoke, prescribed burns, and rural environmental justice in the western United States -->
-<!-- <figure>
-<img src="/assets/img/west_fire.png" alt="controlled burns fig">
-<figcaption>Contributions to population-weighted smoke exposure for the western United States in September 2020 (Kelp et al., 2023).</figcaption>
-</figure> -->
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/west_fire.png" alt="controlled burns fig" style="width: 75%">
-  <figcaption>Wildfire emissions contributing to population-weighted smoke exposures accross the western United States in September 2020 (Kelp et al., 2023).</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-Catastrophic wildfires pose substantial risk to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems. Here we investigate the effectiveness of prescribed burning for abating potential wildfire smoke exposures in states and rural environmental justice communities across the western United States during the destructive 2018 and 2020 fire seasons. We find that due in part to prevailing wind patterns, wildfires in the coastal states contribute more to overall smoke exposure in the West compared to wildfires in other states in both 2018 and 2020. We show that implementing prescribed burns in the heavily forested Northern California and the Pacific Northwest would yield large net benefits for the entire western United States, while doing so in other states would have relatively smaller impacts. Our work suggests that land managers should prioritize northern California, western Oregon, and eastern Washington for prescribed burns to mitigate future smoke exposure as these regions have a disproportionate impact on smoke exposure for rural environmental justice communities and population centers across the West.
-
-**Publications:** [Kelp et al., (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"}
-
-**Co-Authored Wildfire Publications:** [Qiu et al., in-press (2024)](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, [Liu et al., (2024)](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}
-
-<br />
-
-
-<font size="+2"><p align="center">Deep Learning Atmospheric Chemistry</p></font>
-<!-- # Machine-learned atmospheric chemistry solver -->
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/onlineNN-min.png" alt="online NN fig" style="width: 75%">
-  <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-
-Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. However, my past work found that ML chemical solvers experience rapid error growth and become unstable over time. My current work aims to achieve, for the first time, a stable full-year global simulation of atmospheric chemistry with three-month seasonal ML solvers. We show that online training of the ML solver synchronously with an atmospheric chemistry model simulation produces considerably more stable results than offline training from a static dataset of simulation results. Although our work represents an important step for using ML solvers in global atmospheric chemistry models, more work is needed to extend it to large chemical mechanisms and to reduce errors during long-term chemical aging.
-
-**Publications:** [Kelp et al., (2022)](https://doi.org/10.1029/2021MS002926){:target="_blank"}, [Kelp et al., (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759){:target="_blank"}, [Kelp et al., (2018) ArXiv](https://arxiv.org/abs/1808.03874){:target="_blank"}
-
-**Co-Authored ML Publications:** [Balasus et al., (2023)](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}
-
-<br />
-
-
-
-<font size="+2"><p align="center">Data-Driven Air Pollution Sensing</p></font>
-<!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
-
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/EJsensors2.jpg" alt="sensors fig" style="width: 75%">
-  <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-
-In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks. Although these regulatory and low-cost networks provide enhanced spatiotemporal coverage in urban areas, sensors are located most often in higher income, predominantly White areas. Here we use a modal decomposition algorithm to identify the optimal and equitable placement of fine particulate matter (PM<sub>2.5</sub>) sensors in four U.S. cities with histories of racial or income segregation: St. Louis, Houston, Boston, and Buffalo. Compared to networks using air pollution information alone, the algorithm places a greater number of sensors in historically low-income and nonwhite neighborhoods with known environmental pollution problems, while also capturing PM<sub>2.5</sub> extremes. Our work provides a roadmap for the creation of equitable sensor networks in U.S. cities and offers a guide for democratizing air pollution data by increasing spatial coverage of low-cost sensors in less privileged communities.
-
-**Publications:** [Kelp et al., (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, [Kelp et al., (2022)](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}
-
-**Co-Authored Sensor/EJ Publications:** [Kawano et al., (preprint, in-press)](https://eartharxiv.org/repository/view/6911/){:target="_blank"}, [Yang et al., (2022)](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}
-
-<br />
-
-<!-- # Past Projects -->
-<font size="+3">Past Projects</font>
-
-<br />
-
-
-<font size="+2"><p align="center">Chemical data assimilation for global atmospheric composition</p></font>
-<!-- # Optimal and equitable placement of PM<sub>2.5</sub> air quality monitors -->
-
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/cda_o3.png" alt="sensors fig" style="width: 75%">
-  <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks (Kelp et al., 2023).</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We focus our evaluations on the troposphere. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Assimilation increments are largest in the upper troposphere and are consistent between satellite data sets. The OMI and MLS ozone data generally provide more information than the AIRS and IASI radiances except at high latitudes where the radiances provide more information. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
-
-
-**Publications:** [Kelp et al., (2023)](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}
-
-<br />
-
-
-
-<font size="+2"><p align="center">Vehicle emission factors for area-wide mobile monitoring</p></font>
-<!-- # Vehicle emission factors for area-wide mobile monitoring -->
-
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/LA_roads_fig.png" alt="LA fig">
-  <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020). (src credit: Yurika Harada).</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-
-On-road vehicle emissions are a significant source of outdoor air pollution, which pose a severe human health risk, especially for those who live near busy roads. A city's vehicle fleet can determine the levels of risk and exposure for residences as emissions differ for gasoline- vs. diesel-powered vehicles. Most research sampling mobile source emissions in urban traffic involves “vehicle chase” studies of exhaust plumes from individual vehicles which may not be representative of the average emissions for a given area.
-
-We create a statistical model from measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. Furthermore, our model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
-
-**Publications:** [Kelp et al., (2020)](https://www.sciencedirect.com/science/article/pii/S1352231019308519){:target="_blank"}
-
-**Related Vehicle Emissions Publications:** [Wen et al., (2019)](https://www.sciencedirect.com/science/article/pii/S0048969719317140){:target="_blank"}
-
-<br />
-
 <font size="+2"><p align="center">Indoor air pollution from cookstove intervention in rural South India</p></font>
 <!-- # Indoor air pollution from cookstove intervention in rural South India -->
 
@@ -225,7 +110,8 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
       <p>
-        Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
+        Catastrophic wildfires pose substantial risk to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems. Here we investigate the effectiveness of prescribed burning for abating potential wildfire smoke exposures in states and rural environmental justice communities across the western United States during the destructive 2018 and 2020 fire seasons. We find that due in part to prevailing wind patterns, wildfires in the coastal states contribute more to overall smoke exposure in the West compared to wildfires in other states in both 2018 and 2020. We show that implementing prescribed burns in the heavily forested Northern California and the Pacific Northwest would yield large net benefits for the entire western United States, while doing so in other states would have relatively smaller impacts. Our work suggests that land managers should prioritize northern California, western Oregon, and eastern Washington for prescribed burns to mitigate future smoke exposure as these regions have a disproportionate impact on smoke exposure for rural environmental justice communities and population centers across the West.
+
       </p>
       <p>
         Publications: 
@@ -247,7 +133,8 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
       <p>
-        Global models of atmospheric chemistry are computationally expensive. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator.
+        Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. However, my past work found that ML chemical solvers experience rapid error growth and become unstable over time. My current work aims to achieve, for the first time, a stable full-year global simulation of atmospheric chemistry with three-month seasonal ML solvers. We show that online training of the ML solver synchronously with an atmospheric chemistry model simulation produces considerably more stable results than offline training from a static dataset of simulation results. Although our work represents an important step for using ML solvers in global atmospheric chemistry models, more work is needed to extend it to large chemical mechanisms and to reduce errors during long-term chemical aging.
+
       </p>
       <p>
         Publications: 
@@ -269,7 +156,8 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
       <p>
-        In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks.
+        In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks. Although these regulatory and low-cost networks provide enhanced spatiotemporal coverage in urban areas, sensors are located most often in higher income, predominantly White areas. Here we use a modal decomposition algorithm to identify the optimal and equitable placement of fine particulate matter (PM<sub>2.5</sub>) sensors in four U.S. cities with histories of racial or income segregation: St. Louis, Houston, Boston, and Buffalo. Compared to networks using air pollution information alone, the algorithm places a greater number of sensors in historically low-income and nonwhite neighborhoods with known environmental pollution problems, while also capturing PM<sub>2.5</sub> extremes. Our work provides a roadmap for the creation of equitable sensor networks in U.S. cities and offers a guide for democratizing air pollution data by increasing spatial coverage of low-cost sensors in less privileged communities.
+
       </p>
       <p>
         Publications: 
@@ -301,7 +189,8 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Chemical Data Assimilation for Global Atmospheric Composition</p></font>
       <p>
-        The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry.
+        The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We focus our evaluations on the troposphere. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Assimilation increments are largest in the upper troposphere and are consistent between satellite data sets. The OMI and MLS ozone data generally provide more information than the AIRS and IASI radiances except at high latitudes where the radiances provide more information. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
+
       </p>
       <p>
         Publications: 
@@ -312,13 +201,16 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
   <div class="research-section">
     <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
-      <img src="/assets/img/LA_roads_fig.png" alt="Vehicle emissions figure" style="width: 100%;">
-      <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020).</figcaption>
+      <img src="/assets/img/LA_roads_fig.png" alt="Vehicle emissions figure" style="width: 90%;">
+      <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020). (src credit: Yurika Harada)</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Vehicle Emission Factors for Area-Wide Mobile Monitoring</p></font>
       <p>
-        On-road vehicle emissions are a significant source of outdoor air pollution, which pose a severe human health risk, especially for those who live near busy roads.
+        On-road vehicle emissions are a significant source of outdoor air pollution, which pose a severe human health risk, especially for those who live near busy roads. A city's vehicle fleet can determine the levels of risk and exposure for residences as emissions differ for gasoline- vs. diesel-powered vehicles. Most research sampling mobile source emissions in urban traffic involves “vehicle chase” studies of exhaust plumes from individual vehicles which may not be representative of the average emissions for a given area.
+
+        We create a statistical model from measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. Furthermore, our model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
+
       </p>
       <p>
         Publications: 
@@ -333,7 +225,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
   <div class="research-section">
     <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
-      <img src="/assets/img/cookstove_fig.jpg" alt="Cookstove intervention figure" style="width: 100%;">
+      <img src="/assets/img/cookstove_fig.jpg" alt="Cookstove intervention figure" style="width: 70%;">
       <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves (Kelp et al., 2018).</figcaption>
     </figure>
     <div class="research-content">
