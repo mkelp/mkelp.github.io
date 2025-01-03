@@ -42,7 +42,7 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 estimates in India reveal inequalities in recent enhancement of air quality. (In press at *Science Advances*) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
 
 <br />
-`17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). [Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, *Environ. Sci. Technol.*, 2024, 58, 52, 22880–22893, DOI: 10.1021/acs.est.4c05922
+`17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). [Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, *Environ. Sci. Technol.*, 58, 52, 22880–22893, DOI: 10.1021/acs.est.4c05922
 * Special Issue on "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health"
 
 <br />
