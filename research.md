@@ -185,9 +185,9 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 
 
-<div class="research-page" style="max-width: 2000px; margin: 0 auto; padding: 0 20px;">
+<div class="research-page" style="max-width: 1600px; margin: 0 auto; padding: 0 20px;">
 
-<font size="+3">Research Interests2</font>
+<font size="+3">Research Interests3</font>
 
 <p>
 My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
@@ -199,7 +199,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 <div class="research-section">
-  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image right">
+  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image right" style="width: 75%">>
   <div class="research-content">
     <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
     <p>
@@ -217,7 +217,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <div style="height: 20px;"></div>
 
 <div class="research-section">
-  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image left">
+  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image left" style="width: 75%">>
   <div class="research-content">
     <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
     <p>
@@ -235,7 +235,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <div style="height: 20px;"></div>
 
 <div class="research-section">
-  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image right">
+  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image right" style="width: 75%">>
   <div class="research-content">
     <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
     <p>
