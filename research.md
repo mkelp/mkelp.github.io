@@ -228,11 +228,11 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
         Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
       </p>
       <p>
-        **Publications:** 
+        Publications: 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
       </p>
       <p>
-        **Co-Authored Wildfire Publications:** 
+        Co-Authored Wildfire Publications: 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., in-press (2024)</a>, 
         <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a>
       </p>
@@ -250,12 +250,12 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
         Global models of atmospheric chemistry are computationally expensive. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator.
       </p>
       <p>
-        **Publications:** 
+        Publications: 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
       </p>
       <p>
-        **Co-Authored ML Publications:** 
+        Co-Authored ML Publications: 
         <a href="https://amt.copernicus.org/articles/16/3787/2023/" target="_blank">Balasus et al., (2023)</a>
       </p>
     </div>
@@ -272,12 +272,12 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
         In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks.
       </p>
       <p>
-        **Publications:** 
+        Publications: 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023)</a>, 
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022)</a>
       </p>
       <p>
-        **Co-Authored Sensor/EJ Publications:** 
+        Co-Authored Sensor/EJ Publications: 
         <a href="https://eartharxiv.org/repository/view/6911/" target="_blank">Kawano et al., (preprint, in-press)</a>, 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
       </p>
@@ -285,6 +285,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
   </div>
 
 </div>
+
 
 
 
