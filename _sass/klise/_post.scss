@@ -282,8 +282,8 @@
 }
 
 .research-section .research-image {
-  flex: 0 0 40%; /* Image takes up 50% of the section width */
-  max-width: 40%; /* Ensure image doesn’t exceed 50% */
+  flex: 0 0 50%; /* Image takes up 50% of the section width */
+  max-width: 50%; /* Ensure image doesn’t exceed 50% */
   border-radius: 8px; /* Optional: Add rounded corners */
 }
 
@@ -329,6 +329,13 @@
   flex: 1; /* Text occupies the remaining space */
 }
 
+.research-content.left {
+  order: 2; /* Text on the right */
+}
+
+.research-content.right {
+  order: 1; /* Text on the left */
+}
 
 // .research-section {
 //   display: flex !important;

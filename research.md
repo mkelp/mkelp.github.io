@@ -187,7 +187,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 <div class="research-page" style="max-width: 1300px; margin: 0 auto; padding: 0 10px; margin-left: -250px;">
 
-<font size="+3">Research Interests15</font>
+<font size="+3">Research Interests20</font>
 
 <p>
 My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
@@ -199,8 +199,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 <div class="research-section">
-  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image right" style="width: 75%;">
-  <div class="research-content">
+  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image left">
+  <div class="research-content right">
     <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
     <p>
       Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
@@ -209,8 +209,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 </div>
 
 <div class="research-section">
-  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image left" style="width: 75%;">
-  <div class="research-content">
+  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image right">
+  <div class="research-content left">
     <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
     <p>
       Global models of atmospheric chemistry are computationally expensive. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator.
@@ -219,15 +219,17 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 </div>
 
 <div class="research-section">
-  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image right" style="width: 75%;">
-  <div class="research-content">
+  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image left">
+  <div class="research-content right">
     <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
     <p>
       In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks.
     </p>
   </div>
 </div>
+
 </div>
+
 
 
 
