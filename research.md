@@ -88,6 +88,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
         <strong>Publications:</strong> 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
+        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) ArXiv</a>
+
       </p>
       <p>
         <strong>Co-Authored ML Publications:</strong>
@@ -138,7 +140,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     <div class="research-content">
       <font size="+2"><p>Chemical Data Assimilation for Global Atmospheric Composition</p></font>
       <p>
-        The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We focus our evaluations on the troposphere. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Assimilation increments are largest in the upper troposphere and are consistent between satellite data sets. The OMI and MLS ozone data generally provide more information than the AIRS and IASI radiances except at high latitudes where the radiances provide more information. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
+        The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
 
       </p>
       <p>
