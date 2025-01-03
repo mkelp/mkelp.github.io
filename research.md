@@ -62,11 +62,11 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
       </p>
       <p>
-        Co-Authored Wildfire Publications: 
+        <strong>Co-Authored Wildfire Publications:</strong>
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., in-press (2024)</a>, 
         <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a>
       </p>
@@ -85,12 +85,12 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
       </p>
       <p>
-        Co-Authored ML Publications: 
+        <strong>Co-Authored ML Publications:</strong>
         <a href="https://amt.copernicus.org/articles/16/3787/2023/" target="_blank">Balasus et al., (2023)</a>
       </p>
     </div>
@@ -109,12 +109,12 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023)</a>, 
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022)</a>
       </p>
       <p>
-        Co-Authored Sensor/EJ Publications: 
+        <strong>Co-Authored Sensor/EJ Publications:</strong>
         <a href="https://eartharxiv.org/repository/view/6911/" target="_blank">Kawano et al., (preprint, in-press)</a>, 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
       </p>
@@ -143,7 +143,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023)</a>
       </p>
     </div>
@@ -165,11 +165,11 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank">Kelp et al., (2020)</a>
       </p>
       <p>
-        Related Publications: 
+        <strong>Related Publications:</strong> 
         <a href="https://www.sciencedirect.com/science/article/pii/S0048969719317140" target="_blank">Wen et al., (2019)</a>
       </p>
     </div>
@@ -190,7 +190,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://www.sciencedirect.com/science/article/pii/S2352728517300726" target="_blank">Kelp et al., (2018)</a>
       </p>
     </div>
@@ -213,7 +213,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     
     <p>
         <br />
-        EPA-DEQ certification: 
+        <strong>Publications:</strong> 
         <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank">EPA-DEQ certification</a>
       </p>
     </div>
@@ -236,7 +236,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
-        Publications: 
+        <strong>Publications:</strong> 
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank">Jaffe et al., (2015)</a>
       </p>
     </div>
