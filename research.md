@@ -149,7 +149,7 @@ Although lab studies have clearly demonstrated the potential benefits of cooksto
 <br />
 
 <!-- <font size="+2"><p align="center">Actionable sampling: Heavy metals air quality monitoring in Portland, OR</p></font> -->
-<font size="+2"><p align="center"><strong>Heavy metals air quality monitoring in Portland, OR</strong></p></font>
+<font size="+2"><p align="center">Heavy metals air quality monitoring in Portland, OR</p></font>
 <!-- # Heavy metals air quality monitoring in Portland, OR -->
 
 <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
@@ -206,8 +206,8 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 <div class="research-page">
 
-<font size="+3">Research Interests44</font>
-
+<font size="+3">Research Interests45</font>
+<br />
 <p>
 My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
 </p>
@@ -221,6 +221,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image left">
   <div class="research-content right">
     <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
+    <br />
     <p>
       Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
     </p>
