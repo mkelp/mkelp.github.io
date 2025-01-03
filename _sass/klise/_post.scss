@@ -1,7 +1,7 @@
 // Post wrapper
 .wrapper.post {
   margin: 0 auto; /* Center content */
-  padding-left: 2px; /* Adjust padding to match both sides */
+  padding-left: 20px; /* Adjust padding to match both sides */
   padding-right: 20px;
 
   @include media-query($on-mobile) {
@@ -239,7 +239,7 @@
     &:nth-child(even) {
       text-align: right;
       padding-right: 0;
-      padding-left: 20px;
+      padding-left: 0px;
     }
   }
 
