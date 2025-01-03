@@ -185,21 +185,28 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 <style>
   @media (min-width: 1024px) {
     .research-page {
+      max-width: 1300px;
+      margin: 0 auto;
       margin-left: -250px; /* Specific for desktop */
+      padding: 0 20px;
     }
   }
 
-  @media (max-width: 1023px) {
+  @media (max-width: 770px) {
     .research-page {
-      margin-left: 0; /* Reset for mobile and tablets */
+      max-width: 100%; /* Full width for mobile */
+      margin: 0 auto; /* Center the page */
+      margin-left: 0; /* Reset margin for mobile */
+      padding: 0 15px; /* Adjust padding for smaller screens */
     }
   }
 </style>
 
 
-<div class="research-page" style="max-width: 1300px; margin: 0 auto; padding: 0 10px; margin-left: -250px;">
+<div class="research-page">
+ <!-- style="max-width: 1300px; margin: 0 auto; padding: 0 10px; margin-left: -250px;"> -->
 
-<font size="+3">Research Interests36</font>
+<font size="+3">Research Interests37</font>
 
 <p>
 My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
