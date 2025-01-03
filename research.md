@@ -206,54 +206,86 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 <div class="research-page">
 
-<font size="+3">Research Interests49</font>
-<br />
-<p>
-My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
-</p>
+  <font size="+3">Research Interests</font>
 
-<br />
+  <p>
+    My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
+  </p>
 
-<font size="+3">Current Research Areas</font>
+  <br />
 
-<br />
-<br />
+  <font size="+3">Current Research Areas</font>
+  <br />
 
-
-<div class="research-section">
-  <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image left">
-  <div class="research-content right">
-    <p><span style="font-size: larger; font-weight: bold;">Wildfire, Prescribed Fire Smoke Modeling and Mitigation</span></p>
-    <p>
-      Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
-    </p>
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/west_fire.png" alt="Wildfire emissions" style="width: 100%;">
+      <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020 (Kelp et al., 2023).</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
+      <p>
+        Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
+      </p>
+      <p>
+        **Publications:** 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
+      </p>
+      <p>
+        **Co-Authored Wildfire Publications:** 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., in-press (2024)</a>, 
+        <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a>
+      </p>
+    </div>
   </div>
-</div>
 
-
-<div class="research-section">
-  <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" class="research-image right">
-  <div class="research-content left">
-    <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
-    <br />
-    <p>
-      Global models of atmospheric chemistry are computationally expensive. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator.
-    </p>
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" style="width: 100%;">
+      <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
+      <p>
+        Global models of atmospheric chemistry are computationally expensive. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator.
+      </p>
+      <p>
+        **Publications:** 
+        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
+      </p>
+      <p>
+        **Co-Authored ML Publications:** 
+        <a href="https://amt.copernicus.org/articles/16/3787/2023/" target="_blank">Balasus et al., (2023)</a>
+      </p>
+    </div>
   </div>
-</div>
 
-<div class="research-section">
-  <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" class="research-image left">
-  <div class="research-content right">
-    <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
-    <br />
-    <p>
-      In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks.
-    </p>
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" style="width: 100%;">
+      <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
+      <p>
+        In the United States, citizens and policymakers rely upon Environmental Protection Agency (EPA) mandated regulatory networks to monitor air pollution; increasingly, low-cost sensor networks supplement spatial gaps in the regulatory monitor networks.
+      </p>
+      <p>
+        **Publications:** 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023)</a>, 
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022)</a>
+      </p>
+      <p>
+        **Co-Authored Sensor/EJ Publications:** 
+        <a href="https://eartharxiv.org/repository/view/6911/" target="_blank">Kawano et al., (preprint, in-press)</a>, 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
+      </p>
+    </div>
   </div>
-</div>
 
 </div>
+
 
 
 
