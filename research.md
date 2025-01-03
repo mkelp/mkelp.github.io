@@ -206,7 +206,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 <div class="research-page">
 
-<font size="+3">Research Interests45</font>
+<font size="+3">Research Interests46</font>
 <br />
 <p>
 My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
@@ -215,13 +215,12 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 <font size="+3">Current Research Areas</font>
-<br />
 
 <div class="research-section">
   <img src="/assets/img/west_fire.png" alt="Wildfire emissions" class="research-image left">
   <div class="research-content right">
     <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
-    <br />
+    &nbsp;
     <p>
       Catastrophic wildfires pose substantial risks to public health, infrastructures, and ecosystems in the western United States. As these large and costly wildfires become more common, methods to identify locations for prescribed burning are needed to mitigate impacts on affected populations and ecosystems.
     </p>
