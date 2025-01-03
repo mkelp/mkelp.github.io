@@ -5,6 +5,7 @@ layout: page
 excerpt: Makoto Kelp aboutMe
 comments: false
 ---
+
 <div style="text-align: center;">
   <figure style="border: 2px solid #fff; border-radius: 5px; box-sizing: border-box; display: inline-block; margin: 0 auto; width: 75%;">
     <img src="/assets/img/tori3.jpg" alt="tori fig" style="display: block; width: 100%; height: auto;">
@@ -49,13 +50,12 @@ comments: false
 
   <br />
 
-  <h3>
+  <h3 style="margin: 0;">
     <a href="{{ site.url }}/assets/mkelpCV.pdf" target="_blank" style="color: #003fff; text-decoration: none;">Curriculum Vitae</a> (last updated December 2024)
   </h3>
 
   <br />
 
-  <p><strong>Contact information:</strong></p>
-  <p>- {{ site.author.email }}</p>
+  <p style="margin: 0;"><strong>Contact information:</strong></p>
+  <p style="margin: 0;">- {{ site.author.email }}</p>
 </div>
-
