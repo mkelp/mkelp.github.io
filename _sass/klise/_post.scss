@@ -316,25 +316,25 @@
 }
 
 .research-image.left {
-  order: 1 !important; /* Image on the left */
+  order: 1; /* Image on the left */
   margin-right: 20px;
 }
 
 .research-image.right {
-  order: 2 !important; /* Image on the right */
+  order: 2; /* Image on the right */
   margin-left: 20px;
 }
 
-// .research-content {
-//   flex: 1 /* Text occupies the remaining space */
-// }
+.research-content {
+  flex: 1; /* Text occupies the remaining space */
+}
 
 .research-content.left {
-  order: 2 !important; /* Text on the right */
+  order: 2; /* Text on the right */
 }
 
 .research-content.right {
-  order: 1 !important; /* Text on the left */
+  order: 1; /* Text on the left */
 }
 
 // .research-section {
