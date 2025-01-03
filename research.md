@@ -75,6 +75,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     </div>
   </div>
 
+<br />
+
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" style="width: 100%;">
@@ -99,6 +101,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
     </div>
   </div>
+
+<br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
@@ -127,6 +131,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
 </div>
 
+<br />
 
 <div class="research-page">
 
@@ -152,6 +157,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
     </div>
   </div>
+
+<br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
@@ -179,6 +186,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     </div>
   </div>
 
+<br />
+
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/cookstove_fig.jpg" alt="Cookstove intervention figure" style="width: 70%;">
@@ -199,6 +208,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
     </div>
   </div>
+
+<br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
@@ -223,6 +234,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     </div>
 </div>
 
+<br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
