@@ -131,7 +131,6 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
 </div>
 
-<br />
 
 <div class="research-page">
 
