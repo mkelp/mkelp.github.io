@@ -266,7 +266,7 @@
 
 
 .research-page {
-  width: 1200px; /* Set a maximum width for the entire page */
+  width: 1300px; /* Set a maximum width for the entire page */
   margin: 0 auto; /* Center the page */
   margin-left: -200 !important; /* Force the left shift */
   padding: 0 20px; /* Add some padding for smaller screens */
@@ -309,21 +309,21 @@
 }
 
 
-.research-section {
-  display: flex !important;
-  border: 2px solid red; /* Debugging border for the container */
-}
+// .research-section {
+//   display: flex !important;
+//   border: 2px solid red; /* Debugging border for the container */
+// }
 
-.research-section .research-image {
-  flex: 0 0 50%;
-  max-width: 50%;
-  border: 2px solid green; /* Debugging border for the image */
-}
+// .research-section .research-image {
+//   flex: 0 0 50%;
+//   max-width: 50%;
+//   border: 2px solid green; /* Debugging border for the image */
+// }
 
-.research-section .research-content {
-  flex: 1;
-  border: 2px solid blue; /* Debugging border for the text */
-}
+// .research-section .research-content {
+//   flex: 1;
+//   border: 2px solid blue; /* Debugging border for the text */
+// }
 
 .parent-container {
   margin: 0 auto;
