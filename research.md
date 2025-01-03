@@ -15,24 +15,6 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 <br />
 
 
-<font size="+2"><p align="center">Indoor air pollution from cookstove intervention in rural South India</p></font>
-<!-- # Indoor air pollution from cookstove intervention in rural South India -->
-
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/cookstove_fig.jpg" alt="cookstove fig" width="400">
-  <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves (Kelp et al., 2018).</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-Biomass combustion from residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM<sub>2.5</sub>, black carbon (BC) and carbon monoxide (CO) in households using carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM<sub>2.5</sub>, but increased BC concentrations relative to the traditional stoves.
-
-Although lab studies have clearly demonstrated the potential benefits of cookstove interventions, achieving these same benefits in real households is more complex. This work suggests that reduction in indoor pollution from intervention cookstoves might not be occurring in practice to the same extent as is expected from lab evaluation, and that benefits from such interventions should not be assumed.
-
-**Publication:** [Kelp et al., (2018)](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}
-
-<br />
-
 <!-- <font size="+2"><p align="center">Actionable sampling: Heavy metals air quality monitoring in Portland, OR</p></font> -->
 <font size="+2"><p align="center">Heavy metals air quality monitoring in Portland, OR</p></font>
 <!-- # Heavy metals air quality monitoring in Portland, OR -->
@@ -208,7 +190,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
       <font size="+2"><p>Vehicle Emission Factors for Area-Wide Mobile Monitoring</p></font>
       <p>
         On-road vehicle emissions are a significant source of outdoor air pollution, which pose a severe human health risk, especially for those who live near busy roads. A city's vehicle fleet can determine the levels of risk and exposure for residences as emissions differ for gasoline- vs. diesel-powered vehicles. Most research sampling mobile source emissions in urban traffic involves “vehicle chase” studies of exhaust plumes from individual vehicles which may not be representative of the average emissions for a given area.
-
+        <br />
         We create a statistical model from measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. Furthermore, our model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
 
       </p>
@@ -231,7 +213,9 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Indoor Air Pollution from Cookstove Intervention in Rural South India</p></font>
       <p>
-        Biomass combustion from residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease.
+        Biomass combustion from residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM<sub>2.5</sub>, black carbon (BC) and carbon monoxide (CO) in households using carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM<sub>2.5</sub>, but increased BC concentrations relative to the traditional stoves.
+        <br />
+        Although lab studies have clearly demonstrated the potential benefits of cookstove interventions, achieving these same benefits in real households is more complex. This work suggests that reduction in indoor pollution from intervention cookstoves might not be occurring in practice to the same extent as is expected from lab evaluation, and that benefits from such interventions should not be assumed.
       </p>
       <p>
         Publications: 
