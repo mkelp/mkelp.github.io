@@ -12,41 +12,8 @@ class: research-page
 
 My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
 
-<br />
-
-
-<!-- <font size="+2"><p align="center">Actionable sampling: Heavy metals air quality monitoring in Portland, OR</p></font> -->
-<font size="+2"><p align="center">Heavy metals air quality monitoring in Portland, OR</p></font>
-<!-- # Heavy metals air quality monitoring in Portland, OR -->
-
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/arsenic_monitoring.png" alt="arsenic monitoring fig">
-</figure>
-
-<div style="height: 20px;"></div>
-
-Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA-validated method sampling site. We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) to elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution as coming from the Bullseye Glass Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority, and are supported by Governor Kate Brown.
-
-**Publication:** [EPA-DEQ certification](https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view)
 
 <br />
-
-<font size="+2"><p align="center">Measuring coal dust from trains in the Columbia River Gorge, WA</p></font>
-<!-- # Measuring coal dust from trains in the Columbia River Gorge, WA -->
-
-<figure style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  <img src="/assets/img/gorge_fig.png" alt="train fig">
-  <figcaption>Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
-</figure>
-
-<div style="height: 20px;"></div>
-
-Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic on people living near rail lines is hampered by a lack of monitoring data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> exposure to humans from diesel trains, we sought to measure these air quality effects.
-
-During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal dust from trains in the Columbia River Gorge and found that the transit of diesel powered open-top coal trains result in nearly twice as much respirable PM<sub>2.5</sub> compared to the passage of diesel-powered freight trains not carrying coal. Furthermore, we witnessed multiple “super-duster” events during which the coal dust emissions led to visible dust plumes and the highest PM<sub>2.5</sub> concentrations observed in our study.
-
-**Publication:** [Jaffe et al., (2015)](https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057){:target="_blank"}
-
 
 
 <style>
@@ -191,6 +158,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
       <p>
         On-road vehicle emissions are a significant source of outdoor air pollution, which pose a severe human health risk, especially for those who live near busy roads. A city's vehicle fleet can determine the levels of risk and exposure for residences as emissions differ for gasoline- vs. diesel-powered vehicles. Most research sampling mobile source emissions in urban traffic involves “vehicle chase” studies of exhaust plumes from individual vehicles which may not be representative of the average emissions for a given area.
         <br />
+        <br />
         We create a statistical model from measurements obtained from continuously moving platforms to estimate area-wide average vehicle emission factors of neighborhoods. These model predictions are used to estimate emission factors by source-related features within a city. Furthermore, our model can calculate separately light-duty and heavy-duty vehicle emission factors for a study area while also separating out high-emitter vehicles that may artificially skew emission factor estimates. Study areas include Los Angeles, USA and Chengdu, China.
 
       </p>
@@ -215,6 +183,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
       <p>
         Biomass combustion from residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM<sub>2.5</sub>, black carbon (BC) and carbon monoxide (CO) in households using carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM<sub>2.5</sub>, but increased BC concentrations relative to the traditional stoves.
         <br />
+        <br />
         Although lab studies have clearly demonstrated the potential benefits of cookstove interventions, achieving these same benefits in real households is more complex. This work suggests that reduction in indoor pollution from intervention cookstoves might not be occurring in practice to the same extent as is expected from lab evaluation, and that benefits from such interventions should not be assumed.
       </p>
       <p>
@@ -232,7 +201,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Heavy Metals Air Quality Monitoring in Portland, OR</p></font>
       <p>
-        Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015.
+        Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA-validated method sampling site. We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) to elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution as coming from the Bullseye Glass Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority, and are supported by Governor Kate Brown.
       </p>
       <p>
         Publications: 
@@ -249,7 +218,11 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
     <div class="research-content">
       <font size="+2"><p>Measuring Coal Dust from Trains in the Columbia River Gorge, WA</p></font>
       <p>
-        Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State.
+        Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic on people living near rail lines is hampered by a lack of monitoring data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> exposure to humans from diesel trains, we sought to measure these air quality effects.
+        <br />
+        <br />
+        During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal dust from trains in the Columbia River Gorge and found that the transit of diesel powered open-top coal trains result in nearly twice as much respirable PM<sub>2.5</sub> compared to the passage of diesel-powered freight trains not carrying coal. Furthermore, we witnessed multiple “super-duster” events during which the coal dust emissions led to visible dust plumes and the highest PM<sub>2.5</sub> concentrations observed in our study.
+
       </p>
       <p>
         Publications: 
