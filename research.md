@@ -53,7 +53,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/west_fire.png" alt="Wildfire emissions" style="width: 100%;">
-      <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020 (Kelp et al., 2023).</figcaption>
+      <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
@@ -80,7 +80,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" style="width: 100%;">
-      <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
+      <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
@@ -107,7 +107,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" style="width: 100%;">
-      <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).</figcaption>
+      <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
@@ -141,7 +141,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/cda_o3.png" alt="Chemical data assimilation figure" style="width: 100%;">
-      <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks (Kelp et al., 2023).</figcaption>
+      <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Chemical Data Assimilation for Global Atmospheric Composition</p></font>
@@ -162,7 +162,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/LA_roads_fig.png" alt="Vehicle emissions figure" style="width: 90%;">
-      <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020). (src credit: Yurika Harada)</figcaption>
+      <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). (src credit: Yurika Harada)</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Vehicle Emission Factors for Area-Wide Mobile Monitoring</p></font>
@@ -190,7 +190,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/cookstove_fig.jpg" alt="Cookstove intervention figure" style="width: 70%;">
-      <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves (Kelp et al., 2018).</figcaption>
+      <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Indoor Air Pollution from Cookstove Intervention in Rural South India</p></font>
