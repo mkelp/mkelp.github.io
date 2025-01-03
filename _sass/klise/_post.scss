@@ -294,6 +294,8 @@
 
 @media (max-width: 768px) {
   .research-page {
+    max-width: 100%; /* Ensure full width on mobile */
+    margin: 0 auto; /* Center the page */
     padding: 0 15px; /* Adjust padding for smaller screens */
     margin-left: 0; /* Reset left margin */
   }
