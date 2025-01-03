@@ -269,6 +269,7 @@
   width: 1600px; /* Set a maximum width for the entire page */
   margin: 0 auto; /* Center the page */
   padding: 0 20px; /* Add some padding for smaller screens */
+  padding-left: 10px; /* Reduce left padding */
   box-sizing: border-box; /* Include padding in width calculation */
 }
 
