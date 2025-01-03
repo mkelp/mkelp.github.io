@@ -287,6 +287,103 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 </div>
 
 
+<div class="research-page">
+
+  <font size="+3">Past Projects</font>
+
+  <br />
+
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/cda_o3.png" alt="Chemical data assimilation figure" style="width: 100%;">
+      <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks (Kelp et al., 2023).</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Chemical Data Assimilation for Global Atmospheric Composition</p></font>
+      <p>
+        The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry.
+      </p>
+      <p>
+        Publications: 
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023)</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/LA_roads_fig.png" alt="Vehicle emissions figure" style="width: 100%;">
+      <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020).</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Vehicle Emission Factors for Area-Wide Mobile Monitoring</p></font>
+      <p>
+        On-road vehicle emissions are a significant source of outdoor air pollution, which pose a severe human health risk, especially for those who live near busy roads.
+      </p>
+      <p>
+        Publications: 
+        <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank">Kelp et al., (2020)</a>
+      </p>
+      <p>
+        Related Publications: 
+        <a href="https://www.sciencedirect.com/science/article/pii/S0048969719317140" target="_blank">Wen et al., (2019)</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/cookstove_fig.jpg" alt="Cookstove intervention figure" style="width: 100%;">
+      <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves (Kelp et al., 2018).</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Indoor Air Pollution from Cookstove Intervention in Rural South India</p></font>
+      <p>
+        Biomass combustion from residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease.
+      </p>
+      <p>
+        Publications: 
+        <a href="https://www.sciencedirect.com/science/article/pii/S2352728517300726" target="_blank">Kelp et al., (2018)</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/arsenic_monitoring.png" alt="Heavy metals monitoring figure" style="width: 100%;">
+      <figcaption>Heavy metals air quality monitoring in Portland, OR.</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Heavy Metals Air Quality Monitoring in Portland, OR</p></font>
+      <p>
+        Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015.
+      </p>
+      <p>
+        Publications: 
+        <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank">EPA-DEQ Certification</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/gorge_fig.png" alt="Coal dust monitoring figure" style="width: 100%;">
+      <figcaption>Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Measuring Coal Dust from Trains in the Columbia River Gorge, WA</p></font>
+      <p>
+        Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State.
+      </p>
+      <p>
+        Publications: 
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank">Jaffe et al., (2015)</a>
+      </p>
+    </div>
+  </div>
+
+</div>
+
 
 
 
