@@ -63,8 +63,8 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>,
-        <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>,
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
+        <!-- <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>, -->
 
       </p>
       <p>
