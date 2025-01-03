@@ -40,11 +40,11 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
 <div class="research-page">
 
-  <font size="+3">Research Interests</font>
+  <!-- <font size="+3">Research Interests</font>
 
   <p>
     My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
-  </p>
+  </p> -->
 
   <br />
 
@@ -88,6 +88,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       </p>
       <p>
         <br />
+        <br />
         Publications: 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
@@ -111,6 +112,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023)</a>, 
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022)</a>
@@ -144,6 +146,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023)</a>
       </p>
@@ -165,6 +168,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank">Kelp et al., (2020)</a>
       </p>
@@ -189,6 +193,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
         Although lab studies have clearly demonstrated the potential benefits of cookstove interventions, achieving these same benefits in real households is more complex. This work suggests that reduction in indoor pollution from intervention cookstoves might not be occurring in practice to the same extent as is expected from lab evaluation, and that benefits from such interventions should not be assumed.
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://www.sciencedirect.com/science/article/pii/S2352728517300726" target="_blank">Kelp et al., (2018)</a>
       </p>
@@ -198,7 +203,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
         <img src="/assets/img/arsenic_monitoring.png" alt="Heavy metals monitoring figure" style="width: 100%;">
-        <figcaption>Heavy metals air quality monitoring in Portland, OR.</figcaption>
+        <figcaption> </figcaption>
     </figure>
     <div class="research-content">
         <font size="+2"><p>Heavy Metals Air Quality Monitoring in Portland, OR</p></font>
@@ -209,6 +214,12 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
             <a href="https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns" target="_blank">suspended its use of chromium</a> 
             in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority, and are supported by Governor Kate Brown.
         </p>
+    
+    <p>
+        <br />
+        EPA-DEQ certification: 
+        <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank">EPA-DEQ certification</a>
+      </p>
     </div>
 </div>
 
@@ -228,6 +239,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank">Jaffe et al., (2015)</a>
       </p>
