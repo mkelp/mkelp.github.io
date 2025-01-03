@@ -147,7 +147,7 @@ class: research-page
       <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks.</figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Chemical Data Assimilation for Global Atmospheric Composition</p></font>
+      <font size="+2"><p>Chemical Data Assimilation for Atmospheric Composition</p></font>
       <p>
         The NASA Goddard Earth Observing System Composition Forecast system (GEOS-CF) provides global near-real-time analyses and forecasts of atmospheric composition. The current version of GEOS-CF builds on the GEOS general circulation model with Forward Processing assimilation of meteorological data (GEOS-FP) and includes detailed GEOS-Chem tropospheric and stratospheric chemistry. Here we add 3D variational data assimilation in GEOS-CF to assimilate satellite observations of ozone including MLS vertical profiles, OMI total columns, and AIRS and IASI hyperspectral 9.6 μm radiances. We find that the detailed tropospheric chemistry in GEOS-CF significantly improves the simulated background ozone fields relative to previous versions of the GEOS model, allowing for specification of smaller background errors in assimilation and resulting in smaller assimilation increments to correct the simulated ozone. Comparisons to independent ozonesonde and aircraft (ATom-4) observations for 2018 show significant GEOS-CF improvement from the assimilation, particularly in the extratropical upper troposphere.
 
@@ -196,7 +196,7 @@ class: research-page
       <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves.</figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Indoor Air Pollution from Cookstove Intervention in Rural South India</p></font>
+      <font size="+2"><p>Indoor Air Pollution from Cookstove Interventions in S. India</p></font>
       <p>
         Biomass combustion from residential cookstoves is a major source of indoor air pollution and a large contributor to the global burden of disease. Investment of resources into rural energy intervention programs has great potential to improve household air quality in developing countries and thus increase quality of life and improve public health. We conducted a randomized intervention study to evaluate air pollution impacts of a carbon-finance-approved cookstove in rural South India. We employed real-time monitors to measure indoor concentrations of PM<sub>2.5</sub>, black carbon (BC) and carbon monoxide (CO) in households using carbon-finance-approved stoves and households continuing to use traditional open fire stoves. Implementation of the new cookstoves decreased concentrations of CO and PM<sub>2.5</sub>, but increased BC concentrations relative to the traditional stoves.
         <br />
@@ -244,7 +244,7 @@ class: research-page
       <figcaption>Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Measuring Coal Dust from Trains in the Columbia River Gorge, WA</p></font>
+      <font size="+2"><p>Measuring Coal Dust from Trains in the Columbia River Gorge</p></font>
       <p>
         Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic on people living near rail lines is hampered by a lack of monitoring data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> exposure to humans from diesel trains, we sought to measure these air quality effects.
         <br />
