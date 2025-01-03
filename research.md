@@ -52,7 +52,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <br />
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/west_fire.png" alt="Wildfire emissions" style="width: 100%;">
       <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020 (Kelp et al., 2023).</figcaption>
     </figure>
@@ -63,6 +63,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
       </p>
@@ -75,7 +76,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   </div>
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/onlineNN-min.png" alt="Machine-learned solver" style="width: 100%;">
       <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem (Kelp et al., 2022).</figcaption>
     </figure>
@@ -86,6 +87,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
 
       </p>
       <p>
+        <br />
         Publications: 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>
@@ -98,7 +100,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   </div>
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/EJsensors2.jpg" alt="PM2.5 sensor locations" style="width: 100%;">
       <figcaption>Distribution of PM<sub>2.5</sub> sensor locations in St. Louis, MO and Houston, TX identified as optimal by the multiresolution Dynamic Mode Decomposition (mrDMD), and those identified as optimal and equitable by the cost-constrained mrDMD (mrDMDcc) using race and income metrics (Kelp et al., 2023).</figcaption>
     </figure>
@@ -131,7 +133,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   <br />
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/cda_o3.png" alt="Chemical data assimilation figure" style="width: 100%;">
       <figcaption>Interpolated contour plots of ozone concentrations as a function of latitude and altitude in April-May 2018. Observations from the ATom-4 aircraft campaign are compared with the Control and Full Assimilation simulations in GEOS-CF sampled along the aircraft flight tracks (Kelp et al., 2023).</figcaption>
     </figure>
@@ -149,7 +151,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   </div>
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/LA_roads_fig.png" alt="Vehicle emissions figure" style="width: 90%;">
       <figcaption>Road and street classifications in Los Angeles County with county base map provided by the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB) (Kelp et al., 2020). (src credit: Yurika Harada)</figcaption>
     </figure>
@@ -174,7 +176,7 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
   </div>
 
   <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/cookstove_fig.jpg" alt="Cookstove intervention figure" style="width: 70%;">
       <figcaption>Diurnal distribution of real-time PM<sub>2.5</sub> concentrations with 10-min resolution. “S1” (A) is the pre-intervention baseline and “S2” (B) is the post-intervention follow-up using cookstoves (Kelp et al., 2018).</figcaption>
     </figure>
@@ -189,23 +191,6 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
       <p>
         Publications: 
         <a href="https://www.sciencedirect.com/science/article/pii/S2352728517300726" target="_blank">Kelp et al., (2018)</a>
-      </p>
-    </div>
-  </div>
-
-  <div class="research-section">
-    <figure style="border: 2px solid #000; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
-      <img src="/assets/img/arsenic_monitoring.png" alt="Heavy metals monitoring figure" style="width: 100%;">
-      <figcaption>Heavy metals air quality monitoring in Portland, OR.</figcaption>
-    </figure>
-    <div class="research-content">
-      <font size="+2"><p>Heavy Metals Air Quality Monitoring in Portland, OR</p></font>
-      <p>
-        Teaming up with the Oregon Department of Environmental Quality (DEQ), I was an air quality sample assistant during the fall of 2015. I helped install and collect BGI filters and maintained an EPA-validated method sampling site. We created [statewide attention](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/03/arsenic-cadmium-levels-near-two-se-portland-schools-are-alarmingly-high-state-finds) to elevated arsenic and cadmium concentrations near two schools (including a kindergarten) in SE Portland. We identified the source of the heavy metal pollution as coming from the Bullseye Glass Co. which then [suspended its use of chromium](https://www.portlandmercury.com/BlogtownPDX/archives/2016/02/04/bullseye-glass-has-suspended-use-of-arsenic-and-cadmium-because-of-air-quality-concerns) in its products. Our monitoring efforts helped lead to the Cleaner Air Oregon regulations written by DEQ and the Oregon Health Authority, and are supported by Governor Kate Brown.
-      </p>
-      <p>
-        Publications: 
-        <a href="https://drive.google.com/file/d/1MBypsl_yBFwdpMGOHG97ZG_KQ9k5zbXS/view" target="_blank">EPA-DEQ Certification</a>
       </p>
     </div>
   </div>
@@ -227,6 +212,27 @@ My work centers on advancing the understanding of atmospheric chemistry and its 
     </div>
 </div>
 
+
+  <div class="research-section">
+    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/gorge_fig.png" alt="Coal dust monitoring figure" style="width: 100%;">
+      <figcaption>Images captured from the video camera before and after coal train passage on 8/7/2014 at 17:28 PDT.</figcaption>
+    </figure>
+    <div class="research-content">
+      <font size="+2"><p>Measuring Coal Dust from Trains in the Columbia River Gorge, WA</p></font>
+      <p>
+        Trains powered by diesel fuel travel through the Columbia River Gorge as well as many urban areas in Washington State. Evaluating the air quality impacts from rail traffic on people living near rail lines is hampered by a lack of monitoring data. Emission standards for new and remanufactured locomotives have decreased steadily over the past several decades. Because of the lack of information on PM<sub>2.5</sub> exposure to humans from diesel trains, we sought to measure these air quality effects.
+        <br />
+        <br />
+        During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal dust from trains in the Columbia River Gorge and found that the transit of diesel powered open-top coal trains result in nearly twice as much respirable PM<sub>2.5</sub> compared to the passage of diesel-powered freight trains not carrying coal. Furthermore, we witnessed multiple “super-duster” events during which the coal dust emissions led to visible dust plumes and the highest PM<sub>2.5</sub> concentrations observed in our study.
+
+      </p>
+      <p>
+        Publications: 
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104215000057" target="_blank">Jaffe et al., (2015)</a>
+      </p>
+    </div>
+  </div>
 
 </div>
 
