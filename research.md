@@ -185,7 +185,7 @@ During summer 2014, we monitored emissions of diesel PM<sub>2.5</sub> and coal d
 
 
 
-<div class="research-page" style="max-width: 1600px; margin: 0 auto; padding: 0 10px; margin-left: -500px;">
+<div class="research-page" style="max-width: 1200px; margin: 0 auto; padding: 0 10px; margin-left: -200px;">
 
 <font size="+3">Research Interests13</font>
 
