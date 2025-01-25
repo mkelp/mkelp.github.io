@@ -66,7 +66,7 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023) *Earth's Future*</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023) <em>Earth's Future</em></a>
         <!-- <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>, -->
 
       </p>
@@ -93,8 +93,8 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022) *JAMES*</a>, 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) *JGR: Atmospheres*</a>,
+        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022) <em>JAMES</em></a>, 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) <em>JGR: Atmospheres</em></a>,
         <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) *ArXiv*</a>
 
       </p>
@@ -121,8 +121,8 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023) *GeoHealth*</a>, 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022) *ERL*</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023) <em>GeoHealth</em></a>, 
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022) <em>ERL</em></a>
       </p>
       <p>
         <strong>Co-Authored Sensor/EJ Publications:</strong>
@@ -155,7 +155,7 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023) *ERL*</a>
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023) <em>ERL</em></a>
       </p>
     </div>
   </div>
@@ -179,7 +179,7 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank">Kelp et al., (2020)</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S1352231019308519" target="_blank">Kelp et al., (2020) <em>Atmos. Env.</em></a>
       </p>
       <p>
         <strong>Related Publications:</strong> 
