@@ -95,7 +95,7 @@ class: research-page
         <strong>Publications:</strong> 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022) <em>JAMES</em></a>, 
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) <em>JGR: Atmospheres</em></a>,
-        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) *ArXiv*</a>
+        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) <em>ArXiv</em></a>
 
       </p>
       <p>
