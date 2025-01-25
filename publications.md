@@ -38,10 +38,12 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 ## **2024**
 
 <!-- <br /> -->
-`18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke (2024). Improved daily PM<sub>2.5</sub>
-estimates in India reveal inequalities in recent enhancement of air quality. (In press at *Science Advances*) [preprint](https://eartharxiv.org/repository/view/6911/){:target="_blank"}
-
+`18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke (2025). [Improved daily PM<sub>2.5</sub>
+estimates in India reveal inequalities in recent enhancement of air quality](https://www.science.org/doi/full/10.1126/sciadv.adq1071){:target="_blank"}, *Science Advances*, 11, 4, DOI: sciadv.adq1071. 
 <br />
+
+## **2024**
+
 `17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). [Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, *Environ. Sci. Technol.*, 58, 52, 22880–22893, DOI: 10.1021/acs.est.4c05922
 * Special Issue on "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health"
 

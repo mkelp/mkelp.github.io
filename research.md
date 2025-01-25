@@ -66,13 +66,13 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023)</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023) *Earth's Future*</a>
         <!-- <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>, -->
 
       </p>
       <p>
         <strong>Co-Authored Wildfire Publications:</strong>
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., in-press (2024)</a>, 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., (2024)</a>, 
         <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a>
       </p>
     </div>
@@ -93,9 +93,9 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022)</a>, 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020)</a>,
-        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) ArXiv</a>
+        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022) *JAMES*</a>, 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) *JGR: Atmospheres*</a>,
+        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) *ArXiv*</a>
 
       </p>
       <p>
@@ -121,12 +121,12 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023)</a>, 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022)</a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023) *GeoHealth*</a>, 
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022) *ERL*</a>
       </p>
       <p>
         <strong>Co-Authored Sensor/EJ Publications:</strong>
-        <a href="https://eartharxiv.org/repository/view/6911/" target="_blank">Kawano et al., (preprint, in-press)</a>, 
+        <a href="https://www.science.org/doi/full/10.1126/sciadv.adq1071" target="_blank">Kawano et al., (2025)</a>, 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
       </p>
     </div>
@@ -155,7 +155,7 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023)</a>
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023) *ERL*</a>
       </p>
     </div>
   </div>
