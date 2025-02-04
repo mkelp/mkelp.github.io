@@ -27,7 +27,7 @@ comments: false
   <a href="https://atmos.utah.edu/" target="_blank">Atmospheric Sciences Department</a> 
   and the 
   <a href="https://wilkescenter.utah.edu/" target="_blank">Wilkes Center for Climate Science & Policy</a> 
-  at the University of Utah in January 2026. My research group will use machine learning and data-driven modeling to tackle problems at the nexus of air quality, fires, and climate extremes.</p>
+  at the University of Utah in January 2026. My research group will use machine learning and data-driven modeling to tackle problems at the nexus of air quality, fires, and human-environmental systems.</p>
 
   <br />
 
@@ -35,13 +35,13 @@ comments: false
   <a href="https://climatelab.stanford.edu/" target="_blank">Climate and Earth System Dynamics Group</a> 
   and with Marshall Burke in the 
   <a href="https://www.stanfordecholab.com/" target="_blank">Environmental Change and Human Outcomes Lab</a> 
-  at Stanford University. My current research focuses on the effectiveness of prescribed fires as a wildfire mitigation strategy. The objective is to advance the mechanistic understanding of prescribed burning efficacy in a warming climate and to develop strategies to reduce the socio-ecological impacts of wildfires.</p>
+  at Stanford University. My current research focuses on the effectiveness of prescribed fires as a wildfire mitigation strategy. The objective is to advance the understanding of prescribed burning efficacy in the Western United States against wildfire risks and to develop strategies to reduce the socio-ecological impacts of wildfires.</p>
 
   <br />
 
   <p>My PhD research with Daniel Jacob and Loretta Mickley at Harvard University's 
   <a href="https://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> 
-  focused on (1) using machine learning to expand the capabilities of atmospheric chemistry models, (2) developing dimensionality reduction algorithms that can determine the optimal and equitable placement of air quality sensors, and (3) investigating the potential for prescribed fires to abate wildfire smoke exposures in the Western United States.</p>
+  focused on (1) using machine learning to accelerate global atmospheric chemistry models, (2) developing dimensionality reduction algorithms that can design optimal air quality sensor networks, and (3) investigating the potential for prescribed fires to abate wildfire smoke exposures in the Western United States.</p>
 
   <br />
 
