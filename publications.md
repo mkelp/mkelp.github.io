@@ -41,8 +41,8 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 
 <!-- <br /> -->
 `19.` Qiu, M., D. Chen, **M. Kelp**, J. Li, G. Huang, M.D. Yazdi (2025). [The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4){:target="_blank"}, *The Innovation*, DOI: https://doi.org/10.1016/j.xinn.2025.100835.
-<br />
 
+<br />
 `18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke (2025). [Improved daily PM<sub>2.5</sub>
 estimates in India reveal inequalities in recent enhancement of air quality](https://www.science.org/doi/full/10.1126/sciadv.adq1071){:target="_blank"}, *Science Advances*, 11, 4, DOI: sciadv.adq1071. 
 <br />
