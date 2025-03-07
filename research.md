@@ -126,7 +126,7 @@ class: research-page
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022) <em>ERL</em></a>
       </p>
       <p>
-        <strong>Co-Authored Sensor/EJ Publications:</strong>
+        <strong>Co-Authored Sensor Publications:</strong>
         <a href="https://www.science.org/doi/full/10.1126/sciadv.adq1071" target="_blank">Kawano et al., (2025)</a>, 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
       </p>

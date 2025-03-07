@@ -10,7 +10,7 @@ comments: false
 <!-- <br/> -->
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
-<u>undergraduate advisee**</u>
+<u>advisee**</u>
 
 ## Submitted and Under Review
 
@@ -33,7 +33,7 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 <!-- # Publications In-Prep, Submitted, and Under Review -->
 
 
-# Publications
+# Publications (<u>advisee**</u>)
 
 <!-- \*\* undergraduate advisee -->
  
