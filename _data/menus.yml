@@ -18,6 +18,10 @@
   url: /presentations/
   external: false
 
+  - title: guides
+  url: /guides/
+  external: false
+
 - title: CV
   url: /assets/mkelpCV.pdf
   external: false
