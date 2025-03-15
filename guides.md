@@ -8,7 +8,7 @@ comments: false
 
 <!-- <font size="+3"><p align="left"><strong>Resources</strong></p></font> -->
 
-<font size="+2">Applying to Tenure-Track Assistant Professor Positions</font>
+<font size="+2">Comprehensive Guide to Applying for Tenure-Track Assistant Professor Positions in Environmental Sciences</font>
 [Link to guide](https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x){:target="_blank"}<br />
 
 <a href="https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x">
@@ -19,8 +19,7 @@ comments: false
 
 <font size="+2">SMRT-Flames Tool</font>
 [Link to app](https://smoke-policy-tool.projects.earthengine.app/view/smrt-flames){:target="_blank"} <br />
-The Smoke Management and Risk Tool: Fire-Land-Atmosphere Mapped Scenarios (SMRT-Flames) can be used to assess smoke exposure across the western United States and target areas where prescribed fires and other fire management approaches can yield the greatest benefit to air quality downwind. 
+The Smoke Management and Risk Tool: Fire-Land-Atmosphere Mapped Scenarios (SMRT-Flames) can be used to assess regional smoke exposure across the western United States and target areas where prescribed fires and other fire management approaches can yield the greatest benefit to air quality downwind. This work was led by star undergraduate Karina Chung and a demonstration of the app can be found below: 
 
-<div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/watch?v=P_yDMXj9R70&ab_channel=KarinaChung" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_yDMXj9R70?si=oqHBjWny9y2sp2Ys"  frameborder="0" allowfullscreen></iframe>
+</iframe>
