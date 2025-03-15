@@ -13,7 +13,7 @@ comments: false
 
 ## Submitted and Under Review (<u>advisee</u>)
 
-<u>Chung, K.</u>, T. Liu, **M. Kelp**, K. Vohra, D. Skelly, M. Carroll, J. Schwartz, L. Mickley. Managing Smoke Risk from Wildland Fires: Northern California as a Case Study. (Submitted) [preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"}
+<u>Chung, K.</u>, T. Liu, **M. Kelp**, K. Vohra, D. Skelly, M. Carroll, J. Schwartz, L. Mickley. Managing Smoke Risk from Wildland Fires: Northern California as a Case Study. (Submitted) [preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"}, [video demo](https://www.youtube.com/watch?v=P_yDMXj9R70&ab_channel=KarinaChung){:target="_blank"}
 
 **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (Submitted) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
 
