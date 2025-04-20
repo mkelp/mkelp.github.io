@@ -40,8 +40,8 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 
 <!-- <br /> -->
 `19.` Qiu, M., D. Chen, **M. Kelp**, J. Li, G. Huang, M.D. Yazdi (2025). [The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4){:target="_blank"}, *The Innovation*, DOI: https://doi.org/10.1016/j.xinn.2025.100835.
-<br />
 
+<br />
 `18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke (2025). [Improved daily PM<sub>2.5</sub>
 estimates in India reveal inequalities in recent enhancement of air quality](https://www.science.org/doi/full/10.1126/sciadv.adq1071){:target="_blank"}, *Science Advances*, 11, 4, DOI: sciadv.adq1071. 
 <br />
@@ -49,12 +49,12 @@ estimates in India reveal inequalities in recent enhancement of air quality](htt
 ## **2024**
 
 `17.` Qiu, M., **M. Kelp**, S. Heft-Neal, X. Jin, C.F. Gould, D.Q. Tong, and M. Burke (2024). [Evaluating Estimation Methods for Wildfire Smoke and their Implications for Assessing Health Effects](https://pubs.acs.org/doi/10.1021/acs.est.4c05922){:target="_blank"}, *Environ. Sci. Technol.*, 58, 52, 22880–22893, DOI: 10.1021/acs.est.4c05922
-<!-- * Special Issue on "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health" -->
-<br />
+* Special Issue on "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health"
 
+<br />
 `16.` Liu, T., <u>F.M. Panday</u>, <u>M.C. Caine</u>, **M. Kelp**, D.C. Pendergrass, and L.J. Mickley (2024). [Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System (HMS) smoke product as a proxy for surface smoke presence across the United States](https://www.publish.csiro.au/WF/WF23148){:target="_blank"}, *International Journal of Wildland Fire*, 33, WF23148, DOI: 10.1071/WF23148.
-<br />
 
+<br />
 `15.` Lin, H., L.K. Emmons, E.W. Lundgren, L.H. Yang, X. Feng, R. Dang, S. Zhai, Y. Tang, **M. Kelp**, N.K. Colombi, S.D. Eastham, T.M. Fritz, A.M. Fiore, and D.J. Jacob (2024). [Intercomparison of GEOS-Chem and CAM-chem tropospheric oxidant chemistry within the Community Earth System Model version 2 (CESM2)](https://acp.copernicus.org/articles/24/8607/2024/){:target="_blank"}, *Atmospheric Chemistry and Physics*, 24, 8607–8624, DOI: 10.5194/acp-24-8607-2024. 
 <br />
 
@@ -62,15 +62,15 @@ estimates in India reveal inequalities in recent enhancement of air quality](htt
 
 <!-- <br /> -->
 `14.` **Kelp, M.**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob (2023).  [Tropospheric ozone data assimilation in the NASA GEOS Composition Forecast modeling system (GEOS-CF v2.0) using satellite data for ozone vertical profiles (MLS), total ozone columns (OMI), and thermal infrared radiances (AIRS, IASI)](https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7){:target="_blank"}, *Environ. Res. Lett.*, 18, 094036, DOI: 10.1088/1748-9326/acf0b7.
-<br />
 
+<br />
 `13.` **Kelp, M.**, <u>T. Fargiano</u>, <u>S. Lin</u>, T. Liu, J.R. Turner, J. N. Kutz, and L.J. Mickley (2023). [Data-driven placement of PM<sub>2.5</sub> air quality sensors in the United States: an approach to target urban environmental injustice](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834){:target="_blank"}, *GeoHealth*, 7, e2023GH000834, DOI: 10.1029/2023GH000834.
-<!-- * Special Collection on "Geospatial data applications for environmental justice" -->
-<br />
+* Special Collection on "Geospatial data applications for environmental justice"
 
+<br />
 `12.` Balasus, N., D. J. Jacob, A. Lorente, J. D. Maasakkers, R. J. Parker, H. Boesch, Z. Chen,  **M., Kelp**, H. Nesser, and D. J. Varon (2023). [A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases](https://amt.copernicus.org/articles/16/3787/2023/){:target="_blank"}, *Atmos. Meas. Tech.*, 16, 3787–3807, DOI: 10.5194/amt-16-3787-2023.
-<br />
 
+<br />
 `11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). [Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"}, *Earth's Future*, 11, e2022EF003468, DOI: 10.1029/2022EF003468.
  * Among Earth's Future Top Viewed Articles in 2023
  <br />
@@ -84,18 +84,19 @@ estimates in India reveal inequalities in recent enhancement of air quality](htt
 <!-- <br /> -->
 `10.` **Kelp, M.**, D.J. Jacob, H. Lin, and M.P. Sulprizio (2022). [An online-learned neural network chemical
 solver for stable long-term global simulations of atmospheric chemistry](https://doi.org/10.1029/2021MS002926){:target="_blank"}, *JAMES*, 14, e2021MS002926, DOI: 10.1029/2021MS002926. <br />
-<!-- * Special Collection on “Machine learning application to Earth system modeling” -->
+* Special Collection on “Machine learning application to Earth system modeling”
 * [Selected as Highlight Paper](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
 <!-- * **Talks**: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"} -->
+
 <br>
+`9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). [Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}, *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: 10.1021/acs.est.1c07005. <br />
+* Special Issue on "Urban Air Pollution and Human Health"
 
-`9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). [Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}, *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: 10.1021/acs.est.1c07005.
-<!-- * Special Issue on "Urban Air Pollution and Human Health" -->
 <br />
-
 `8.` **Kelp, M.**, <u>S. Lin</u>, J.N. Kutz, and L.J. Mickley (2022). [A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}, *Env. Res. Letters*, 17, 034034, DOI: 10.1088/1748-9326/ac548f.  
 <br />
+
 <!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
 
 ## **2020**
@@ -115,8 +116,8 @@ air quality sensors: case study for the contiguous United States](https://iopsci
 
 <!-- <br> -->
 `4.` **Kelp, M.**, C. Tessum, and J.D. Marshall (2018). [Orders-of-magnitude speedup in atmospheric chemistry modeling through neural network-based emulation](https://arxiv.org/abs/1808.03874){:target="_blank"}, arXiv: 1808.03874.
-<br>
 
+<br>
 `3.` **Kelp, M.**, A.P. Grieshop, C.O. Reynolds, J. Baumgartner, G. Jain, K. Sethuramanand, and J.D. Marshall (2018). [Real-time indoor measurement of health and climate-relevant air pollution concentrations during a carbon-finance-approved cookstove intervention in rural India](https://www.sciencedirect.com/science/article/pii/S2352728517300726){:target="_blank"}, *Development Engineering*, 3, 125-132, DOI: 10.1016/j.deveng.2018.05.001.
 <br />
 
