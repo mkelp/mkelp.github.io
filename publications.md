@@ -100,8 +100,8 @@ air quality sensors: case study for the contiguous United States](https://iopsci
 ## **2020**
 <!-- <br /> -->
 `7.` **Kelp, M.**, D.J. Jacob, J.N. Kutz, J.D. Marshall, and C. Tessum (2020). [Toward stable, general machine-learned models of the atmospheric chemical system](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD032759){:target="_blank"}, *JGR: Atmospheres*, 125, e2020JD032759, DOI: 10.1029/2020JD032759.
-<br>
 
+<br>
 `6.` **Kelp, M.**, T. Gould, E. Austin, J.D. Marshall, M. Yost, C. Simpson, and T. Larson (2020). [Sensitivity analysis of area-wide, mobile source emission factors to high-emitter vehicles in Los Angeles](https://www.sciencedirect.com/science/article/abs/pii/S1352231019308519){:target="_blank"}, *Atmospheric Environment*, 223, 117212, DOI: 10.1016/j.atmosenv.2019.117212.
 
 ## **2019**
