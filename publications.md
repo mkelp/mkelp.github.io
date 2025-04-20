@@ -95,7 +95,7 @@ solver for stable long-term global simulations of atmospheric chemistry](https:/
 <br />
 `8.` **Kelp, M.**, <u>S. Lin</u>, J.N. Kutz, and L.J. Mickley (2022). [A new approach for optimal placement of PM<sub>2.5</sub>
 air quality sensors: case study for the contiguous United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac548f){:target="_blank"}, *Env. Res. Letters*, 17, 034034, DOI: 10.1088/1748-9326/ac548f.  
-<br /><!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
+<!-- <br /> * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
 
 ## **2020**
 <!-- <br /> -->
