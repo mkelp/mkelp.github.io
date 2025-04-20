@@ -89,7 +89,7 @@ solver for stable long-term global simulations of atmospheric chemistry](https:/
 <!-- * **Talks**: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"} -->
 <br>
 
-`9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). [Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}, *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: 10.1021/acs.est.1c07005. <br />
+`9.` Yang, L. H., D.H. Hagan, J.C. Rivera-Rios, **M. Kelp**, E.S. Cross, C.Y. Peng, J. Kaiser, L.R. Williams, P. L. Croteau, J.T. Jayne, and N.L. Ng (2022). [Investigating the sources of urban air pollution using low-cost air quality sensors at an urban Atlanta site](https://pubs.acs.org/doi/10.1021/acs.est.1c07005){:target="_blank"}, *Environ. Sci. Technol.*, 56, 11, 7063–7073, DOI: 10.1021/acs.est.1c07005.
 <!-- * Special Issue on "Urban Air Pollution and Human Health" -->
 <br />
 
