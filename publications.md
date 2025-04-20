@@ -72,7 +72,9 @@ estimates in India reveal inequalities in recent enhancement of air quality](htt
 
 <br />
 `11.` **Kelp, M.**, M. Carroll, T. Liu, R. M. Yantosca, H.E. Hockenberry, and L.J. Mickley (2023). [Prescribed burns as a tool to mitigate future wildfire smoke exposures: Lessons for states and environmental justice communities](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468){:target="_blank"}, *Earth's Future*, 11, e2022EF003468, DOI: 10.1029/2022EF003468.
+ * Among Earth's Future Top Viewed Articles in 2023
  <br />
+ 
 <!-- * **Press**: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [KCRA Sacramento](https://www.kcra.com/article/cal-fire-researchers-see-the-proven-benefits-of-controlled-burning/44832195){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html){:target="_blank"} -->
 <!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 

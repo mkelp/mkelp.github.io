@@ -27,7 +27,7 @@ comments: false
   <a href="https://atmos.utah.edu/" target="_blank">Atmospheric Sciences Department</a> 
   and the 
   <a href="https://wilkescenter.utah.edu/" target="_blank">Wilkes Center for Climate Science & Policy</a> 
-  at the University of Utah in January 2026. My research group will use machine learning and data-driven modeling to tackle problems at the nexus of air quality, fires, and human-environmental systems.</p>
+  at the University of Utah in January 2026. My research group will use machine learning and data-driven methods to tackle problems at the nexus of air quality, fires, and human-environmental systems.</p>
 
   <br />
 
