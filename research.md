@@ -56,7 +56,7 @@ class: research-page
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/west_fire.png" alt="Wildfire emissions" style="width: 100%;">
-      <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020. Black dots are prescribed burns greater than 1000 acres during 2015–2020.</figcaption>
+      <figcaption>Wildfire emissions contributing to smoke exposures across the western US in September 2020. Black dots are prescribed burns greater than 1000 acres during 2015–2020.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
