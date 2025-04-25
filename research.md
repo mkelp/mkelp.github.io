@@ -56,7 +56,7 @@ class: research-page
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/west_fire.png" alt="Wildfire emissions" style="width: 100%;">
-      <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020.</figcaption>
+      <figcaption>Wildfire emissions contributing to population-weighted smoke exposures across the western United States in September 2020. Black dots are prescribed burns greater than 1000 acres during 2015–2020.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
@@ -110,7 +110,7 @@ class: research-page
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/sensors2.jpg" alt="PM2.5 sensor locations" style="width: 100%;">
-      <figcaption> PM<sub>2.5</sub> sensor locations in the Western United States. Distribution of sensor locations in the EPA monitoring network compared to those identified as optimal by the mrDMD algorithm. </figcaption>
+      <figcaption>Distribution of sensor locations in the EPA monitoring network compared to those identified as optimal by the compressed sensing (mrDMD) algorithm in the western US. </figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
