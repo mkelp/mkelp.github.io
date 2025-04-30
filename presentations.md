@@ -39,6 +39,12 @@ comments: false
 
 <br />
 
+<font size="+2">Smoke and Mirrors: Rethinking Observations, Models, and Mitigation of Wildfires</font>
+<font size="+1"><p align="left">CPAESS Discovery Seminar </p></font>
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGHRvbxUYb4?si=4c77muEn-3DmyyHd" frameborder="0"  allowfullscreen></iframe>
+</div>
+<br />
 
 <!-- ## Wildfires and Prescribed Burns -->
 <font size="+2">Wildfires and Prescribed Burns</font>
