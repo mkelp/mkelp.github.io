@@ -6,7 +6,7 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-* h-index: 12 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en))
+* h-index: 13 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en))
 <!-- <br/> -->
 * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
 
