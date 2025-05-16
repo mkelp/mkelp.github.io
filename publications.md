@@ -13,8 +13,6 @@ comments: false
 
 ## Submitted and Under Review (<u>advisee</u>)
 
-**Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. (Submitted) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
-
 Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of anthropogenic climate change in driving smoke exposure across the western United States from 1992 to 2020. (Submitted) [preprint](https://arxiv.org/abs/2412.03733){:target="_blank"}
 
 Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) <br />
@@ -33,10 +31,11 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 
 <!-- \*\* undergraduate advisee -->
  
-
 ## **2025**
 
-`20.` <u>Chung, K.</u>, T. Liu, **M. Kelp**, K. Vohra, D. Skelly, M. Carroll, J. Schwartz, L. Mickley. Managing Smoke Risk from Wildland Fires: Northern California as a Case Study, *Environ. Sci. Technol.* (In press) [preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"}, [video demo](https://www.youtube.com/watch?v=P_yDMXj9R70&ab_channel=KarinaChung){:target="_blank"}
+`21.` **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh (2025). Effect of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States, *AGU Advances*  (In press) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
+
+`20.` <u>Chung, K.</u>, T. Liu, **M. Kelp**, K. Vohra, D. Skelly, M. Carroll, J. Schwartz, and L. Mickley (2025). Managing Smoke Risk from Wildland Fires: Northern California as a Case Study, *Environ. Sci. Technol.* (In press) [preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"}, [video demo](https://www.youtube.com/watch?v=P_yDMXj9R70&ab_channel=KarinaChung){:target="_blank"}
 
 <br />
 `19.` Qiu, M., D. Chen, **M. Kelp**, J. Li, G. Huang, M.D. Yazdi (2025). [The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4){:target="_blank"}, *The Innovation*, DOI: 10.1016/j.xinn.2025.100835.
