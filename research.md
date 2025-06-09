@@ -102,8 +102,8 @@ class: research-page
 
       </p>
       <p>
-        <strong>Co-Authored ML Publications:</strong>
-        <a href="https://amt.copernicus.org/articles/16/3787/2023/" target="_blank">Balasus et al., (2023)</a>
+        <strong>Future Outlook Priorities of ML in Atmos Chem: </strong>
+        <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/" target="_blank">Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research</a>
       </p>
     </div>
   </div>
@@ -137,7 +137,7 @@ class: research-page
 </div>
 
 
-<div class="research-page">
+<!-- <div class="research-page">
 
   <font size="+3">Past Projects</font>
 
@@ -262,7 +262,7 @@ class: research-page
     </div>
   </div>
 
-</div> --> 
+</div> -->  -->
 
 
 
