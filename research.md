@@ -15,9 +15,9 @@ class: research-page
 </p>
 </font>
 
-<!-- Inserted image (not sideways, full width with auto-scaling) -->
-<div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="max-width: 100%; height: auto;">
+<!-- Full-width image aligned with content below -->
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="width: 100%; max-width: 1150px; height: auto;">
 </div>
 
 <br />
