@@ -17,7 +17,7 @@ class: research-page
 
 <!-- Inserted image (not sideways, full width with auto-scaling) -->
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="max-width: 100%; height: auto;">
 </div>
 
 <br />
