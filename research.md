@@ -190,7 +190,7 @@ class: research-page
     </div>
   </div>
 
-<!-- <!-- <br /> -->
+<!-- <br />
 
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
