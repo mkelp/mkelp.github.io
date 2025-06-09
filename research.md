@@ -50,7 +50,7 @@ class: research-page
   </p> -->
 
 
-  <font size="+3">Current Research Areas</font>
+  <font size="+3">Research Areas</font>
   <br />
 
   <div class="research-section">
@@ -83,7 +83,7 @@ class: research-page
   <div class="research-section">
     <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/ML_transformer.jpeg" alt="Machine-learned solver" style="width: 100%;">
-      <figcaption>Machine-learned chemical solver embedded in the 3-D chemical transport model GEOS-Chem.</figcaption>
+      <figcaption>Deep learning chemical solver embedded in a 3-D global chemical transport model.</figcaption>
     </figure>
     <div class="research-content">
       <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
