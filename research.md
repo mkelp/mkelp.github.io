@@ -8,19 +8,19 @@ class: research-page
 
 ---
 
-<font size="+3">Research Interests</font>
+<!-- <font size="+3">Research Interests</font>
 
 <font size="+1">
   <p>My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to tackle complex challenges in air quality and wildfire smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
 </p>
-</font>
+</font> -->
 
-<!-- Full-width image aligned with content below -->
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="width: 100%; max-width: 1150px; height: auto;">
+<!-- Inserted image (not sideways, full width with auto-scaling) -->
+<!-- <div style="text-align: center; margin-top: 20px;">
+  <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="max-width: 100%; height: auto;">
 </div>
 
-<br />
+<br /> -->
 
 
 <style>
