@@ -51,7 +51,7 @@ comments: false
 </font>
 
 
-### [Curriculum Vitae]({{ site.url }}/assets/mkelpCV.pdf){:target="_blank"} (last updated May 2025)
+### [Curriculum Vitae]({{ site.url }}/assets/mkelpCV.pdf){:target="_blank"} (last updated June 2025)
 
 
 **Contact information:**
