@@ -1,0 +1,84 @@
+---
+title:'openings'
+permalink: /openings/
+layout: default
+excerpt: guides
+comments: false
+---
+
+<!-- Banner image -->
+<img src="/assets/img/arches.jpg" alt="Arches National Park" 
+     style="width: 100%; max-height: 180px; object-fit: cover; display: block; margin-bottom: -0.5em;">
+
+
+
+<div style="font-size: 1.2em; line-height: 1.6;">
+
+  <h2><strong>Why Utah?</strong></h2>
+<p style="margin-bottom: 1.2em;">
+    The University of Utah is a comprehensive R1 flagship university with easy access to research and recreational opportunities in the Rocky Mountains and spectacular National Parks. The Atmospheric Sciences department has a strong national reputation and is <em>expanding</em> its expertise in modern data science and artificial intelligence, now in a brand new building! Salt Lake City is a <em>growing</em>, high-tech, bike-friendly metropolitan area with vibrant cultural/entertainment amenities, an extensive transit system, a sunny, dry four-season climate and "the Greatest Snow on Earth." From an environmental science and policy perspective, few places offer such a unique opportunity to study the natural world in your backyard and contribute to solving today's most pressing environmental challenges.
+      </p>
+
+  <h2><strong>Graduate Students</strong></h2>
+<p style="margin-bottom: 1.2em;">
+    I am looking to recruit 1–2 Ph.D. students to start in Fall 2026. If you are interested, please fill out this 
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqEBiPIAmR_Z8QCnnMqawRzfaOiHk-PefpUfu5PyRv6Ztdg/viewform?usp=dialog" target="_blank">Google Form</a> 
+    before you apply. My research interests and general research projects are found on the 
+    <a href="{{ site.url }}/research/" target="_blank">research page</a>. I will email strong applicants to set up a brief Zoom meeting.
+  </p>
+<p style="margin-bottom: 1.2em;">
+    Applicants ideally will have some experience with coding (Python, R, Matlab) and research in environmental science, atmospheric science/chemistry, machine learning, and/or computer science, along with at least some coursework or training in these topics. However, there are exceptions to the above as well. If you are unable to access the Google Form, please email me (makoto.kelp [at] utah.edu) with 'Prospective Student Ask' in the email subject line.
+  </p>
+<p style="margin-bottom: 1.2em;">
+    Formal applications are done through the Department of Atmospheric Sciences at the University of Utah. Try to have your application in around the 3rd or 4th week of December. Please refer to the in-depth FAQ which contains information about applying, admissions timeline, stipend, etc.
+
+  </p>
+<p>
+    <strong>Frequently Asked Questions (FAQs):</strong> <a href="https://atmos.utah.edu/graduate/graduate-faq.php" target="_blank">https://atmos.utah.edu/graduate/graduate-faq.php</a><br>
+    <strong>UU Atmospheric Sciences Graduate Student Guide:</strong> <a href="https://atmos.utah.edu/_resources/documents/pdf_docs/grad_guide_master_2024.pdf" target="_blank">Link</a><br>
+    <!-- <strong>Formal applications:</strong> <a href="https://atmos.utah.edu/graduate/graduate-prospective.php" target="_blank">https://atmos.utah.edu/graduate/doctorate.php</a> -->
+  </p>
+
+  <br>
+
+  <h2><strong>Postdocs</strong></h2>
+  <p>
+    I currently do not have funding for a postdoc, but please reach out if you’re interested in applying for a fellowship or private funding with me. The Wilkes Center often has postdoctoral fellowship 
+    <a href="https://wilkescenter.utah.edu/funding-opportunities/" target="_blank">opportunities</a>.
+  </p>
+
+  <br>
+
+  <h2><strong>Undergraduates</strong></h2>
+<p style="margin-bottom: 1.2em;">
+    We are always happy to advise undergraduate students. If you are interested in doing a Undergraduate Research Opportunity Program (UROP) in the group, please email me after consulting the below resources:
+  </p>
+  <p>
+    <strong>How to apply:</strong> <a href="https://our.utah.edu/urop-how-to-apply/" target="_blank">https://our.utah.edu/urop-how-to-apply/</a><br>
+    <strong>Deadlines:</strong> <a href="https://our.utah.edu/research-scholarship-opportunities/urop/" target="_blank">https://our.utah.edu/research-scholarship-opportunities/urop/</a>
+  </p>
+
+  <br>
+
+
+
+
+
+<!-- <font size="+3"><p align="left"><strong>Resources</strong></p></font>
+
+<font size="+2">Comprehensive Guide to Applying for Tenure-Track Assistant Professor Positions in Environmental Sciences</font>
+[Link to guide](https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x){:target="_blank"}<br />
+
+<a href="https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x">
+  <img src="/assets/img/guide_thumb.png" alt="Job guide thumbnail" style="width: 100%; height: auto; max-width: 750px; cursor: pointer; display: block; margin: 0 auto;">
+</a>
+
+<br />
+
+<font size="+2">SMRT-Flames Tool and Demo</font>
+[Link to app](https://smoke-policy-tool.projects.earthengine.app/view/smrt-flames){:target="_blank"}, [Link to preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"} <br />
+The Smoke Management and Risk Tool: Fire-Land-Atmosphere Mapped Scenarios (SMRT-Flames) can be used to assess regional smoke exposure across the western United States and target areas where prescribed fires and other fire management approaches can yield the greatest benefit to air quality downwind. This work was led by star undergraduate Karina Chung and a demonstration of the app can be found below: 
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_yDMXj9R70?si=oqHBjWny9y2sp2Ys"  frameborder="0" allowfullscreen></iframe>
+</div> -->

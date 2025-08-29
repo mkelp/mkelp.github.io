@@ -1,24 +1,29 @@
 # Site settings
-title: Makoto Kelp # site title
+# title: Makoto Kelp # site title
+title: Air Quality Data Science Group @ the U
 description: >- # site description
   Academic research page for Makoto Kelp.
 lang: en-US # default lang
 timezone: EST # set your timezone
-image: assets/img/brick.JPG # This image used for Open Graph more info https://ogp.me/
+image: assets/img/group_icon.jpeg # This image used for Open Graph more info https://ogp.me/
 # repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
-author:
-  name: Makoto Kelp # author name
-  bio:
-    "Applying data-driven science & machine learning to uncover new insights into air pollution, fires, and society."
+# author:
+#   name: Makoto Kelp # author name
+#   bio:
+#     "Applying data-driven science & machine learning to uncover new insights into air pollution, fires, and society."
 # Postdoc @ Stanford University Earth System Science<br>
+author:
+  name: >-
+    Air Quality Data Science Group @ <img src="/assets/img/BlockU_favicon48.png" alt="U" style="height: 1em; vertical-align: middle;">
+  bio: "Applying data-driven science & machine learning to uncover new insights into air pollution, fires, and society."
   username: mkelp # general username
   github: mkelp # github username
   twitter: SOA_mazing # twitter username
-  email: mkelp@stanford.edu # email adress
-  avatar: /assets/img/brick.JPG # change with your own avatar
+  email: makoto.kelp@utah.edu # email adress
+  avatar: /assets/img/group_icon.jpeg # change with your own avatar
 
 # URL settings
 url: "https://mkelp.github.io" #

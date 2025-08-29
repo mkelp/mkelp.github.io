@@ -2,8 +2,8 @@
   url: /
   external: false
 
-- title: about me
-  url: /aboutMe/
+- title: people
+  url: /people/
   external: false
 
 - title: research
@@ -14,17 +14,17 @@
   url: /publications/
   external: false
 
+- title: openings
+  url: /openings/
+  external: false
+
 - title: media
   url: /presentations/
   external: false
 
-- title: guides
-  url: /guides/
-  external: false
-
-- title: CV
-  url: /assets/mkelpCV.pdf
-  external: false
+# - title: CV
+#   url: /assets/mkelpCV.pdf
+#   external: false
 
 - title: AtmosChem-ML
   url: https://www.atmoschemml.com/

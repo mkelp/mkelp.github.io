@@ -6,9 +6,9 @@ excerpt: Makoto Kelp publications
 comments: false
 ---
 
-* h-index: 13 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en))
+<!-- * h-index: 13 ([Google Scholar](https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en)) -->
 <!-- <br/> -->
-* Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page
+<!-- * Selected recorded seminars, general talks, and press can be found on my [Media](https://mkelp.github.io/presentations) page -->
 
 
 ## Submitted and Under Review (<u>advisee</u>)
@@ -36,10 +36,12 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
  
 ## **2025**
 
-`21.` **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh (2025). Effect of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States, *AGU Advances*, 6, e2025AV001682, DOI: 10.1029/2025AV001682  (In press) [preprint](https://eartharxiv.org/repository/view/8286/){:target="_blank"}
+`21.` **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh (2025). [Effect of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001682){:target="_blank"}, *AGU Advances*, 6, e2025AV001682, DOI: 10.1029/2025AV001682
+* Editor Pick from AGU Advances
 
 <br />
-`20.` <u>Chung, K.</u>, T. Liu, **M. Kelp**, K. Vohra, D. Skelly, M. Carroll, J. Schwartz, and L. Mickley (2025). Managing Smoke Risk from Wildland Fires: Northern California as a Case Study, *Environ. Sci. Technol.* (In press) [preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"}, [video demo](https://www.youtube.com/watch?v=P_yDMXj9R70&ab_channel=KarinaChung){:target="_blank"}
+`20.` <u>Chung, K.</u>, T. Liu, **M. Kelp**, K. Vohra, D. Skelly, M. Carroll, J. Schwartz, and L. Mickley (2025). [Managing Smoke Risk from Wildland Fires: Northern California as a Case Study](https://pubs.acs.org/doi/10.1021/acs.est.5c01914){:target="_blank"}, *Environ. Sci. Technol.*, DOI: 10.1021/acs.est.5c01914
+* [Video demo](https://www.youtube.com/watch?v=P_yDMXj9R70&ab_channel=KarinaChung){:target="_blank"}
 
 <br />
 `19.` Qiu, M., D. Chen, **M. Kelp**, J. Li, G. Huang, M.D. Yazdi (2025). [The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4){:target="_blank"}, *The Innovation*, Volume 6, Issue 5, DOI: 10.1016/j.xinn.2025.100835.
@@ -134,12 +136,12 @@ sensitivity analysis of key factors in the modeled global acetone budget](https:
 <br />
 
 
-# Other Publications
+<!-- # Other Publications
 
 `2.` **Kelp, M.**, 2023. "Expanding the Capabilities of Atmospheric Chemistry Models and Datasets Using Machine Learning and Data-Driven Methods", Harvard University [dissertation](https://www.proquest.com/docview/2821571494){:target="_blank"}
 
 `1.` **Kelp, M.**, 2016. “Tropospheric particle formation in forests: global modeling of secondary organic aerosol production from reaction of NO<sub>3</sub> radical with speciated monoterpenes”, \\
-Reed College [chemistry thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"}
+Reed College [chemistry thesis]({{ site.url }}/assets/mkelp_thesis_2016.pdf){:target="_blank"} -->
 
 
 <!-- # Presentations

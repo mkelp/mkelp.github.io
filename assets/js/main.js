@@ -1,7 +1,7 @@
 (() => {
   // Theme switch
   const body = document.body;
-  const lamp = document.getElementById("mode");
+  // const lamp = document.getElementById("mode");
 
   const toggleTheme = (state) => {
     if (state === "dark") {
@@ -15,9 +15,9 @@
     }
   };
 
-  lamp.addEventListener("click", () =>
-    toggleTheme(localStorage.getItem("theme"))
-  );
+  // lamp.addEventListener("click", () =>
+  //   toggleTheme(localStorage.getItem("theme"))
+  // );
 
   // Blur the content when the menu is open
   const cbox = document.getElementById("menu-trigger");

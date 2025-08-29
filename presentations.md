@@ -79,12 +79,13 @@ comments: false
 
 <br />
 
+<div style="font-size: 1.1em; margin-top: 1em;">
+  <p style="font-weight: bold;">Press Coverage:</p>
+  <p><a href="https://woods.stanford.edu/news/study-shows-controlled-burns-can-reduce-wildfire-intensity-and-smoke-pollution" target="_blank">Stanford Woods Institute Press Release</a>, <a href="https://abc7news.com/post/stanford-research-shows-effectiveness-prescribed-burns-reducing-wildfire-damage-toxic-smoke/17071512/" target="_blank">ABC7 News Bay Area</a>, <a href="https://thehill.com/policy/equilibrium-sustainability/5370740-prescribed-burns-wildfire-intensity-smoke-pollution-study/" target="_blank">The Hill</a>, <a href="https://cpaess.ucar.edu/news/new-research-noaa-cgc-fellow" target="_blank">UCAR feature</a>, <a href="https://www.boisestatepublicradio.org/environment/2025-08-01/prescribed-burning-wildfire-severity-smoke-emissions" target="_blank">Boise State Public Radio</a>, <a href="https://seas.harvard.edu/news/2025/06/where-theres-fire-theres-smoke" target="_blank">Press Release for Karina's paper</a>, <a href="https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer" target="_blank">Harvard SEAS Press Release</a>, <a href="https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)" target="_blank">Harvard Gazette</a>, <a href="https://www.kcra.com/article/cal-fire-researchers-see-the-proven-benefits-of-controlled-burning/44832195" target="_blank">KCRA Sacramento</a>, <a href="http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer" target="_blank">CBS Newspath</a>, <a href="https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html" target="_blank">Missoulian</a>, <a href="https://www.newscientist.com/article/2465494-setting-fire-to-a-million-acres-of-california-could-cut-smoke-by-half/" target="_blank">New Scientist</a>
 
-**Press**: [Press Release](https://seas.harvard.edu/news/2023/06/how-prescribed-burns-could-limit-megafires-california-oregon-and-washington?utm_content=buffer31c4b&utm_medium=social&utm_source=twitter.com&utm_campaign=Buffer%7D%7BPress){:target="_blank"}, [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/06/how-prescribed-burns-could-limit-megafires-in-u-s-west/?utm_source=SilverpopMailing&utm_medium=email&utm_campaign=Daily%20Gazette%2020230615%20(1)%7D%7BHarvard){:target="_blank"}, [KCRA Sacramento](https://www.kcra.com/article/cal-fire-researchers-see-the-proven-benefits-of-controlled-burning/44832195){:target="_blank"}, [CBS Newspath](http://www.newson6.com/story/64b03b31b48d07072d5e2e82/how-to-prevent-wildfire-smoke-scientists-say-more-fires-may-be-the-answer%7D%7BCBS){:target="_blank"}, [Missoulian](https://missoulian.com/news/local/more-fire-could-help-pacific-states/article_6d25a198-0f9d-11ee-a933-3f7779387b91.html){:target="_blank"}, [New Scientist](https://www.newscientist.com/article/2465494-setting-fire-to-a-million-acres-of-california-could-cut-smoke-by-half/){:target="_blank"}
 
-<!-- * **Media**: ["Cal Fire, researchers see the proven benefits of controlled burning"](https://www.youtube.com/watch?v=1TgKEtyJghU&ab_channel=KCRA3){:target="_blank"} -->
 <br />
-
+<br />
 
 <!-- ## Compressed Sensing for Atmospheric Monitoring -->
 <font size="+2">Compressed Sensing for Atmospheric Monitoring</font>
@@ -115,7 +116,7 @@ comments: false
 
 <!-- * **Talks**: [Royal Met. Society Atmospheric Chem. Special Interest Conference](https://youtu.be/AKomky52rPU?t=5561){:target="_blank"}, [NASA GISS](https://www.youtube.com/watch?v=0OK53zXPh5k&ab_channel=NASAGoddardInstituteforSpaceStudies){:target="_blank"} -->
 
-<br />
+<!-- <br /> -->
 
 <!-- #### * **Royal Meteorological Society Atmospheric Chemistry Special Interest Conference:** Atmospheric Chemistry and Data Science - The Final Frontier? -->
 
@@ -130,87 +131,41 @@ comments: false
 
 <br /> -->
 
+<div style="font-size: 1.1em; margin-top: 1em;">
+  <p style="font-weight: bold;">Press Coverage:</p>
+  <p><a href="https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning" target="_blank">Editor's Highlight from JAMES</a>
 
-
-**Press**: [Editor's Highlight from JAMES](https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning){:target="_blank"}
 
 <br />
+<br />
 
-
-
-
+<font size="+3"><p align="left"><strong>Guides</strong></p></font>
 <font size="+2">Comprehensive Guide to Applying for Tenure-Track Assistant Professor Positions in Environmental Sciences</font>
-[Link to guide](https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x){:target="_blank"}<br />
 
-<a href="https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x">
-  <img src="/assets/img/guide_thumb.png" alt="Job guide thumbnail" style="width: 100%; height: auto; max-width: 750px; cursor: pointer; display: block; margin: 0 auto;">
-</a>
+<div style="font-size: 1.1em; margin-top: 1em;">
+  <p>
+    <a href="https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x" target="_blank">
+      Link to Guide
+    </a>
+  </p>
+  <a href="https://docs.google.com/document/d/106kOZYCXFgAa-JgS1aK1K_VYGZdh7vBYbjbqQ9zw_7E/edit?tab=t.0#heading=h.3w3mmi29gv3x" target="_blank">
+    <img src="/assets/img/guide_thumb.png" alt="Job guide thumbnail" style="width: 100%; height: auto; max-width: 750px; cursor: pointer; display: block; margin: 0 auto;">
+  </a>
+</div>
 
 <br />
 
 <font size="+2">SMRT-Flames Tool and Demo</font>
-[Link to app](https://smoke-policy-tool.projects.earthengine.app/view/smrt-flames){:target="_blank"}, [Link to preprint](https://eartharxiv.org/repository/view/8537/){:target="_blank"} <br />
-The Smoke Management and Risk Tool: Fire-Land-Atmosphere Mapped Scenarios (SMRT-Flames) can be used to assess regional smoke exposure across the western United States and target areas where prescribed fires and other fire management approaches can yield the greatest benefit to air quality downwind. This work was led by star undergraduate Karina Chung and a demonstration of the app can be found below: 
+<div style="font-size: 1.0em; margin-top: 1em;">
+  <p>
+    <a href="https://smoke-policy-tool.projects.earthengine.app/view/smrt-flames" target="_blank">
+      Link to App
+  </a>, <a href="https://eartharxiv.org/repository/view/8537/" target="_blank">
+      Link to Preprint
+  </a>
+<br />
+The Smoke Management and Risk Tool: Fire-Land-Atmosphere Mapped Scenarios (SMRT-Flames) can be used to assess regional smoke exposure across the western US and target areas where prescribed fires and other fire management approaches can yield the greatest benefit to air quality downwind. This work was led by undergraduate Karina Chung with an app demo: 
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_yDMXj9R70?si=oqHBjWny9y2sp2Ys"  frameborder="0" allowfullscreen></iframe>
 </div>
-
-<!-- # Selected Conference Presentations -->
-
-<!-- A full list of presentations and invited talks may be found in my CV. -->
-
-<!-- ## **2023** -->
-<!-- `13.` **M. Kelp**, C. Chiu, Q. Zhu, and L.J. Mickley. Uncovering spatiotemporal drivers of urban ozone in changing NOx regimes: A data-driven case study of Los Angeles and Chicago. AGU Fall Meeting, San Francisco, CA, December 11,
-2023 ([Talk slides](/assets/mkelp_AGU2023.pdf){:target="_blank"})
-
-`12.` **M. Kelp**, C. A. Keller, K. Wargan, B.M. Karpowicz, and D. J. Jacob. Tropospheric ozone dataassimilation in the NASA GEOS Composition Forecast Modeling System GEOS-CF v2.0 including direct assimilation of thermal infra-red radiances. AMS Annual Meeting, Denver, CO, January 12,
-2023 ([Talk slides](/assets/AMS23_mkelp.pdf){:target="_blank"})
-
-## **2022**
-`11.` **M. Kelp**, T. Liu, and L.J. Mickley. Sensitivity of population-weighted smoke exposure towildfires in the western United States: implications for prescribed burning at the state level and in rural environmental justice communities. AGU Fall Meeting, Chicago, IL, December 14, 2022 ([Talk slides](/assets/mkelp_AGU_EJfires.pdf){:target="_blank"})
-
-`10.` **M. Kelp**, T. C. Fargiano, S. Lin, T. Liu, J. N. Kutz, and L.J. Mickley. Data-driven placement of PM2.5 air quality sensors in the United States: an approach to target urban environmental injustice. AGU Fall Meeting, Chicago, IL, December 12, 2022 ([Talk slides](/assets/mkelp_AGU_EJsensors.pdf){:target="_blank"})
-
-`9.` **M. Kelp**, D.J. Jacob, and H. Lin. An Online-Learned Neural Network Chemical Solver for Stable and Long-Term Global Simulations of Atmospheric Chemistry in S2S Applications. AMS Annual Meeting, January 26, 2022 ([Talk slides](/assets/mkelp_AMS2022.pdf){:target="_blank"})
-
-## **2021**
-
-`8.` **M. Kelp**, D.J. Jacob, and H. Lin. A recursive neural network chemical solver for fast long-term global
-simulations of atmospheric composition. AMS Annual Meeting, Virtual, January 13, 2021 ([Talk slides](/assets/mkelpAMS2021.pdf){:target="_blank"})
-
-## **2020**
-
-`7.` **M. Kelp**, J. N. Kutz, J.D. Marshall, and C. Tessum. Toward stable, general machine-learned
-models of the atmospheric chemical system. AGU Virtual Fall Meeting, December 7, 2020 (Talk)
-
-`6.` **M. Kelp** and D.J. Jacob. A recursive neural network chemical solver for fast long-term global
-simulations of atmospheric composition. Atmospheric Chemical Mechanisms Conference, Virtual,
-November 18, 2020 (Lightning Talk)
-
-## **2019**
-
-`5.` **M. Kelp**, J. N. Kutz, J.D. Marshall, and C. Tessum. Deep Learning Emulation and Compression
-of an Atmospheric Chemical System using a Chained Training Regime. AGU Fall Meeting, San
-Francisco, CA, December 13, 2019 ([Poster](/assets/mkelp_2019_agu_poster.pdf){:target="_blank"})
-
-## **2018**
-
-`4.` **M. Kelp**, C.W. Tessum, and J.D. Marshall. Orders-of-Magnitude Speedup in Atmospheric Chemistry
-Modeling through Neural Network-Based Emulation. AGU Fall Meeting, Washington D.C, December
-12, 2018 ([Poster](/assets/m_kelp_agu2018_poster.pdf){:target="_blank"})
-
-`3.` **M. Kelp**, A.P. Grieshop, C.O. Reynolds, J. Baumgartner, G. Jain, K. Sethuramanand, and J.D.
-Marshall. Investigating Health-Relevant Air Pollution Concentration Linkages Across Multiple Seasons During Indoor Cookstove Campaign in Rural India. ISES-ISEE Joint Annual Meeting, Ottawa, CA, August 25, 2018 ([Poster](/assets/m_kelp_isee_20180814.pdf){:target="_blank"})
-
-## **2016**
-
-`2.` **M. Kelp**, H.O.T. Pye, E.V. Fischer, J. Brewer, and J. Fry. Global Modeling of Secondary
-Organic Aerosol Production from Reaction of NO3 Radical with Speciated Monoterpenes. AAAR
-Annual Conference, Portland, OR, October 18, 2016 ([Poster](/assets/m_kelp_aaar2016_poster.pdf){:target="_blank"})
-
-## **2015**
-
-`1.` **M. Kelp**, J. Brewer, C. Keller, and E.V. Fischer. Evaluating the Potential Importance of
-Monoterpene Degradation for Global Acetone Production. AGU Fall Meeting, San Francisco, CA,
-December 16, 2015 ([Poster](/assets/m_kelp_agu2015_poster.pdf){:target="_blank"}) -->

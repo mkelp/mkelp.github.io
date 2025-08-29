@@ -1,5 +1,4 @@
 ---
-title: ''
 permalink: /research/
 layout: post
 comments: false
@@ -7,9 +6,7 @@ image: assets/img/badlands3.jpg
 class: research-page
 
 ---
-
 <!-- <font size="+3">Research Interests</font>
-
 <font size="+1">
   <p>My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to tackle complex challenges in air quality and wildfire smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
 </p>
@@ -21,7 +18,6 @@ class: research-page
 </div>
 
 <br /> -->
-
 
 <style>
   @media (min-width: 1024px) {
@@ -44,8 +40,28 @@ class: research-page
   }
 </style>
 
-
 <div class="research-page">
+
+
+<div align="center">
+  <h2><strong>Research Questions</strong></h2>
+</div> <div style="font-size: 1.2em; line-height: 1.6;">
+
+<p style="margin-bottom: 1.2em;">
+    Our work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. We are particularly interested in 
+    <em>leveraging innovative data science and machine learning techniques to tackle complex challenges in air quality modeling and wildfire smoke management.</em> 
+    We enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
+  </p>
+<br />
+  <!-- Inserted image (not sideways, full width with auto-scaling) -->
+  <div style="text-align: center; margin-top: 20px;">
+    <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="max-width: 100%; height: auto;">
+  </div>
+
+</div>
+
+
+
 
   <!-- <font size="+3">Research Interests</font>
 
@@ -53,60 +69,75 @@ class: research-page
     My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in <em>leveraging innovative data science and machine learning techniques to address complex challenges in air quality and wildfire land/smoke management.</em> I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
   </p> -->
 
-
-  <font size="+3">Research Areas</font>
+  <br />
+  <br />
+  <br />
+  
+  <div align="center">
+  <h2><strong>Research Areas</strong></h2>
+</div>
   <br />
 
   <div class="research-section">
-    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/rx_creek.jpeg" alt="Wildfire emissions" style="width: 100%;">
       <figcaption>Estimating the impact of prescribed fire on later wildfire burn severity using Sentinel-2A remote sensing data and land management records.</figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Wildfire, Prescribed Fire Smoke Modeling and Mitigation</p></font>
+      <font size="+2"><p><strong>Wildfire Smoke Modeling and Mitigation</strong></p></font>
       <p>
-        Due to a warming climate, a legacy of fire suppression, and expanding development into the wildland-urban interface (WUI), the western US has experienced a recent rise in extreme wildfire seasons. Wildfires not only damage ecosystems and infrastructure but also degrade air quality and pose serious public health risks from smoke exposure. Prescribed ("Rx") fire is often promoted as a policy solution in the western US, yet its use remains limited in practice and few studies have evaluated its effectiveness against wildfire impacts. My research is motivated by key gaps in our understanding: (1) we lack observational and modeling systems to accurately project how scaling Rx fire use would affect air quality and health outcomes in the western US; and (2) the efficacy of past Rx fire treatments remains poorly quantified across varied landscapes and fire seasons. It remains unclear whether expanding Rx burning will reduce wildfire risk or simply add to the smoke burden without preventing future fires. Some of my recent work shows that Rx fire treatments, while modestly effective, are frequently least successful in the WUI, a central focus of wildfire policy. Such findings highlight the limitations of current wildfire strategies and underscore the need for data-driven, policy-relevant approaches to guide the proposed expansion of Rx fire.
+        Due to a warming climate, a legacy of fire suppression, and expanding development into the wildland-urban interface (WUI), the western US has experienced a recent rise in extreme wildfire seasons. Wildfires not only damage ecosystems and infrastructure but also degrade air quality and pose serious public health risks from smoke exposure. Prescribed ("Rx") fire is often promoted as a policy solution in the western US, yet its use is limited in practice and few studies have evaluated its effectiveness against wildfire impacts. Our research is motivated by key gaps in our understanding: (1) we lack observational and modeling systems to accurately project how scaling Rx fire useage would affect air quality and health outcomes in the western US; and (2) the efficacy of past Rx fire treatments remains poorly quantified across varied landscapes and fire seasons. It is unclear whether expanding Rx burning will reduce wildfire risk or simply add to the smoke burden without preventing future fires. Some of our recent work shows that Rx fire treatments, while modestly effective, are frequently least successful in the WUI, a central focus of wildfire policy. Such findings highlight the limitations of current wildfire strategies and underscore the need for data-driven, policy-relevant approaches to guide the proposed expansion of Rx fire.
       </p>
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023) <em>Earth's Future</em></a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001682" target="_blank">Kelp et al., (2025) <em>AGU Adv.</em></a>, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023) <em>Earth's Future</em></a>
         <!-- <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>, -->
 
       </p>
+            <p>
+        <strong>Mentored Publications:</strong>
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c01914" target="_blank">Chung et al., (2025) <em>ES&T</em></a>,       </p>
       <p>
         <strong>Co-Authored Wildfire Publications:</strong>
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., (2024)</a>, 
         <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024)</a>
       </p>
+
+      <p>
+        <strong>Points for Policymakers:</strong>
+        <a href="https://makotokelp.com/assets/woods-prescribed-fire-rb.pdf" target="_blank">Prescribed fire research brief</a>
+      </p>
+
+
     </div>
   </div>
 
 <br />
 
   <div class="research-section">
-    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/ML_transformer.jpeg" alt="Machine-learned solver" style="width: 100%;">
       <figcaption>Deep learning chemical solver embedded in a 3-D global chemical transport model.</figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Deep Learning Atmospheric Chemistry</p></font>
+      <font size="+2"><p><strong>Deep Learning Atmospheric Chemistry</strong></p></font>
       <p>   
-        Ozone is a harmful surface pollutant to human health and an important greenhouse gas in the free troposphere. Despite being the longest- and most-measured trace gas in our observational record, global atmospheric models show wide disagreement in ozone’s spatial and temporal patterns and trends. The modeling of tropospheric ozone expresses the ultimate skill of a global model, as bias can be driven from any physical process: tropical emissions, nonlinear NOx-VOC chemistry, stratosphere-troposphere exchange, boundary layer mixing, or missing chemical mechanisms. Deep learning seems well-suited for atmospheric chemistry modeling because it can learn complex, non-obvious interactions in air pollution data and accelerate computations of chemical simulations. My past work explored how deep learning can emulate and replace computationally expensive components of global models for fast, stable simulations. My current research focuses on developing transformer-based architectures for improved spatial and temporal generalization, applying transfer learning from AI foundation models, and leveraging self-supervised training methods specialized for remote sensing data. These efforts aim to build accurate, stable, and physically consistent ML models to enable the simulation of comprehensive atmospheric chemistry in Earth System models and better understand the drivers of ozone bias.
+        Ozone is a pollutant that harms human health, damages vegetation, and acts as a short-lived climate forcer in the upper atmosphere. Despite being the most-measured trace gas in our observational record, global atmospheric models show wide disagreement in ozone’s spatial and temporal patterns and trends. The modeling of tropospheric ozone expresses the ultimate skill of a global atmospheric model, as bias can be driven from any physical process: emissions, nonlinear or missing chemistry, stratosphere-troposphere exchange, or boundary layer mixing. Deep learning seems well-suited for atmospheric chemistry modeling because it can learn complex, non-obvious interactions in air pollution data and accelerate computations of chemical simulations. Our past work explored how deep learning can emulate and replace computationally expensive components of global atmospheric models for fast, stable simulations. Our current research focuses on developing architectures for improved spatial and temporal generalization and applying transfer learning from AI foundation models. We aim to build physically consistent Large X Models (LxM) that enable the simulation of comprehensive atmospheric chemistry to better understand the drivers of ozone bias.
 
-        <!-- Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. My past work found that ML chemical solvers experience rapid error growth and become unstable over time. This challenge was addressed by introducing physical constraints into the ML architecture and training the ML solver online synchronously within the global atmospheric chemistry model. This approach enabled, for the first time, full-year global simulations of air quality using an embedded neural network solver. However, challenges remain in extending ML solvers to more complex chemical mechanisms and in reducing errors associated with long-term chemical aging. My ongoing research focuses on addressing these limitations by developing transformer-based architectures for improved spatial/temporal generalization, applying transfer learning from atmospheric AI foundation models, and leveraging self-supervised training algorithms specialized for remote sensing data. These efforts ultimately aim to develop accurate, stable, and physically consistent ML models to enable the simulation of comprehensive atmospheric chemistry in climate and Earth System models. -->
+        <!-- Global models of atmospheric chemistry are computationally expensive. The chemical solver that integrates the large-dimensional coupled systems of kinetic equations describing the chemical mechanism is a bottleneck. Machine learning (ML) could be transformative for reducing the cost of an atmospheric chemistry simulation by replacing the chemical solver with a faster emulator. Our past work found that ML chemical solvers experience rapid error growth and become unstable over time. This challenge was addressed by introducing physical constraints into the ML architecture and training the ML solver online synchronously within the global atmospheric chemistry model. This approach enabled, for the first time, full-year global simulations of air quality using an embedded neural network solver. However, challenges remain in extending ML solvers to more complex chemical mechanisms and in reducing errors associated with long-term chemical aging. Our ongoing research focuses on addressing these limitations by developing transformer-based architectures for improved spatial/temporal generalization, applying transfer learning from atmospheric AI foundation models, and leveraging self-supervised training algorithms specialized for remote sensing data. These efforts ultimately aim to develop accurate, stable, and physically consistent ML models to enable the simulation of comprehensive atmospheric chemistry in climate and Earth System models. -->
 
       </p>
       <p>
         <br />
         <strong>Publications:</strong> 
         <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022) <em>JAMES</em></a>, 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) <em>JGR: Atmospheres</em></a>,
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) <em>JGR: Atmos</em></a>,
         <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) <em>ArXiv</em></a>
 
       </p>
       <p>
-        <strong>Future Outlook Priorities of ML in Atmos Chem: </strong>
+        <strong>Future Outlook Priorities of AI in Air Quality: </strong>
         <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/" target="_blank">Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research</a>
       </p>
     </div>
@@ -115,19 +146,19 @@ class: research-page
 <br />
 
   <div class="research-section">
-    <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+    <figure style="padding: 10px; border-radius: 5px; flex: 0 0 50%;">
       <img src="/assets/img/sensors2.jpg" alt="PM2.5 sensor locations" style="width: 100%;">
-      <figcaption>Distribution of sensor locations in the EPA monitoring network compared to those identified as optimal by the compressed sensing (mrDMD) algorithm in the western US. </figcaption>
+      <figcaption>Distribution of sensor locations in the EPA monitoring network compared to those identified as optimal by compressed sensing (mrDMD) in the western US. </figcaption>
     </figure>
     <div class="research-content">
-      <font size="+2"><p>Data-Driven Air Pollution Sensing</p></font>
+      <font size="+2"><p><strong>Data-Driven Air Pollution Sensing</strong></p></font>
       <p>
-        Despite major investments in air quality (AQ) monitoring, existing sensor networks often fail to capture extreme air pollution. My research uses data-driven methods to improve the design of sensor networks, air quality forecasts, and environmental early warning systems. In one national-scale study, I applied compressed sensing algorithms, a signal processing method that uncovers key spatiotemporal patterns found in data, to determine optimal AQ sensor locations based on recent pollution trends. This analysis revealed major gaps in the current EPA's monitoring network across the western US, particularly in regions affected by wildfire smoke. In a related study, I incorporated equity constraints into the sensor network optimization to improve coverage in historically segregated neighborhoods in cities such as St. Louis and Houston. These approaches provide a foundation for rethinking how we design air quality monitoring networks to better capture extreme events and ensure more equitable coverage. At the same time, commercial platforms increasingly deliver AQ forecasts through proprietary systems, raising concerns about transparency and public accessibility. These systems are likely to become more prevalent in the coming decade due to the rapid commercialization of environmental data and advances in AI and cloud computing. In response, my research is guided by a set of core questions: What are the early warning signals of extreme air pollution (fires, inversions, smog)? Can open data outperform commercial forecasts? And can we learn more from air quality measurements than what is directly observed?
+        Despite major investments in air quality (AQ) monitoring, existing sensor networks often fail to capture extreme air pollution. Our research uses data-driven methods to improve the design of sensor networks, air quality forecasts, and environmental early warning systems. In one national-scale study, we applied compressed sensing algorithms, a signal processing method that uncovers key spatiotemporal patterns found in data, to determine optimal AQ sensor locations based on recent pollution trends. This analysis revealed major gaps in the current EPA's monitoring network across the western US, particularly in regions affected by wildfire smoke. In a related study, we incorporated equity constraints into the sensor network optimization to improve coverage in historically segregated neighborhoods in cities such as St. Louis and Houston. These approaches provide a foundation for rethinking how we design AQ monitoring networks to better capture extreme events and ensure more equitable coverage. At the same time, commercial platforms increasingly deliver AQ forecasts through proprietary systems, raising concerns about transparency and public accessibility. These systems are likely to become more prevalent in the coming decade due to the rapid commercialization of environmental data and advances in AI and cloud computing. In response, our research is guided by a set of core questions: What are the early warning signals of extreme air pollution (fires, inversions, smog)? Can open data outperform commercial forecasts? 
       </p>
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023) <em>GeoHealth</em></a>, 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023) <em>GeoHealth</em></a>, <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023) <em>ERL</em></a>, 
         <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022) <em>ERL</em></a>
       </p>
       <p>
@@ -269,6 +300,20 @@ class: research-page
 </div> -->  
 
 
+<!-- 
+ <h2><strong>Research Questions</strong></h2>
+ <div style="font-size: 1.2em; line-height: 1.6;">
 
+<p style="margin-bottom: 1.2em;">
+    My work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. I am particularly interested in 
+    <em>leveraging innovative data science and machine learning techniques to tackle complex challenges in air quality modeling and wildfire smoke management.</em> 
+    I enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
+  </p>
+<br />
+  Inserted image (not sideways, full width with auto-scaling)
+  <div style="text-align: center; margin-top: 20px;">
+    <img src="/assets/img/mkelp_group.jpeg" alt="Research group" style="max-width: 100%; height: auto;">
+  </div>
 
+</div> -->
 
