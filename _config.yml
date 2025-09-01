@@ -18,7 +18,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: >-
     Air Quality Data Science Group @ <img src="/assets/img/BlockU_favicon48.png" alt="U" style="height: 1em; vertical-align: middle;">
-  bio: "Applying data-driven science & machine learning to uncover new insights into air pollution, fires, and society."
+  bio: "Applying data-driven science & machine learning to uncover new insights into air pollution, fires, and policy."
   username: mkelp # general username
   github: mkelp # github username
   twitter: SOA_mazing # twitter username
