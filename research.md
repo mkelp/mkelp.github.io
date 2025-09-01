@@ -48,9 +48,7 @@ class: research-page
 </div> <div style="font-size: 1.2em; line-height: 1.6;">
 
 <p style="margin-bottom: 1.2em;">
-    Our work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. We are particularly interested in 
-    <em>leveraging innovative data science and machine learning techniques to tackle complex challenges in air quality modeling and wildfire smoke management.</em> 
-    We enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
+    Our work centers on advancing the understanding of atmospheric chemistry and its intersections with human and environmental systems. We are particularly interested in leveraging innovative data science and machine learning techniques to tackle complex challenges in air quality modeling and wildfire smoke management. We enjoy approaching problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
   </p>
 <br />
   <!-- Inserted image (not sideways, full width with auto-scaling) -->
