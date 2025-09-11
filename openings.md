@@ -43,8 +43,7 @@ comments: false
 
   <h2><strong>Postdocs</strong></h2>
   <p>
-    I currently do not have funding for a postdoc, but please reach out if you’re interested in applying for a fellowship or private funding with me. The Wilkes Center often has postdoctoral fellowship 
-    <a href="https://wilkescenter.utah.edu/funding-opportunities/" target="_blank">opportunities</a>.
+    I currently do not have funding for a postdoc, but the Wilkes Center will open its <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/" target="_blank">postdoctoral scholar fellowship</a> on November 1st, 2025. Applications are due January 31, 2026. I would be happy to serve as a faculty sponsor on projects focused on extreme air pollution, wildfires, and/or atmospheric chemistry using machine learning, satellites, and air quality modeling, and/or other tools!
   </p>
 
   <br>
