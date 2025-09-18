@@ -35,6 +35,7 @@ Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington,
 N.S. Diffenbaugh, M. Burke (2025). [Wildfire smoke exposure and mortality burden in the US under future climate
 change](https://www.nature.com/articles/s41586-025-09611-w){:target="_blank"}, *Nature*, DOI: 10.1038/s41586-025-09611-w
 
+<br />
 `21.` **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh (2025). [Effect of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001682){:target="_blank"}, *AGU Advances*, 6, e2025AV001682, DOI: 10.1029/2025AV001682
 * Editor Pick from AGU Advances
 
