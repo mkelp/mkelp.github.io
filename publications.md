@@ -21,11 +21,6 @@ Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of a
 Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) <br />
 * Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br /> 
 
-Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
-N.S. Diffenbaugh, M. Burke. Wildfire smoke exposure and mortality burden in the US under future climate
-change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:text=We%20project%20that%20climate%2Ddriven%20increases%20in%20future%20smoke%20PM2,deaths%20from%20wildfire%20smoke%20PM2.){:target="_blank"}
-
-
 
 <!-- # Publications In-Prep, Submitted, and Under Review -->
 
@@ -35,6 +30,10 @@ change. (In review) [preprint](https://eartharxiv.org/repository/view/6844/#:~:t
 <!-- \*\* undergraduate advisee -->
  
 ## **2025**
+
+`22.` Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
+N.S. Diffenbaugh, M. Burke (2025). [Wildfire smoke exposure and mortality burden in the US under future climate
+change](https://www.nature.com/articles/s41586-025-09611-w){:target="_blank"}, *Nature*, DOI: 10.1038/s41586-025-09611-w
 
 `21.` **Kelp, M.**, M. Burke, M. Qiu, I. Higuera-Mendieta, T. Liu, and N. Diffenbaugh (2025). [Effect of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001682){:target="_blank"}, *AGU Advances*, 6, e2025AV001682, DOI: 10.1029/2025AV001682
 * Editor Pick from AGU Advances
