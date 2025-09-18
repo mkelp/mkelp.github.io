@@ -96,6 +96,10 @@ comments: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kLwQu0Vt2mQ?start=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div style="font-size: 1.1em; margin-top: 1em;">
+  <p style="font-weight: bold;">Press Coverage:</p>
+  <p><a href="https://time.com/7315621/air-quality-outdoor-monitor-aqi/" target="_blank">Time Magazine</a>, <a href="https://cen.acs.org/environment/atmospheric-chemistry/US-air-pollution-monitoring-network/102/i33?sc=230901_cenrssfeed_eng_latestnewsrss_cen" target="_blank">Chemical and Engineering News</a>
+
 
 <!-- * **Talk**: [ACCESS XVII](https://youtu.be/kLwQu0Vt2mQ){:target="_blank"} -->
 
