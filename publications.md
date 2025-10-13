@@ -16,10 +16,7 @@ comments: false
 Li, Y., X. Jin, **M. Kelp**, H.Z. Sun, M. Qiu. Growing impacts of fire smoke on ozone pollution and associated
 mortality burden in the United States. (Submitted)
 
-Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of anthropogenic climate change in driving smoke exposure across the western United States from 1992 to 2020. (Submitted) [preprint](https://arxiv.org/abs/2412.03733){:target="_blank"}
-
-Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Submitted) [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) <br />
-* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br /> 
+Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, T. Liu. Large role of anthropogenic climate change in driving smoke exposure across the western United States from 1992 to 2020. (In review) [preprint](https://arxiv.org/abs/2412.03733){:target="_blank"}
 
 
 <!-- # Publications In-Prep, Submitted, and Under Review -->
@@ -31,6 +28,15 @@ Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington,
  
 ## **2025**
 
+`24.` **Kelp, M.**, S. Hickman, K. Miyazaki, K. Chang, P. Griffiths, Q. Zhu, G. Koren, F. Iglesias-Suarez, E. Pennington, and M.G. Schultz (2025). AI4O3: A Foundational Data Collection for Artificial Intelligence in Tropospheric Ozone Research. NeurIPS 2025 Workshop on AI4Science (Oral, Dataset Track) (Accepted)<br />
+* Dataset Proposal Competition Award Winner
+
+<br />
+`23.` Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Accepted), *Geosci. Model Dev.* [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) <br />
+* Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br />
+* Selected as Highlight Paper
+
+<br />
 `22.` Qiu, M., J. Li, C.F. Gould, R. Jing, **M. Kelp**, M.L. Childs, J. Wen, Y. Xie, M. Lin, M.V. Kiang, S. Heft-Neal,
 N.S. Diffenbaugh, M. Burke (2025). [Wildfire smoke exposure and mortality burden in the US under future climate
 change](https://www.nature.com/articles/s41586-025-09611-w){:target="_blank"}, *Nature*, DOI: 10.1038/s41586-025-09611-w
