@@ -11,12 +11,11 @@ comments: false
      style="width: 100%; max-height: 180px; object-fit: cover; display: block; margin-bottom: -0.5em;">
 
 
-
 <div style="font-size: 1.2em; line-height: 1.6;">
 
   <h2><strong>Why Utah?</strong></h2>
 <p style="margin-bottom: 1.2em;">
-    The University of Utah is a comprehensive R1 flagship university with easy access to research and recreational opportunities in the Rocky Mountains and spectacular National Parks. The Atmospheric Sciences department has a strong national reputation and is expanding its expertise in modern data science and artificial intelligence, now in a <a href="https://science.utah.edu/cos/where-inquiry-meets-impact/" target="_blank">brand new building!</a> Salt Lake City is a growing, high-tech, bike-friendly metropolitan area with vibrant cultural/entertainment amenities, an extensive transit system, a sunny, dry four-season climate and <a href="https://www.visitutah.com/articles/the-science-behind-the-greatest-snow-on-earth" target="_blank">"the Greatest Snow on Earth."</a> From an environmental science and policy perspective, few places offer such a unique opportunity to study the natural world in your backyard and contribute to solving today's most pressing environmental challenges.
+    The University of Utah is a comprehensive R1 flagship university with easy access to research and recreational opportunities in the Rocky Mountains and spectacular National Parks. The <a href="https://atmos.utah.edu/" target="_blank">Atmospheric Sciences department</a> has a strong national reputation and is expanding its expertise in modern data science and artificial intelligence, now in a <a href="https://science.utah.edu/cos/where-inquiry-meets-impact/" target="_blank">brand new building!</a> Salt Lake City is a growing, high-tech, bike-friendly metropolitan area with vibrant cultural/entertainment amenities, an extensive transit system, a sunny, dry four-season climate and <a href="https://www.visitutah.com/articles/the-science-behind-the-greatest-snow-on-earth" target="_blank">"the Greatest Snow on Earth."</a> From an environmental science and policy perspective, few places offer such a unique opportunity to study the natural world in your backyard and contribute to solving today's most pressing environmental challenges.
       </p>
 
   <h2><strong>Graduate Students</strong></h2>
