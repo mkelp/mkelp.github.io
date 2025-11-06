@@ -47,6 +47,7 @@ comments: false
   </p>
   <p>
     <strong>How to apply:</strong> <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/postdocapplicationprocess/" target="_blank">Link</a><br>
+     <strong>Other fellowships:</strong> <a href="https://rai.utah.edu/opportunities/postdoctoral-fellows/" target="_blank">One-U Responsible AI Postdoctoral Fellows Program</a><br>
  </p>
   <br>
 
