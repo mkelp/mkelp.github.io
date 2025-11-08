@@ -165,8 +165,8 @@ comments: false
   <p>
     <a href="https://smoke-policy-tool.projects.earthengine.app/view/smrt-flames" target="_blank">
       Link to App
-  </a>, <a href="https://eartharxiv.org/repository/view/8537/" target="_blank">
-      Link to Preprint
+  </a>, <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c01914" target="_blank">
+      Link to Paper
   </a>
 <br />
 The Smoke Management and Risk Tool: Fire-Land-Atmosphere Mapped Scenarios (SMRT-Flames) can be used to assess regional smoke exposure across the western US and target areas where prescribed fires and other fire management approaches can yield the greatest benefit to air quality downwind. This work was led by undergraduate Karina Chung with an app demo: 
