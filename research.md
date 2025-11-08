@@ -162,8 +162,8 @@ class: research-page
       </p>
       <p>
         <strong>Co-Authored Sensor Publications:</strong>
-        <a href="https://www.science.org/doi/full/10.1126/sciadv.adq1071" target="_blank">Kawano et al., (2025)</a>, 
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022)</a>
+        <a href="https://www.science.org/doi/full/10.1126/sciadv.adq1071" target="_blank">Kawano et al., (2025) <em>Sci. Adv.</em></a>, 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022) <em>ES&T</em></a>
       </p>
     </div>
   </div>
