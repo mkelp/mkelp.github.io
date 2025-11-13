@@ -60,6 +60,15 @@ comments: false
 <br />
 
 
+<font size="+2">Impact of controlled burns on wildfire and smoke</font>
+<font size="+1"><p align="left">CCascadia Wildfire and Urban Smoke Webinar </p></font>
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9uFau7RxyPA?si=GGGsnzVsyZSx4QDO" frameborder="0"  allowfullscreen></iframe>
+</div>
+<br />
+
+
+
 <font size="+1"><p align="left">Prescribed Burns as a Tool to Mitigate Future Wildfire Smoke Exposure</p></font>
 
 <div class="videoWrapper">
