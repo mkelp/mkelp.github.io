@@ -60,7 +60,6 @@ comments: false
 <br />
 
 
-<font size="+2">Impact of Controlled Burns on Wildfires and Smoke</font>
 <font size="+1"><p align="left">Cascadia Wildfire & Urban Smoke Webinar </p></font>
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9uFau7RxyPA?si=GGGsnzVsyZSx4QDO" frameborder="0"  allowfullscreen></iframe>
