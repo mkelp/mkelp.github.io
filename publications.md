@@ -32,7 +32,7 @@ mortality burden in the United States. (Submitted)
 * Dataset Proposal Competition Award Winner
 
 <br />
-`23.` Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu. Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research. (Accepted), *Geosci. Model Dev.* [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) <br />
+`23.` Hickman, S., **M. Kelp**, P. Griffiths, K. Doerksen, K. Miyazaki, E. Pennington, G. Koren, F. Iglesias-Suarez, M. Schultz, K. Chang, O.R. Cooper, A. Archibald, R. Sommariva, D. Carlson, H. Wang, J. West, and Z. Liu (2025) [Applications of Machine Learning and Artificial Intelligence in Tropospheric Ozone Research](https://gmd.copernicus.org/articles/18/8777/2025/){:target="_blank"}, *Geosci. Model Dev.*, 18, 8777–8800, DOI: 10.5194/gmd-18-8777-2025 <br />
 * Tropospheric Ozone Assessment Report Phase II (TOAR-II) Community Special Issue <br />
 * Selected as Highlight Paper
 
