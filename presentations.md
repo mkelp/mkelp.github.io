@@ -146,7 +146,7 @@ comments: false
 
 <div style="font-size: 1.1em; margin-top: 1em;">
   <p style="font-weight: bold;">Press Coverage:</p>
-  <p><a href="https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning" target="_blank">Editor's Highlight from JAMES</a>
+  <p><a href="https://eos.org/editor-highlights/accurate-and-fast-emulation-with-online-machine-learning" target="_blank">Editor's Highlight from JAMES</a>, <a href="https://blogs.egu.eu/divisions/as/2025/12/05/harnessing-machine-learning-to-advance-tropospheric-ozone-science/" target="_blank">EGU Highlight</a>
 
 
 <br />
