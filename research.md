@@ -136,7 +136,7 @@ class: research-page
 
       </p>
       <p>
-        <strong>Future Outlook Priorities of AI in Air Quality: </strong>
+        <strong>Future Priorities of AI in Air Quality: </strong>
         <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Applications of ML and AI in Tropospheric Ozone Research (2025)</a>
       </p>
     </div>
