@@ -42,12 +42,11 @@ comments: false
 
   <h2><strong>Postdocs</strong></h2>
   <p style="margin-bottom: 1.2em;">
-    I currently do not have funding for a postdoc, but the Wilkes Center will open its <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/" target="_blank">postdoctoral scholar fellowship</a> on November 1st, 2025. Applications are due January 31, 2026. I would be happy to serve as a faculty sponsor on research projects focused on extreme air pollution, wildfires, and/or atmospheric chemistry using machine learning, satellites, and air quality modeling, and/or other tools! Email me if you are interested in applying. 
+    I currently do not have funding for a postdoc, but the Wilkes Center will open its <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/" target="_blank">postdoctoral scholar fellowship</a> on November 1st, 2025. Applications are due January 31, 2026. I would be happy to serve as a faculty sponsor on research projects focused on extreme air pollution, wildfires, and/or atmospheric chemistry using machine learning, satellites, and air quality modeling, and/or other tools! Similarly, applications for the <a href="https://rai.utah.edu/" target="_blank">One-U Responsible AI</a> postdoc fellowship are due April 1, 2026. Email me if you are interested in applying. 
     
   </p>
   <p>
-    <strong>How to apply:</strong> <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/postdocapplicationprocess/" target="_blank">Link</a><br>
-     <strong>Other fellowships:</strong> <a href="https://rai.utah.edu/opportunities/postdoctoral-fellows/" target="_blank">One-U Responsible AI Postdoctoral Fellows Program</a><br>
+    <strong>How to apply:</strong> <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/postdocapplicationprocess/" target="_blank">Wilkes Climate Fellowship</a>, <a href="https://rai.utah.edu/opportunities/postdoctoral-fellows/" target="_blank">One-U Responsible AI Fellowship</a>
  </p>
   <br>
 
