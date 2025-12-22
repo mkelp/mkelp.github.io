@@ -48,9 +48,9 @@ comments: false
 <br />
 
 <font size="+2">Fires, Air Quality, and Health: Connections between air quality management, public health messaging, and personal interventions</font>
-<font size="+1"><p align="left">Health Effects Institute </p></font>
+<font size="+1"><p align="left">Health Effects Institute 2024 Annual Conference</p></font>
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kLV_-sA3vkU?si=YREAK5dvmnKeS8zS&amp;start=1075" frameborder="0"  allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kLV_-sA3vkU?si=YREAK5dvmnKeS8zS&amp;start=1073" frameborder="0"  allowfullscreen></iframe>
 </div>
 
 <br />
