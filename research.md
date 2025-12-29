@@ -98,7 +98,7 @@ class: research-page
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c01914" target="_blank">Chung et al., (2025) <em>ES&T</em></a>,       </p>
       <p>
         <strong>Co-Authored Wildfire Publications:</strong>
-        <a href="https://www.nature.com/articles/s41586-025-09611-w" target="_blank">Qiu et al., (2025) <em>Nature</em></a>, <a href="https://www.pnas.org/doi/10.1073/pnas.2421903122" target="_blank">Feng et al., (2025) <em>PNAS</em></a>, 
+        <a href="https://www.pnas.org/doi/10.1073/pnas.2421903122" target="_blank">Feng et al., (2025) <em>PNAS</em></a>, <a href="https://www.nature.com/articles/s41586-025-09611-w" target="_blank">Qiu et al., (2025) <em>Nature</em></a>, 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., (2024) <em>ES&T</em></a>, 
         <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024) <em>Int J Wildland Fire</em></a>
       </p>
@@ -137,7 +137,7 @@ class: research-page
       </p>
       <p>
         <strong>Future Priorities of AI in Air Quality: </strong>
-        <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Applications of ML and AI in Tropospheric Ozone Research (2025)</a>
+        <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Review/Perspective Paper on AI in Tropospheric Ozone Research (2025)</a>, <a href="https://openreview.net/forum?id=JuEZ5F8E3Z" target="_blank">NeurIPS AI4Science Workshop Winning Paper (2025)</a>
       </p>
     </div>
   </div>

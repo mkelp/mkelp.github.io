@@ -28,7 +28,7 @@ mortality burden in the United States. (Submitted)
 `25.` Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, and T. Liu (2025). [Large role of anthropogenic climate change in driving smoke concentrations across the western United States from 1992 to 2020](https://www.pnas.org/doi/10.1073/pnas.2421903122){:target="_blank"}, *PNAS*, 122 (49) e2421903122, DOI: 10.1073/pnas.2421903122
 
 <br />
-`24.` **Kelp, M.**, S. Hickman, K. Miyazaki, K. Chang, P. Griffiths, Q. Zhu, G. Koren, F. Iglesias-Suarez, E. Pennington, and M.G. Schultz (2025). AI4O3: A Foundational Data Collection for Artificial Intelligence in Tropospheric Ozone Research. NeurIPS 2025 Workshop on AI4Science (Oral, Dataset Track) (Accepted)<br />
+`24.` **Kelp, M.**, S. Hickman, K. Miyazaki, K. Chang, P. Griffiths, Q. Zhu, G. Koren, F. Iglesias-Suarez, E. Pennington, and M.G. Schultz (2025). [AI4O3: A Foundational Data Collection for Artificial Intelligence in Tropospheric Ozone Research](https://openreview.net/forum?id=JuEZ5F8E3Z){:target="_blank"}. *NeurIPS 2025 Workshop on AI4Science*, (Oral, Dataset Track)<br />
 * Dataset Proposal Competition Award Winner
 
 <br />
