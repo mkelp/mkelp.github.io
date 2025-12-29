@@ -89,18 +89,18 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001682" target="_blank">Kelp et al., (2025) <em>AGU Adv.</em></a>, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al., (2023) <em>Earth's Future</em></a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001682" target="_blank">Kelp et al. (2025) <em>AGU Adv.</em></a>, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003468" target="_blank">Kelp et al. (2023) <em>Earth's Future</em></a>
         <!-- <a href="https://eartharxiv.org/repository/view/8286/" target="_blank">Kelp et al., (preprint)</a>, -->
 
       </p>
             <p>
         <strong>Mentored Publications:</strong>
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c01914" target="_blank">Chung et al., (2025) <em>ES&T</em></a>,       </p>
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c01914" target="_blank">Chung et al. (2025) <em>ES&T</em></a>,       </p>
       <p>
         <strong>Co-Authored Wildfire Publications:</strong>
-        <a href="https://www.pnas.org/doi/10.1073/pnas.2421903122" target="_blank">Feng et al., (2025) <em>PNAS</em></a>, <a href="https://www.nature.com/articles/s41586-025-09611-w" target="_blank">Qiu et al., (2025) <em>Nature</em></a>, 
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al., (2024) <em>ES&T</em></a>, 
-        <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al., (2024) <em>Int J Wildland Fire</em></a>
+        <a href="https://www.pnas.org/doi/10.1073/pnas.2421903122" target="_blank">Feng et al. (2025) <em>PNAS</em></a>, <a href="https://www.nature.com/articles/s41586-025-09611-w" target="_blank">Qiu et al. (2025) <em>Nature</em></a>, 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al. (2024) <em>ES&T</em></a>, 
+        <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al. (2024) <em>Int J Wildland Fire</em></a>
       </p>
 
       <p>
@@ -130,14 +130,14 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al., (2022) <em>JAMES</em></a>, 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al., (2020) <em>JGR: Atmos</em></a>,
-        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al., (2018) <em>ArXiv</em></a>
+        <a href="https://doi.org/10.1029/2021MS002926" target="_blank">Kelp et al. (2022) <em>JAMES</em></a>, 
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032759" target="_blank">Kelp et al. (2020) <em>JGR: Atmos</em></a>,
+        <a href="https://arxiv.org/abs/1808.03874" target="_blank">Kelp et al. (2018) <em>ArXiv</em></a>
 
       </p>
       <p>
         <strong>Future Priorities of AI in Air Quality: </strong>
-        <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Review/Perspective Paper on AI in Tropospheric Ozone Research (2025)</a>, <a href="https://openreview.net/forum?id=JuEZ5F8E3Z" target="_blank">NeurIPS AI4Science Workshop Winning Paper (2025)</a>
+        <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Highlight Paper on AI for Tropospheric Ozone Research (2025)</a>, <a href="https://openreview.net/forum?id=JuEZ5F8E3Z" target="_blank">NeurIPS AI4Science Dataset Competition Winning Paper (2025)</a>
       </p>
     </div>
   </div>
@@ -157,13 +157,13 @@ class: research-page
       <p>
         <br />
         <strong>Publications:</strong> 
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al., (2023) <em>GeoHealth</em></a>, <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al., (2023) <em>ERL</em></a>, 
-        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al., (2022) <em>ERL</em></a>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000834" target="_blank">Kelp et al. (2023) <em>GeoHealth</em></a>, <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acf0b7" target="_blank">Kelp et al. (2023) <em>ERL</em></a>, 
+        <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac548f" target="_blank">Kelp et al. (2022) <em>ERL</em></a>
       </p>
       <p>
         <strong>Co-Authored Sensor Publications:</strong>
-        <a href="https://www.science.org/doi/full/10.1126/sciadv.adq1071" target="_blank">Kawano et al., (2025) <em>Sci. Adv.</em></a>, 
-        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al., (2022) <em>ES&T</em></a>
+        <a href="https://www.science.org/doi/full/10.1126/sciadv.adq1071" target="_blank">Kawano et al. (2025) <em>Sci. Adv.</em></a>, 
+        <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c07005" target="_blank">Yang et al. (2022) <em>ES&T</em></a>
       </p>
     </div>
   </div>
