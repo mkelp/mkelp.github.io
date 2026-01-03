@@ -62,7 +62,7 @@ comments: false
       <div style="font-size: 1.1em; margin-top: 1em;">
         <p style="font-weight: bold;">Email: <a href="mailto:makoto.kelp@utah.edu">makoto.kelp@utah.edu</a></p>
         <p><a href="{{ site.url }}/assets/mkelpCV.pdf" target="_blank">CV</a></p>
-        <p><a href="https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+        <p><a href="https://scholar.google.com/citations?user=WoGbT3IAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
         <p><a href="https://www.researchgate.net/profile/Makoto-Kelp?ev=hdr_xprf" target="_blank">ResearchGate</a></p>
         <p><a href="https://bsky.app/profile/soa-mazing.bsky.social" target="_blank">Bluesky</a></p>
       </div>
