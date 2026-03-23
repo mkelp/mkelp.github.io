@@ -24,8 +24,8 @@ comments: false
  
 
 ## **2026**
-Li, Y., X. Jin, **M. Kelp**, H.Z. Sun, M. Qiu. Growing impacts of fire smoke on ozone pollution and associated
-mortality burden in the United States. (Accepted at Science Advances)
+`26.` Li, Y., X. Jin, **M. Kelp**, H.Z. Sun, M. Qiu. Growing impacts of fire smoke on ozone pollution and associated
+mortality burden in the United States. (Accepted at *Science Advances*)
 <br />
 
 
