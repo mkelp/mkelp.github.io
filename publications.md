@@ -24,6 +24,9 @@ comments: false
  
 
 ## **2026**
+`27.` Liu, T., K. Otobe, and **M. Kelp** (2026). Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery. ISPRS Archives (Accepted)
+
+<br />
 `26.` Li, Y., X. Jin, **M. Kelp**, H.Z. Sun, M. Qiu. Growing impacts of fire smoke on ozone pollution and associated
 mortality burden in the United States. (Accepted at *Science Advances*)
 <br />
