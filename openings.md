@@ -20,7 +20,7 @@ comments: false
 
   <h2><strong>Graduate Students</strong></h2>
 <p style="margin-bottom: 1.2em;">
-    I am looking to recruit 1–2 Ph.D. students to start in Fall 2026. If you are interested, please fill out this 
+    I am finished looking for students for the 2026 admissions cycle. Funding dependent, I will take 1 Ph.D. student to start in Fall 2027. If you are interested, please fill out this 
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqEBiPIAmR_Z8QCnnMqawRzfaOiHk-PefpUfu5PyRv6Ztdg/viewform?usp=dialog" target="_blank">Google Form</a> 
     before you apply. My research interests and general research projects are found on the 
     <a href="{{ site.url }}/research/" target="_blank">research page</a>. I will email strong applicants to set up a brief Zoom meeting.
@@ -42,11 +42,11 @@ comments: false
 
   <h2><strong>Postdocs</strong></h2>
   <p style="margin-bottom: 1.2em;">
-    I currently do not have funding for a postdoc, but the Wilkes Center will open its <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/" target="_blank">postdoctoral scholar fellowship</a> on November 1st, 2025. Applications are due January 31, 2026. I would be happy to serve as a faculty sponsor on research projects focused on extreme air pollution, wildfires, and/or atmospheric chemistry using machine learning, satellites, and air quality modeling, and/or other tools! Similarly, applications for the <a href="https://rai.utah.edu/" target="_blank">One-U Responsible AI</a> postdoc fellowship are due April 1, 2026. Email me if you are interested in applying. 
-    
+    I currently do not have funding for a postdoc. In terms of fellowships internal to Utah, the next round of applications for the <a href="https://rai.utah.edu/" target="_blank">One-U Responsible AI</a> postdoc fellowship will be due on October 1, 2026. Email me if you are interested in applying. In terms of national fellowship programs, I would be happy to serve as a faculty sponsor on research projects focused on extreme air pollution, wildfires, and/or atmospheric chemistry using machine learning/AI, satellites, and air quality modeling.<!--     
+    , but the Wilkes Center will open its <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/" target="_blank">postdoctoral scholar fellowship</a> on November 1st, 2025. Applications are due January 31, 2026. I would be happy to serve as a faculty sponsor on research projects focused on extreme air pollution, wildfires, and/or atmospheric chemistry using machine learning, satellites, and air quality modeling, and/or other tools! Similarly, applications for the <a href="https://rai.utah.edu/" target="_blank">One-U Responsible AI</a> postdoc fellowship are due April 1, 2026. Email me if you are interested in applying.  -->
   </p>
   <p>
-    <strong>How to apply:</strong> <a href="https://wilkescenter.utah.edu/funding-opportunities/wilkes-center-postdoctoral-program/postdocapplicationprocess/" target="_blank">Wilkes Climate Fellowship</a>, <a href="https://rai.utah.edu/opportunities/postdoctoral-fellows/" target="_blank">One-U Responsible AI Fellowship</a>
+    <strong>How to apply:</strong> <a href="https://rai.utah.edu/opportunities/postdoctoral-fellows/" target="_blank">One-U Responsible AI Fellowship</a>
  </p>
   <br>
 
