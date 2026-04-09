@@ -20,7 +20,7 @@ comments: false
 
   <h2><strong>Graduate Students</strong></h2>
 <p style="margin-bottom: 1.2em;">
-    I am finished looking for students for the 2026 admissions cycle. Funding dependent, I will take 1 Ph.D. student to start in Fall 2027. If you are interested, please fill out this 
+    I am done looking for students for the 2026 admissions cycle. Funding dependent, I will take 1 Ph.D. student to start in Fall 2027. If you are interested, please fill out this 
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqEBiPIAmR_Z8QCnnMqawRzfaOiHk-PefpUfu5PyRv6Ztdg/viewform?usp=dialog" target="_blank">Google Form</a> 
     before you apply. My research interests and general research projects are found on the 
     <a href="{{ site.url }}/research/" target="_blank">research page</a>. I will email strong applicants to set up a brief Zoom meeting.
