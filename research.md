@@ -115,7 +115,7 @@ class: research-page
 <br />
 
   <div class="research-section">
-    <figure style="padding: 10px; border-radius: 5px; flex: 0 0 75%;">
+    <figure style="padding: 10px; border-radius: 5px; flex: 0 0 55%;">
       <img src="/assets/img/SAE.png" alt="Machine-learned solver" style="width: 100%;">
       <figcaption>Mechanistic interpretability of emerging atmospheric AI foundation models.</figcaption>
     </figure>
