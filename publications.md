@@ -15,11 +15,11 @@ comments: false
 
 
 
-# Publications In-Prep, Submitted, and Under Review
+<!-- # Publications In-Prep, Submitted, and Under Review -->
+# Publications Under Review
 
- Qiu, M., Y. Li, M. Childs, **M. Kelp**, X. Jin, G. Huang, M.D. Yazdi, Y. Wei, Y. Wang, and K. Chen. Wildfire smoke offsets decades of progress in reducing ozone exposure across the United States. [preprint](https://eartharxiv.org/repository/view/13151/){:target="_blank"}, (Submitted)
+ Qiu, M., Y. Li, M. Childs, **M. Kelp**, X. Jin, G. Huang, M.D. Yazdi, Y. Wei, Y. Wang, and K. Chen. Wildfire smoke offsets decades of progress in reducing ozone exposure across the United States, (Submitted). [preprint](https://eartharxiv.org/repository/view/13151/){:target="_blank"}
 
-<br />
 # Publications (<u>advisee</u>)
 
 <!-- \*\* undergraduate advisee -->
