@@ -48,7 +48,7 @@ class: research-page
 </div> <div style="font-size: 1.2em; line-height: 1.6;">
 
 <p style="margin-bottom: 1.2em;">
-    We aim to advance understanding of air quality and its intersections with human and environmental systems. Our work leverages innovative data science and machine learning techniques to tackle complex problems in air pollution modeling and wildfire smoke management. We look to approach problems from unique perspectives, uncovering insights through the exploration of unconventional methods and data sources.
+    We advance understanding of air quality and its connections to human and environmental systems. Using machine learning and data science as tools for scientific discovery, we tackle complex challenges in air pollution and wildfire smoke. Our work reveals new insights through innovative methods and unconventional data sources.
   </p>
 <br />
   <!-- Inserted image (not sideways, full width with auto-scaling) -->
