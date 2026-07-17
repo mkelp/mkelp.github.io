@@ -64,7 +64,7 @@ comments: false
         <p><a href="{{ site.url }}/assets/mkelpCV.pdf" target="_blank">CV</a></p>
         <p><a href="https://scholar.google.com/citations?user=jW7E7XAAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
         <p><a href="https://www.researchgate.net/profile/Makoto-Kelp?ev=hdr_xprf" target="_blank">ResearchGate</a></p>
-        <p><a href="https://bsky.app/profile/soa-mazing.bsky.social" target="_blank">Bluesky</a></p>
+        <!-- <p><a href="https://bsky.app/profile/soa-mazing.bsky.social" target="_blank">Bluesky</a></p> -->
       </div>
     </div> <!-- Close Makoto's .research-content -->
   </div> <!-- Close Makoto's .research-section -->
