@@ -23,7 +23,9 @@ comments: false
  Zhu, Q., T. Liu, and **M. Kelp**. Capturing Time-Resolved Prescribed Fire Emissions with TEMPO Special Observations, (Submitted). [preprint](https://eartharxiv.org/repository/view/13813/){:target="_blank"}
 
  <u>Hu, J.</u>, I. Higuera-Mendieta, P.O. Sturm, and **M. Kelp**. Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry, (Submitted). [preprint](https://arxiv.org/abs/2607.20778){:target="_blank"} 
-
+ 
+ **Kelp, M.**, M. Qiu, S. Heft-Neal, R. Sandoval, C. Schollaert, M. Marlier, M. Burke, and N. S. Diffenbaugh. Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California. (Submitted)
+ 
 # Publications (<u>advisee</u>)
 
 <!-- \*\* undergraduate advisee -->
