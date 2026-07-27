@@ -22,7 +22,7 @@ comments: false
 
  Zhu, Q., T. Liu, and **M. Kelp**. Capturing Time-Resolved Prescribed Fire Emissions with TEMPO Special Observations, (Submitted). [preprint](https://eartharxiv.org/repository/view/13813/){:target="_blank"}
 
- Hu, J., I. Higuera-Mendieta, P.O. Sturm, and **M. Kelp**. Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry, (Submitted). [preprint](https://arxiv.org/abs/2607.20778){:target="_blank"} 
+ <u>Hu, J.</u>, I. Higuera-Mendieta, P.O. Sturm, and **M. Kelp**. Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry, (Submitted). [preprint](https://arxiv.org/abs/2607.20778){:target="_blank"} 
 
 # Publications (<u>advisee</u>)
 
