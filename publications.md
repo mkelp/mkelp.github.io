@@ -32,7 +32,7 @@ comments: false
  
 
 ## **2026**
-`27.` Liu, T., K. Otobe, and **M. Kelp** (2026). Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery. ISPRS Archives (Accepted)
+`27.` Liu, T., K. Otobe, and **M. Kelp** (2026). [Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery](https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/987/2026/){:target="_blank"},  *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, XLIX-B3-2026, 987-993, DOI: 10.5194/isprs-archives-XLIX-B3-2026-987-2026
 
 <br />
 `26.` Li, Y., X. Jin, **M. Kelp**, H.Z. Sun, M. Qiu. [Growing impacts of fire smoke on ozone pollution and associated
