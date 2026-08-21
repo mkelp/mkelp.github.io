@@ -71,6 +71,32 @@ comments: false
 
   <br /><hr /><br />
 
+  <!-- Liam Thompson -->
+  <div class="research-section">
+    <figure style="padding: 10px; border-radius: 5px; flex: 0 0 50%;">
+      <img src="/assets/img/LiamThompson.jpeg" alt="Liam Thompson" style="width: 60%;">
+      <figcaption></figcaption>
+    </figure>
+
+    <div class="research-content">
+      <font size="+3"><p><strong>Liam Thompson</strong></p></font>
+      <div style="font-size: 1.2em; line-height: 1.7;">
+        <p>
+          Graduate Student, Atmospheric Sciences<br>
+          <br>
+          B.S., Meteorology, University of Oklahoma, 2026
+          </p>
+      </div>
+      <div style="font-size: 1.1em; margin-top: 1em;">
+        <p style="font-weight: bold;">Email: <a href="mailto:liam.thompson@utah.edu">liam.thompson@utah.edu</a></p>
+        <p><a href="https://docs.google.com/document/d/1-3vfsT2i7iZimpSVqwSOPdSQ2nYB_Y1l/edit?usp=sharing&ouid=105694676072425550484&rtpof=true&sd=true" target="_blank">CV</a></p>
+        <p><a href="https://scholar.google.com/citations?user=wCdxrF4AAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+      </div>
+    </div> <!-- Close Liam's .research-content -->
+  </div> <!-- Close Liam's .research-section -->
+
+  <br /><hr /><br />
+
   <!-- Future Team Member -->
   <div class="research-section">
     <!-- <figure style="border: 2px solid #fff; padding: 10px; border-radius: 5px; flex: 0 0 50%;">
