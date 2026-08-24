@@ -84,6 +84,8 @@ comments: false
         <p>
           Graduate Student, Atmospheric Sciences<br>
           <br>
+          NSF GRFP
+          <br>
           B.S., Meteorology, University of Oklahoma, 2026
           </p>
       </div>
