@@ -83,8 +83,7 @@ comments: false
       <div style="font-size: 1.2em; line-height: 1.7;">
         <p>
           Graduate Student, Atmospheric Sciences<br>
-          <br>
-          NSF GRFP
+          NSF GRFP <br>
           <br>
           B.S., Meteorology, University of Oklahoma, 2026
           </p>
