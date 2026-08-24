@@ -25,6 +25,9 @@ comments: false
  <u>Hu, J.</u>, I. Higuera-Mendieta, P.O. Sturm, and **M. Kelp**. Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry, (Submitted). [preprint](https://arxiv.org/abs/2607.20778){:target="_blank"} 
  
  **Kelp, M.**, M. Qiu, S. Heft-Neal, R. Sandoval, C. Schollaert, M. Marlier, M. Burke, and N. S. Diffenbaugh. Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California. (Submitted). [preprint](https://eartharxiv.org/repository/view/14116/){:target="_blank"}
+
+ **Kelp, M.**, A. Arzani, P. Castellanos, P. Griffiths, I. Higuera-Mendieta, M. Perez-Carrasco, V. Shah, P.O. Sturm, J. Weber (2026). Strategic Governance of AI Models in Earth Science. (Submitted for *Decadal Survey for Earth Science and Applications from Space 2028–2037*) [preprint](https://drive.google.com/file/d/1b_kfP_v5CXoj6DoxUgikfebIQM3hgLUl/view?usp=sharing){:target="_blank"}
+
  
 # Publications (<u>advisee</u>)
 
