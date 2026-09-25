@@ -39,7 +39,7 @@ comments: false
 
 <br />
 `26.` Li, Y., X. Jin, **M. Kelp**, H.Z. Sun, M. Qiu. [Growing impacts of fire smoke on ozone pollution and associated
-mortality burden in the United States](https://www.science.org/doi/10.1126/sciadv.aec2903){:target="_blank"}, *Science Advances*, 12, 18, DOI: sciadv.aec2903
+mortality burden in the United States](https://www.science.org/doi/10.1126/sciadv.aec2903){:target="_blank"}, *Science Advances*, 12, 18, DOI: 10.1126/sciadv.aec2903
 <br />
 
 
@@ -48,7 +48,7 @@ mortality burden in the United States](https://www.science.org/doi/10.1126/sciad
 `25.` Feng, X., L.J. Mickley, J.O. Kaplan, **M. Kelp**, Y. Li, and T. Liu (2025). [Large role of anthropogenic climate change in driving smoke concentrations across the western United States from 1992 to 2020](https://www.pnas.org/doi/10.1073/pnas.2421903122){:target="_blank"}, *PNAS*, 122 (49) e2421903122, DOI: 10.1073/pnas.2421903122
 
 <br />
-`24.` **Kelp, M.**, S. Hickman, K. Miyazaki, K. Chang, P. Griffiths, Q. Zhu, G. Koren, F. Iglesias-Suarez, E. Pennington, and M.G. Schultz (2025). [AI4O3: A Foundational Data Collection for Artificial Intelligence in Tropospheric Ozone Research](https://openreview.net/forum?id=JuEZ5F8E3Z){:target="_blank"}. *NeurIPS 2025 Workshop on AI4Science*, (Oral, Dataset Track)<br />
+`24.` **Kelp, M.**, S. Hickman, K. Miyazaki, K. Chang, P. Griffiths, Q. Zhu, G. Koren, F. Iglesias-Suarez, E. Pennington, and M.G. Schultz (2025). [AI4O3: A Foundational Data Collection for Artificial Intelligence in Tropospheric Ozone Research](https://openreview.net/forum?id=JuEZ5F8E3Z){:target="_blank"}. *NeurIPS 2025 Workshop on AI4Science*, (Oral, Dataset Track), https://openreview.net/forum?id=JuEZ5F8E3Z<br />
 * Dataset Proposal Competition Award Winner
 
 <br />
@@ -74,7 +74,7 @@ change](https://www.nature.com/articles/s41586-025-09611-w){:target="_blank"}, *
 
 <br />
 `18.` Kawano, A., **M. Kelp**, M. Qiu, K. Singh, E. Chaturvedi, I. Azevedo, and M. Burke (2025). [Improved daily PM<sub>2.5</sub>
-estimates in India reveal inequalities in recent enhancement of air quality](https://www.science.org/doi/full/10.1126/sciadv.adq1071){:target="_blank"}, *Science Advances*, 11, 4, DOI: sciadv.adq1071. 
+estimates in India reveal inequalities in recent enhancement of air quality](https://www.science.org/doi/full/10.1126/sciadv.adq1071){:target="_blank"}, *Science Advances*, 11, 4, DOI: 10.1126/sciadv.adq1071. 
 <br />
 
 ## **2024**
