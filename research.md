@@ -137,7 +137,7 @@ class: research-page
       </p>
       <p>
         <strong>Future Priorities of AI in Air Quality: </strong>
-        <a href="https://arxiv.org/abs/2610.10560" target="_blank">White paper on Governance of AI models in Earth Science (2026)</a>, <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Highlight Paper on AI for Tropospheric Ozone Research (2025)</a>, <a href="https://openreview.net/forum?id=JuEZ5F8E3Z" target="_blank">NeurIPS AI4Science Dataset Competition Winning Paper (2025)</a>
+        <a href="https://arxiv.org/abs/2610.10560" target="_blank">White Paper on Governance of AI Models in Earth Science (2026)</a>, <a href="https://gmd.copernicus.org/articles/18/8777/2025/" target="_blank">Highlight Paper on AI for Tropospheric Ozone Research (2025)</a>, <a href="https://openreview.net/forum?id=JuEZ5F8E3Z" target="_blank">NeurIPS AI4Science Dataset Competition Winning Paper (2025)</a>
       </p>
     </div>
   </div>
