@@ -31,7 +31,6 @@ comments: false
 
 <!-- \*\* undergraduate advisee -->
  
-
 ## **2026**
 `28.` **Kelp, M.**, A. Arzani, P. Castellanos, P. Griffiths, I. Higuera-Mendieta, M. Perez-Carrasco, V. Shah, P.O. Sturm, J. Weber (2026). [Strategic Governance of AI Models in Earth Science](https://arxiv.org/abs/2610.10560){:target="_blank"}, arXiv: 2610.10560.
 
