@@ -26,8 +26,6 @@ comments: false
  
  **Kelp, M.**, M. Qiu, S. Heft-Neal, R. Sandoval, C. Schollaert, M. Marlier, M. Burke, and N. S. Diffenbaugh. Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California. (Submitted). [preprint](https://eartharxiv.org/repository/view/14116/){:target="_blank"}
 
- **Kelp, M.**, A. Arzani, P. Castellanos, P. Griffiths, I. Higuera-Mendieta, M. Perez-Carrasco, V. Shah, P.O. Sturm, J. Weber (2026). Strategic Governance of AI Models in Earth Science. (Submitted for *Decadal Survey for Earth Science and Applications from Space 2028–2037*) [preprint](https://drive.google.com/file/d/1b_kfP_v5CXoj6DoxUgikfebIQM3hgLUl/view?usp=sharing){:target="_blank"}
-
  
 # Publications (<u>advisee</u>)
 
@@ -35,6 +33,9 @@ comments: false
  
 
 ## **2026**
+`28.` **Kelp, M.**, A. Arzani, P. Castellanos, P. Griffiths, I. Higuera-Mendieta, M. Perez-Carrasco, V. Shah, P.O. Sturm, J. Weber (2026). [Strategic Governance of AI Models in Earth Science](https://arxiv.org/abs/2610.10560){:target="_blank"}, arXiv: 2610.10560.
+
+<br />
 `27.` Liu, T., K. Otobe, and **M. Kelp** (2026). [Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery](https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/987/2026/){:target="_blank"},  *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, XLIX-B3-2026, 987-993, DOI: 10.5194/isprs-archives-XLIX-B3-2026-987-2026
 
 <br />
