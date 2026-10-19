@@ -18,6 +18,8 @@ comments: false
 <!-- # Publications In-Prep, Submitted, and Under Review -->
 # Publications Under Review
 
+Weber, J., and **M. Kelp**. Atmospheric Chemistry-Climate Modeling with an AI Foundation Model. (Submitted). [preprint](https://arxiv.org/abs/2610.22555){:target="_blank"}
+
  Qiu, M., Y. Li, M. Childs, **M. Kelp**, X. Jin, G. Huang, M.D. Yazdi, Y. Wei, Y. Wang, and K. Chen. Wildfire smoke offsets decades of progress in reducing ozone exposure across the United States, (Submitted). [preprint](https://eartharxiv.org/repository/view/13151/){:target="_blank"}
 
  Zhu, Q., T. Liu, and **M. Kelp**. Capturing Time-Resolved Prescribed Fire Emissions with TEMPO Special Observations, (Submitted). [preprint](https://eartharxiv.org/repository/view/13813/){:target="_blank"}
