@@ -99,7 +99,7 @@ class: research-page
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c01914" target="_blank">Chung et al. (2025) <em>ES&T</em></a>,       </p>
       <p>
         <strong>Co-Authored Wildfire Publications:</strong>
-        <a href="https://www.pnas.org/doi/10.1073/pnas.2421903122" target="_blank">Feng et al. (2025) <em>PNAS</em></a>, <a href="https://www.nature.com/articles/s41586-025-09611-w" target="_blank">Qiu et al. (2025) <em>Nature</em></a>, 
+        <a href="https://www.science.org/doi/10.1126/sciadv.aec2903" target="_blank">Li et al. (2026) <em>Sci. Adv.</em></a>, <a href="https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/987/2026/" target="_blank">Liu et al. (2026) <em>ISPRS Arch</em></a>, <a href="https://www.pnas.org/doi/10.1073/pnas.2421903122" target="_blank">Feng et al. (2025) <em>PNAS</em></a>, <a href="https://www.nature.com/articles/s41586-025-09611-w" target="_blank">Qiu et al. (2025) <em>Nature</em></a>, 
         <a href="https://pubs.acs.org/doi/10.1021/acs.est.4c05922" target="_blank">Qiu et al. (2024) <em>ES&T</em></a>, 
         <a href="https://www.publish.csiro.au/WF/WF23148" target="_blank">Liu et al. (2024) <em>Int J Wildland Fire</em></a>
       </p>
