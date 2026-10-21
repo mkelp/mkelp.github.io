@@ -71,12 +71,12 @@ $on-widescreen: 1152px;
 
 
 // Center the tagline on desktop, not on mobile
-.author-bio {
+.author .author-bio {
   text-align: center;
 }
 
 @media screen and (max-width: 768px) {
-  .author-bio {
+  .author .author-bio {
     text-align: left;
   }
 } 
