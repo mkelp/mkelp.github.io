@@ -70,14 +70,13 @@ $on-widescreen: 1152px;
   "klise/miscellaneous", "klise/syntax", "klise/dark";
 
 
-// Center the tagline above the mobile breakpoint
-@media screen and (min-width: 769px) {
-  .group-tagline {
-    display: block;
-    width: 100%;
-    text-align: center;
-  }
+// Center the tagline on desktop, not on mobile
+.author-bio {
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
   .author-bio {
-    text-align: center;
+    text-align: left;
   }
 } 
