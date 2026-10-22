@@ -85,7 +85,7 @@ class: research-page
       <font size="+2"><p><strong>Wildfire Smoke Modeling and Mitigation</strong></p></font>
       <p>
         <!-- Due to a warming climate, a legacy of fire suppression, and expanding development into the wildland-urban interface (WUI), the western US has experienced a recent rise in extreme wildfire seasons. Wildfires not only damage ecosystems and infrastructure but also degrade air quality and pose serious public health risks from smoke exposure.  -->
-        Prescribed fire is widely proposed to reduce wildfire impacts, but its benefits for air quality and health depend on where treatments occur and how they affect later fires. Our research examines how prescribed fire use affects air quality and health outcomes, and how treatment effectiveness can vary across landscapes and fire seasons. A primary question is under what conditions expanding prescribed burning reduces overall smoke exposure after accounting for emissions from the burns themselves. Some of our recent work shows that prescribed fire treatments reduce burn severity and smoke emissions, but are less effective in the wildland-urban interface, where homes meet wildland vegetation. 
+        Prescribed fire is widely proposed to reduce wildfire impacts, but its benefits for air quality and health depend on where treatments occur and how they affect later fires. Our research examines how prescribed fire use affects air quality and health outcomes, and how treatment effectiveness can vary across landscapes and fire seasons. A primary question is under what conditions expanding prescribed burning reduces overall smoke exposure after accounting for emissions from the burns themselves. Some of our recent work shows that prescribed fire treatments reduce burn severity and smoke emissions, but are less effective in the wildland-urban interface (WUI), where homes meet wildland vegetation. 
               </p>
       <p>
         <br />
@@ -106,7 +106,7 @@ class: research-page
 
       <p>
         <strong>Points for Policymakers:</strong>
-        <a href="https://makotokelp.com/assets/woods-prescribed-fire-rb.pdf" target="_blank">Prescribed fire research brief</a>, <a href="https://climateassessment.ca.gov/wp-content/uploads/CCCA5-LCI-Statewide-Summary-Report.pdf" target="_blank">California's Fifth Climate Change Assessment Report</a>
+        <a href="https://climateassessment.ca.gov/wp-content/uploads/CCCA5-LCI-Statewide-Summary-Report.pdf" target="_blank">California's Fifth Climate Change Assessment Report (2026)</a>, <a href="https://makotokelp.com/assets/woods-prescribed-fire-rb.pdf" target="_blank">Prescribed fire research brief (2025)</a>
       </p>
 
 
@@ -123,7 +123,7 @@ class: research-page
     <div class="research-content">
       <font size="+2"><p><strong>Deep Learning for Atmospheric Chemistry</strong></p></font>
       <p>   
-        Ozone is an air pollutant that harms human health, damages vegetation, and acts as a short-lived climate forcer. Despite extensive observations, global atmospheric models still disagree on even basic ozone trends and spatial patterns. Accurately predicting ozone requires capturing nearly every major process in the atmosphere (e.g., emissions, chemistry, stratosphere-troposphere exchange, boundary layer mixing). Few problems in geoscience are as well-observed and yet as difficult to predict, which makes ozone a particularly revealing test for AI. Our past work explored how AI methods can be used to emulate and replace computationally costly components of global atmospheric models for fast, stable simulations. Our current research probes what AI foundation models learn about atmospheric chemistry and the extent to which they can complement (or even substitute) conventional process-based models. We use mechanistic interpretability to identify and test the internal representations driving model predictions with the goal of diagnosing errors and improving physical consistency.
+        Ozone is an air pollutant that harms human health, damages vegetation, and acts as a short-lived climate forcer. Despite extensive observations, global atmospheric models still disagree on even basic ozone trends and spatial patterns. Accurately predicting ozone requires capturing nearly every major process in the atmosphere (e.g., emissions, chemistry, stratosphere-troposphere exchange, boundary layer mixing). Few problems in geoscience are as well-observed and yet as difficult to predict, which makes ozone a particularly revealing test for AI. Our past work explored how AI methods can be used to emulate and replace computationally costly components of global atmospheric models for fast, stable simulations. Our current research probes what AI foundation models learn about atmospheric chemistry and the extent to which they can complement (or even substitute) conventional process-based models. We use *mechanistic interpretability* to identify and test the internal representations driving AI model predictions with the goal of diagnosing errors and improving physical consistency.
         
         <!-- We work towards physically consistent foundation models that blend data-driven and mechanistic components to better diagnose what drives ozone bias (i.e., mechanistic interpretability).
 
