@@ -106,7 +106,7 @@ class: research-page
 
       <p>
         <strong>Points for Policymakers:</strong>
-        <a href="https://makotokelp.com/assets/woods-prescribed-fire-rb.pdf" target="_blank">Prescribed fire research brief</a>
+        <a href="https://makotokelp.com/assets/woods-prescribed-fire-rb.pdf" target="_blank">Prescribed fire research brief</a>, <a href="https://climateassessment.ca.gov/wp-content/uploads/CCCA5-LCI-Statewide-Summary-Report.pdf" target="_blank">California's Fifth Climate Change Assessment Report</a>
       </p>
 
 
