@@ -48,7 +48,7 @@ class: research-page
 </div> <div style="font-size: 1.2em; line-height: 1.6;">
 
 <p style="margin-bottom: 1.2em;">
-    We advance understanding of air quality and its connections to human and environmental systems. Using machine learning and physics-based computational modeling as tools for scientific discovery, we tackle complex challenges in air pollution and wildfire smoke. Our work aims to reveal new scientific insights through innovative methods and unconventional data sources.
+    We advance understanding of air quality and its connections to human and environmental systems. Using machine learning and computational modeling as tools for scientific discovery, we tackle complex challenges in air pollution and wildfire smoke. Our work aims to reveal new scientific insights through innovative methods and unconventional data sources.
   </p>
 <br />
   <!-- Inserted image (not sideways, full width with auto-scaling) -->
@@ -85,7 +85,7 @@ class: research-page
       <font size="+2"><p><strong>Wildfire Smoke Modeling and Mitigation</strong></p></font>
       <p>
         <!-- Due to a warming climate, a legacy of fire suppression, and expanding development into the wildland-urban interface (WUI), the western US has experienced a recent rise in extreme wildfire seasons. Wildfires not only damage ecosystems and infrastructure but also degrade air quality and pose serious public health risks from smoke exposure.  -->
-        Prescribed fire is widely proposed to reduce future wildfire impacts, but its effects on air quality and health depend on where treatments occur and how they might alter subsequent wildfires. Paradoxically, prescribed fires are regulated under the Clean Air Act while wildfires are excluded as 'exceptional events'—a regulatory structure that impedes the use of a potential tool for mitigating wildfire risk. Thus, a primary question is under what conditions can expanding prescribed burning reduce overall smoke exposure given that prescibed burns also emit smoke. Some of our recent work shows that prescribed fire treatments reduce burn severity and smoke emissions, but are less effective in the wildland-urban interface (WUI), where homes meet wildland vegetation. 
+        Prescribed fire is widely proposed to reduce future wildfire impacts, but its effects on air quality and health depend on where treatments occur and how they might alter subsequent wildfires. Perhaps paradoxically, prescribed fires are regulated under the Clean Air Act while wildfires are excluded as 'exceptional events'—a regulatory structure that impedes the use of a potential tool for mitigating wildfire risk. Thus, a primary question is under what conditions can expanding prescribed burning reduce overall smoke exposure given that prescibed burns also emit smoke? Some of our recent work shows that prescribed fire treatments reduce burn severity and smoke emissions, but are less effective in the wildland-urban interface (WUI), where homes meet wildland vegetation. 
               </p>
       <p>
         <br />
